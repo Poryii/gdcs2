@@ -38,7 +38,7 @@ Here's an example of this option being used in a level.
 
 {{< youtube id=LhLE9MqU_SQ start=24>}}
 
-*Keep in mind that both the Reverse trigger and option are useless in Platformer mode because you can freely move left and right as you please.*
+Keep in mind that both the Reverse trigger and option are useless in Platformer mode because you can freely move left and right as you please.
 
 # 3: Arrow Trigger
 
