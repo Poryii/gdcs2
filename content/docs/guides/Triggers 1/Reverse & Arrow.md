@@ -13,21 +13,21 @@ draft: false
 {{< /callout >}}
 
 ** **
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1ckqDhwTumt2IHfk_9efgvfXlxElffrf7/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1ckqDhwTumt2IHfk_9efgvfXlxElffrf7" >}}
 
 :ReverseTrigger: This is probably one of the simplest triggers in the game. Just place it down and the player goes backwards. However, it might be too simple that it also borders on useless. For example, placing two reverse triggers like below won’t work properly if you want the rightmost trigger to activate first:
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1LZSQMhF_gTwSB8JmeVJg3vc2noc-tC9R/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1LZSQMhF_gTwSB8JmeVJg3vc2noc-tC9R" >}}
 
 This is because the reverse trigger placed on the left activates first. While you can use the **Touch Triggered** option to make your gameplay, this will mess up the music playtest line unless you change the target channel using an arrow trigger, which will be explained in a later section.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1JMIa1kJAATksX-cCSvUuDM-4gWQ4-9An/preview?usp=drivesdk></iframe></div>
+{{< youtube cGpifgeiIX8 >}}
 
 # 2: Reverse Option
 
 Another way to change directions is enabling the **Reverse** option in the Edit Group tab’s extras menu. It makes jump pads & orbs [switch the direction](<https://www.youtube.com/watch?v=LhLE9MqU_SQ&t=24s>) you're going in with the only exceptions being Dash and Toggle orbs.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1408NOQrNn0eCfnkc01mnL4J_IDOuqn69/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1408NOQrNn0eCfnkc01mnL4J_IDOuqn69" >}}
 
 *Keep in mind that both the Reverse trigger and option are useless in platformer mode because you can freely move left and right as you please.*
 
@@ -37,7 +37,7 @@ The arrow trigger :ArrowTrigger: allows you to go in any direction, not just in 
 
 *If there are multiple arrow triggers without setting their target channels, the ones with the smaller X or Y value get activated first. This changes based on the rotation of the arrow trigger.*
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1MkrmEwBHsSegAE9jQD88SqgrLUe8mnKx/preview?usp=drivesdk></iframe></div>
+{{< img src="https://lh3.googleusercontent.com/d/1MkrmEwBHsSegAE9jQD88SqgrLUe8mnKx" >}}
 
 The features include the following:
 - Edit Velocity: Lets you edit the velocity when switching rotation.
@@ -46,17 +46,17 @@ The features include the following:
 - Change Channel: Changes the Channel to the number entered in the **Target Channel** box below.
  - To revert back to normal, place another trigger, go to Edit Group and set the channel in the bottom right corner to the one you have entered in the first trigger. Once you do that, click the Edit Object button and set the Target Channel to 0 as a reset.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Gdc6CFPChfEENMWQhO3j5rCOfrVdSy04/preview?usp=drivesdk></iframe></div>
+{{< youtube 8Z7hGnH-OwI >}}
 
 - Channel Only: Only changes the Channel and keeps the same direction.
 - Instant Offset: The camera updates instantly after changing directions.
 - Don’t Slide: Stops the sliding effect when you rotate gameplay in platformer mode.
 
-<div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1BHNYLUWBi6c3AqONHH44-wIjxNGMP0LZ/preview?usp=drivesdk></iframe></div>
+{{< youtube vdW8DkczH4o >}}
 
 Additionally, you can replace a gravity portal with this trigger. However, it is less intuitive because it's invisible.
 
-<div><iframe src=https://drive.google.com/file/d/1IWtT9Qci1hRIBLtsikB4OLb-cKs9ZnuS/preview?usp=drivesdk></iframe></div>
+{{< youtube SQiCS1G5UwU >}}
 
 # 4: Cool Gameplay Applications
 

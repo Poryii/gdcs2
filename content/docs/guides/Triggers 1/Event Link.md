@@ -11,11 +11,11 @@ draft: false
 {{< /callout >}}
 
 ** **
-The Event Link trigger :EventLinkTrigger: spawns a group if certain conditions are met. It allows you to detect up to 6 player inputs for building a controller. Before 2.2, we had to rely on quirky setups that were 3 times less efficient, but now we can achieve much more using only a few groups and little to no effort.
+The Event Link trigger {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}} spawns a group if certain conditions are met. It allows you to detect up to 6 player inputs for building a controller. Before 2.2, we had to rely on quirky setups that were 3 times less efficient, but now we can achieve much more using only a few groups and little to no effort.
 
 *NOTE: Event Link ONLY works as a Spawn trigger, not a Toggle trigger.*
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1NVPiP8oIrishMVNT5kGQOXkizjP068Ko" >}}
 
 Its features are as follows:
 
@@ -27,7 +27,7 @@ Its features are as follows:
  - 2 = Activated by P2
 - Select Event Menu:
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1ObGU6j7MxJKgOUBCmmFKMsoeYvZIJ-BX" >}}
 
 In the top right corner of the menu, there's a tablelist button that leads to another menu.
 

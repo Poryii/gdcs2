@@ -24,8 +24,7 @@ draft: false
 
 The +/- sliders next to “Scale” and “Rotation” is variance and will randomize their respective options’ values each attempt.
 
-<div><iframe src=https://drive.google.com/file/d/1cLuyN1tQCa28qLF2SiodeL8LP5qRYMDx/preview?usp=drivesdk></iframe></div>
-
+{{< youtube rv8ACa8Km5I >}}
 
 
 
