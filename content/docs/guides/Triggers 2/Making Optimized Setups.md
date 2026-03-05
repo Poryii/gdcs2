@@ -3,7 +3,7 @@ title: Making Optimized Setups
 weight: 615
 contributors:
 - ChuckOlate
-- eggyolk
+- ibra
 - TheMilkCat
 draft: false
 math: true
