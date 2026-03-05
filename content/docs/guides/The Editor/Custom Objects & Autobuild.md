@@ -3,8 +3,13 @@ title: Custom Objects & Autobuild
 weight: 114
 contributors:
 - NotAModerator
-- TDP9
 draft: false
+
+seo:
+  title: "Custom Objects and Autobuild in Geometry Dash" # custom title (optional)
+  description: "How to use the Custom Object tab and the Autobuild system in Geometry Dash." # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  noindex: false # false (default) or true
 ---
 
 ## TLDR - What this guide covers

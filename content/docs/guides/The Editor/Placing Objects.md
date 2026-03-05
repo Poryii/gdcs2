@@ -2,6 +2,8 @@
 title: Placing Objects
 description: "A basic guide to the most important features in the GD Editor."
 weight: 101
+contributors:
+- koma5
 draft: false
 
 seo:

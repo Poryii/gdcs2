@@ -4,6 +4,12 @@ weight: 616
 contributors:
 - ibra
 draft: false
+
+seo:
+  title: "How to Make Minigame Controls in Geometry Dash" # custom title (optional)
+  description: "A complete guide to creating custom controls for a Geometry Dash level." # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  noindex: false # false (default) or true
 ---
 {{< callout context="caution" title="Incomplete guide" icon="outline/info-circle" >}}
 This guide is missing the following:
@@ -12,13 +18,13 @@ This guide is missing the following:
 {{< /callout >}}
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
-- While Geometry Dash offers a limited number of usable keys, it is possible to add more actions to your level using various trigger setups
-- However, you should always keep in mind that your control scheme must feel intuitive and easy to learn
+- While Geometry Dash offers a limited number of usable keys, it is possible to add more actions to your level using various trigger setups.
+- However, you should always keep in mind that your control scheme must feel intuitive and easy to learn.
 
 {{< /callout >}}
 
 {{< callout context="tip" title="Note" icon="outline/circle-plus" >}}
-This guide contains interactive images; you can click or hover over elements to learn more about them
+This guide contains interactive images; you can click or hover over elements to learn more about them.
 {{< /callout >}}
 
 ** **

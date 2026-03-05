@@ -5,6 +5,12 @@ contributors:
 - naem
 - NotAModerator
 draft: false
+
+seo:
+  title: "How to Use Keys in Geometry Dash" # custom title (optional)
+  description: "A full explanation of collectable objects in Geometry Dash, such as keys and coins." # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  noindex: false # false (default) or true
 ---
 
 ## TLDR - What this guide covers

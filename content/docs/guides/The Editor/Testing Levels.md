@@ -3,14 +3,22 @@ title: Testing Levels
 weight: 116
 contributors:
 - Madzz
-- sovereign
+- illusion2
 draft: false
+
+seo:
+  title: "How to Playtest a Geometry Dash Level" # custom title (optional)
+  description: "A short explanation of the GD editor's playtesting features." # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  noindex: false # false (default) or true
 ---
 
-## TLDR - What this guide covers
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The editor playtest allows you to play your level within the editor and music playtest enables you to hear the music.
 - The editor pause menu contains a variety of options that improves your experience when playtesting your level.
 - The Show Info Label enables you to see the level’s status (normal, audio-related, performance-related and area-related descriptions) whilst playing the level.
+
+{{< /callout >}}
 
 ** **
 
