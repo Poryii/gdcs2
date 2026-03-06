@@ -7,8 +7,8 @@ contributors:
 draft: false
 
 seo:
-  title: "How to Choose a Song in Geometry Dash" # custom title (optional)
-  description: "A short guide to choosing a song for your Geometry Dash level, using Newgrounds, the Music Library, and NONG file replacement." # custom description (recommended)
+  title: "Every Type of Static Object in Geometry Dash" # custom title (optional)
+  description: "A short explanation of static objects, such as blocks, spikes, and slopes." # custom description (recommended)
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---

@@ -3,14 +3,26 @@ title: Using Channels
 weight: 118
 contributors:
 - illusion2
+<<<<<<< HEAD
 - vexilo5
+=======
+- Vexilo
+>>>>>>> upstream/main
 draft: false
+
+seo:
+  title: "How to Use Channels in Geometry Dash" # custom title (optional)
+  description: "Trigger Order, Trigger Channels, and Color Channels are often misunderstood. This guide explains what they do and how to use them properly." # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  noindex: false # false (default) or true
 ---
 
-## TLDR - What this guide covers
-- Color channels are important devices to color objects. You can edit your object’s colors by clicking :EditObject:.
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- Color channels are important devices to color objects. You can edit your object’s colors by clicking on Edit Object.
 - Trigger Order is an important mechanic used to make your gameplay go in order when working with arrow triggers, speed changes, and more.
 - Trigger Channels are used in order to make sure your triggers activate correctly if you’re using arrow triggers.
+
+{{< /callout >}}
 
 ** **
 

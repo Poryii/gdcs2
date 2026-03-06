@@ -5,13 +5,21 @@ contributors:
 - komatic5
 - sparktwee
 draft: false
+
+seo:
+  title: "How to Upload a Geometry Dash Level" # custom title (optional)
+  description: "An explanation of every feature you can use when uploading a GD level." # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  noindex: false # false (default) or true
 ---
 
-## TLDR - What this guide covers
-- > • When you’re on the main level page, you can use the rightmost button to upload your level.
-- > • The level name and description can be set on this main page. Once you complete this, you must verify your level and all its coins.
-- > • You can set your level so everyone can view it, or only people with the level ID. You can also request a difficulty for the level.
-- > • Levels that were copied from other levels have a C tag, while high-object levels have a :RedPlus: tag.
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- When you’re on the main level page, you can use the rightmost button to upload your level.
+- The level name and description can be set on this main page. Once you complete this, you must verify your level and all its coins.
+- You can set your level so everyone can view it, or only people with the level ID. You can also request a difficulty for the level.
+- Levels that were copied from other levels have a C tag, while high-object levels have a red Plus tag.
+
+{{< /callout >}}
 
 ** **
 

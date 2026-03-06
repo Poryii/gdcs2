@@ -2,17 +2,29 @@
 title: Object Types
 weight: 108
 contributors:
+<<<<<<< HEAD
 - sparktwee
+=======
+- Selena
+>>>>>>> upstream/main
 - illusion2
 draft: false
+
+seo:
+  title: "Every Type of Object in Geometry Dash" # custom title (optional)
+  description: "Do you struggle to find objects in the Geometry Dash editor? This guide explains how to find them faster." # custom description (recommended)
+  canonical: "" # custom canonical URL (optional)
+  noindex: false # false (default) or true
 ---
 
-## TLDR - What this guide covers
-- The Build Tab has 14 different tabs that contain lots of different object types
-- These object types can be divided into 6 categories that have different uses
-- Most objects can be put into general tilesets, especially blocks
-- Out of the 6 categories, Detail Objects contain the most objects
-- It’s easy to get intimidated by the amount of detail objects when you decorate, so take things slowly
+{{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+- The Build Tab has 14 different tabs that contain lots of different object types.
+- These object types can be divided into 6 categories that have different uses.
+- Most objects can be put into general tilesets, especially blocks.
+- Out of the 6 categories, Detail Objects contain the most objects.
+- It’s easy to get intimidated by the amount of detail objects when you decorate, so take things slowly.
+
+{{< /callout >}}
 
 ** **
 

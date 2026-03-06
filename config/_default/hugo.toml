@@ -69,7 +69,7 @@ copyRight = "Copyright (c) 2026 Geometry Dash Creator School"
 # docs = "/docs/1.0/:sections[1:]/:slug/"
 
 [frontmatter]
-  lastmod = ["lastmod", ":git", "date", "publishDate"]
+  lastmod = ["lastmod", ":git", ":fileModTime", "date", "publishDate"]
 
 [minify.tdewolff.html]
   keepWhitespace = false

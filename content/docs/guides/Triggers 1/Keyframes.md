@@ -3,8 +3,13 @@ title: Keyframes
 weight: 311
 date: 2024-05-15
 contributors:
+<<<<<<< HEAD
 - theibra
 - komatic5
+=======
+- ibra
+- koma5
+>>>>>>> upstream/main
 draft: false
 ---
 
@@ -183,4 +188,3 @@ Now that we understand how the keyframe system works, we can use it to create a 
 {{< img src="https://lh3.googleusercontent.com/d/1iUNUBOvKVN8JJnvGmGfC6aPBPZ2UWwlj" >}}
 
 We have now created a simple bouncing ball animation. You can play around with the values used to fit your needs.
-
