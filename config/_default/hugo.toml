@@ -20,13 +20,22 @@ copyRight = "Copyright (c) 2026 Geometry Dash Creator School"
 [build.buildStats]
   enable = true
 
+[mediaTypes."text/netlify"]
+  suffixes = [""]
+
 [outputs]
-  home = ["HTML", "RSS", "searchIndex"]
+  home = ["HTML", "RSS", "searchIndex", "redirects"]
   section = ["HTML", "RSS", "SITEMAP"]
 
 [outputFormats.searchIndex]
   mediaType = "application/json"
   baseName = "search-index"
+  isPlainText = true
+  notAlternative = true
+
+[outputFormats.redirects]
+  mediaType = "text/netlify"
+  baseName = "_redirects"
   isPlainText = true
   notAlternative = true
 

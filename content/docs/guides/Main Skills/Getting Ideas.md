@@ -2,8 +2,8 @@
 title: Getting Ideas
 weight: 201
 contributors:
-- Selena
-- Vexilo
+- sparktwee
+- vexilo5
 draft: false
 ---
 

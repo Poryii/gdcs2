@@ -1,11 +1,12 @@
 ---
 title: Camera Simulation (2.1)
 weight: 619
+date: 2024-04-20
 contributors:
-- Chunlv1
-- koma5
-- Selena
-- Unknown
+- chunlv1
+- komatic5
+- sparktwee
+- zvleus1487
 draft: false
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Making Platformer Gameplay
 weight: 419
+date: 2025-03-31
 contributors:
-- NotAModerator
-- those
+- notamoderatr
+- styphontv
 draft: false
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: BPM
 weight: 316
+date: 2024-01-21
 contributors:
-- koma5
-- Mycelium
+- komatic5
+- myceliumdev
 draft: false
 ---
-
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - The BPM trigger lets you accurately make guidelines for your song, which is helpful for syncing gameplay properly.
@@ -17,7 +17,7 @@ draft: false
 ** **
 # 1: BPM Trigger
 
-Place down the {{< img src="images/GDEmotes/Triggers/BPMTrigger.png" class="emote">}} BPM Trigger and go to {{< img src="images/GDEmotes/Buttons/EditObject.png" class="emote">}} Edit Object. You should see this menu:
+Place down the {{< img src="images/GDEmotes/Triggers/BPM.png" class="emote">}} BPM Trigger and go to {{< img src="images/GDEmotes/Buttons/EditObject.png" class="emote">}} Edit Object. You should see this menu:
 
 {{< img src="https://lh3.googleusercontent.com/d/1eXp_TaIdbOEhPRh5So0-VuSAS1KAxqeR" >}}
 

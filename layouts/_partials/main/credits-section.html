@@ -5,13 +5,13 @@
 <h1>Credits</h1>
 <p></p>
 Created by
-{{ $contributors := . }}
+{{- $contributors := partial "get-sorted-contributors.html" (dict "collection" . "context" $) -}}
+
 {{- range $index, $contributor := $contributors -}}
   {{- if gt $index 0 -}}
     {{- if eq $index (sub (len $contributors) 1) }} and {{ else }}, {{ end -}}
-  {{- end -}}
-  {{- $contributor := trim $contributor " " -}}
-    <a href='/contributors/{{- $contributor | lower -}}' target='_blank' rel='noopener'>@{{- $contributor -}}</a>
+  {{- end }}
+  <a href='/contributors/{{- $contributor.username | lower -}}' target='_blank' rel='noopener'>@{{- $contributor.displayname -}}</a>
   {{- end -}}.
   </p>
 {{ end }}

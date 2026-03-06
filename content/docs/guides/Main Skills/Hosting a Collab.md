@@ -2,7 +2,7 @@
 title: Hosting a Collab
 weight: 214
 contributors:
-- koma5
+- komatic5
 draft: false
 ---
 

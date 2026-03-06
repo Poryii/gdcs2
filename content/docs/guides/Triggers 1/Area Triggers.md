@@ -1,9 +1,10 @@
 ---
 title: Area Triggers
 weight: 318
+date: 2024-04-03
 contributors:
-- koma5
-- naem
+- komatic5
+- naem.less
 draft: false
 ---
 

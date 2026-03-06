@@ -1,9 +1,10 @@
 ---
 title: Mechanics 2 (Gameplay Loops)
 weight: 702
+date: 2023-12-26
 contributors:
 - etherail
-- koma5
+- komatic5
 draft: false
 ---
 

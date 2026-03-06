@@ -2,8 +2,8 @@
 title: Fill 2
 weight: 505
 contributors:
-- koma5
-- ThunderBat
+- komatic5
+- .thunderbat
 draft: false
 ---
 

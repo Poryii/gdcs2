@@ -1,9 +1,10 @@
 ---
 title: Alpha
 weight: 305
+date: 2024-01-08
 contributors:
-- Electrify
-- MASKLER
+- electrifyxd
+- crepeerpro244
 draft: false
 ---
 

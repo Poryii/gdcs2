@@ -1,9 +1,10 @@
 ---
 title: Stop
 weight: 341
+date: 2023-04-30
 contributors:
-- Half-Cooked Ramen
-- TDP9
+- halfcookedramen
+- tdp9
 draft: false
 ---
 

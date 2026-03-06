@@ -1,8 +1,9 @@
 ---
 title: Advanced Movements (2.1)
 weight: 621
+date: 2024-04-19
 contributors:
-- koma5
+- komatic5
 draft: true
 ---
 

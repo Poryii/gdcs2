@@ -1,9 +1,10 @@
 ---
 title: Random & Advanced Random
 weight: 340
+date: 2023-04-07
 contributors:
-- koma5
-- TheMilkCat
+- komatic5
+- themilkcat_tmc
 draft: false
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Screen Filters
 weight: 322
+date: 2024-03-11
 contributors:
-- DangerChampion
-- TDP9
+- .tv_box.
+- tdp9
 draft: false
 ---
 

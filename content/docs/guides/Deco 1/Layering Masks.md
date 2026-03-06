@@ -1,8 +1,9 @@
 ---
 title: Layering Masks
 weight: 515
+date: 2023-10-13
 contributors:
-- ThunderBat
+- .thunderbat
 - Unknown
 draft: false
 ---

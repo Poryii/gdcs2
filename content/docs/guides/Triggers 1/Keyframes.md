@@ -1,9 +1,10 @@
 ---
 title: Keyframes
 weight: 311
+date: 2024-05-15
 contributors:
-- ibra
-- koma5
+- theibra
+- komatic5
 draft: false
 ---
 

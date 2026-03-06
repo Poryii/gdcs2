@@ -1,9 +1,10 @@
 ---
 title: Progression
 weight: 722
+date: 2023-06-26
 contributors:
-- Half-Cooked Ramen
-- koma5
+- halfcookedramen
+- komatic5
 draft: true
 ---
 

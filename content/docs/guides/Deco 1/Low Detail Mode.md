@@ -1,9 +1,12 @@
 ---
 title: Low Detail Mode
 weight: 519
+date: 2025-06-29
 contributors:
-- Selena
-- Unknown
+- averageundertalefan
+- creeperiv
+- komatic5
+- sparktwee
 draft: true
 ---
 
@@ -47,7 +50,7 @@ These features snowballed to Updates 2.1 and 2.2 where players grew more concern
 
 **Low Detail Mode** (LDM) __gives the player an option to limit the amount of visuals in a level to improve its performance and playability__. This is especially useful for lower-end devices. As of 2.2, there are 2 methods of doing LDM: Ticking High Detail and using Toggle Triggers.
 
-## 1a) High Detail
+## 1a High Detail
 
 You can tick High Detail in the Edit Group’s Extra tab in order to make an object disappear in low detail mode.
 
@@ -55,7 +58,7 @@ With that said, you can make objects only appear in Low Detail Mode if you set a
 
 <div style="width: fit-content; height: fit-content"><iframe src=https://drive.google.com/file/d/1Sql4eDH7lWR5jxmzZSsUyn_xllBBIg1q/preview?usp=drivesdk></iframe></div>
 
-## 1b) Toggles
+## 1b Toggles
 
 If High Detail is too unintuitive to use, you can create your own custom LDM with toggle triggers.
 
@@ -112,11 +115,11 @@ While there are curved objects available in the editor, sometimes they might not
 
 ## Common Methods
 
-## 1a) Overlapping
+## 1a Overlapping
 
 **Overlapping** objects is usually the easiest way to optimize. You simply delete objects which are fully covered by others. This works best on decoration that uses many layers.
 
-## 1b) Scaling/Warping
+## 1b Scaling/Warping
 
 **Scaling**  is another simple way to reduce object counts. By making one object take up more space, you can use far fewer objects to fill in the needed space. Note that this is much easier with warping.
 
@@ -124,13 +127,13 @@ While there are curved objects available in the editor, sometimes they might not
 
 <div><iframe src=https://drive.google.com/file/d/1SbmTH_Sp1LEu1efhi6I1uW9EfAYzmwd5/preview?usp=drivesdk></iframe></div>
 
-## 1c) Object Types
+## 1c Object Types
 
 **Object Types** is the strongest way to efficiently optimize, although using this requires more experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These optimized objects will depend on what you’re trying to do with the unoptimized objects as shown in[Creating Details](<https://discord.com/channels/414295025883545600/1233710767895740456/1233710767895740456>).  For example, you can get away with using the wood objects in the 1st and 9th tabs in the editor instead of making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which includes things like creating custom curves instead of default curves.
 
 With other object types that have both base and detail color channels, you can also make use of partial masking to make them part of a detail.
 
-## 1d) Toggles
+## 1d Toggles
 
 As much as creators can use toggles for LDM, toggles can also be used for optimizing by removing unnecessary objects that are offscreen. Castlemania does this with its branching paths where any path the player avoids gets toggled off. As shown here, removing those toggles makes the level difficult to render in the editor and in-game.
 

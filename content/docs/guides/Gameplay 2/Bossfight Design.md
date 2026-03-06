@@ -1,9 +1,10 @@
 ---
 title: Bossfight Design
 weight: 721
+date: 2024-09-18
 contributors:
-- kyouki
-- ontos
+- illusion2
+- psytrancegd
 draft: false
 ---
 

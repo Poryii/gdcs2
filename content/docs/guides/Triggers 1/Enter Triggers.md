@@ -1,9 +1,10 @@
 ---
 title: Enter Triggers
 weight: 325
+date: 2024-04-03
 contributors:
 - etherail
-- EYZ
+- .eyz.
 draft: false
 ---
 

@@ -2,8 +2,8 @@
 title: Choosing a Song
 weight: 105
 contributors:
-- Half
-- koma5
+- halfcookedramen
+- komatic5
 draft: false
 
 seo:

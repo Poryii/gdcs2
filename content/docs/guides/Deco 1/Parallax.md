@@ -1,9 +1,10 @@
 ---
 title: Parallax
 weight: 518
+date: 2024-01-15
 contributors:
-- koma5
-- Selena
+- komatic5
+- sparktwee
 draft: false
 ---
 

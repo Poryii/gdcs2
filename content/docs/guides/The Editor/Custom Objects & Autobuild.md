@@ -2,7 +2,8 @@
 title: Custom Objects & Autobuild
 weight: 114
 contributors:
-- NotAModerator
+- notamoderatr
+- tdp9
 draft: false
 
 seo:

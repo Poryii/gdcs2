@@ -1,9 +1,10 @@
 ---
 title: Pickup
 weight: 343
+date: 2024-01-19
 contributors:
-- Danail
-- Madzz
+- nailed_bread
+- __madzz__
 draft: false
 ---
 

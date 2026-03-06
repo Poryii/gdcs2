@@ -1,8 +1,10 @@
 ---
 title: Scroll Speed Bug
 weight: 411
+date: 2023-12-16
 contributors:
-- DangerChampion
+- .tv_box.
+- mateussdev
 - Unknown
 draft: false
 ---

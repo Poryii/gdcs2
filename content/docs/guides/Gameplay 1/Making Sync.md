@@ -1,9 +1,10 @@
 ---
 title: Making Sync
 weight: 414
+date: 2025-01-14
 contributors:
-- Eclypse
-- NotAModerator
+- e.clypse.
+- notamoderatr
 draft: false
 ---
 

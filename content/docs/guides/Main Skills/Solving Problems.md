@@ -2,8 +2,8 @@
 title: Solving Problems
 weight: 205
 contributors:
-- koma5
-- Selena
+- komatic5
+- sparktwee
 draft: false
 ---
 

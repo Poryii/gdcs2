@@ -1,9 +1,12 @@
 ---
 title: Making Effects
 weight: 512
+date: 2024-09-18
 contributors:
-- ChuckOlate
-- ontos
+- chuckolate
+- illusion2
+- silvow.
+- sparktwee
 draft: false
 ---
 

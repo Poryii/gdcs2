@@ -2,8 +2,8 @@
 title: Getting Inspired
 weight: 208
 contributors:
-- koma5
-- TDP9
+- komatic5
+- tdp9
 draft: false
 ---
 

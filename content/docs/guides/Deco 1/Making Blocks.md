@@ -1,8 +1,9 @@
 ---
 title: Making Blocks
 weight: 508
+date: 2023-03-18
 contributors:
-- koma5
+- komatic5
 draft: false
 ---
 

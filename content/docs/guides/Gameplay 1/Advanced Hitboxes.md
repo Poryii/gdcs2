@@ -1,9 +1,10 @@
 ---
 title: Advanced Hitboxes
 weight: 409
+date: 2023-11-01
 contributors:
-- MateussDev
-- NotAModerator
+- mateussdev
+- notamoderatr
 draft: false
 ---
 

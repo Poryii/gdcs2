@@ -1,10 +1,11 @@
 ---
 title: Sync & Rhythm
 weight: 708
+date: 2025-11-15
 contributors:
-- KDE
-- koma5
-draft: false
+- kde__
+- komatic5
+draft: true
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

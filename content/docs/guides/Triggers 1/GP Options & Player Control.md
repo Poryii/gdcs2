@@ -1,9 +1,10 @@
 ---
 title: GP Options & Player Control
 weight: 332
+date: 2024-01-25
 contributors:
-- EYZ
-- koma5
+- .eyz.
+- komatic5
 draft: false
 ---
 
@@ -49,7 +50,7 @@ SpeedTek by G4lvatron
 
 This is another useful trigger that controls the player behavior. With it you can control whenever a player should stop performing a certain action until they hit a certain key again.
 
-Do not confuse this with {{< img src="images/GDEmotes/Triggers/GPOptionsTrigger.png" class="emote">}}, as they are separate triggers.
+Do not confuse this with {{< img src="images/GDEmotes/Triggers/GPOptions.png" class="emote">}}, as they are separate triggers.
 
 - **P1 or P2:** Determines whenever a certain setting should apply to player 1, 2 or both.
 - **Stop Jump:** Prevents the player from jumping again unless they hit the jump button again. *This option works similarly to the J block*

@@ -1,9 +1,10 @@
 ---
 title: Color 2 (Using Colors)
 weight: 802
+date: 2023-11-30
 contributors:
-- DangerChampion
-- KDE
+- .tv_box.
+- kde__
 draft: false
 ---
 

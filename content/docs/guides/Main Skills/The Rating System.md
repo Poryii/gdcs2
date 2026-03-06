@@ -2,9 +2,9 @@
 title: The Rating System
 weight: 217
 contributors:
-- NotAModerator
-- Selena
-draft: true
+- notamoderatr
+- sparktwee
+draft: false
 ---
 
 ## TLDR - What this guide covers

@@ -1,10 +1,11 @@
 ---
 title: Movement Design
 weight: 719
+date: 2024-11-30
 contributors:
 - Interestex
-- kyouki
-- ontos
+- illusion2
+- psytrancegd
 draft: false
 ---
 

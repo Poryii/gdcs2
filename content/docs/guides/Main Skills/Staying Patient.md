@@ -2,8 +2,8 @@
 title: Staying Patient
 weight: 209
 contributors:
-- koma5
-- Selena
+- komatic5
+- sparktwee
 draft: false
 ---
 

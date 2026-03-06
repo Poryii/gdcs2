@@ -1,9 +1,10 @@
 ---
 title: Scale
 weight: 310
+date: 2024-02-04
 contributors:
-- EYZ
-- Selena
+- .eyz.
+- sparktwee
 draft: false
 ---
 

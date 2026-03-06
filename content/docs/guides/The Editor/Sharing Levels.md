@@ -2,8 +2,8 @@
 title: Sharing Levels
 weight: 106
 contributors:
-- koma5
-- Selena
+- komatic5
+- sparktwee
 draft: false
 
 seo:

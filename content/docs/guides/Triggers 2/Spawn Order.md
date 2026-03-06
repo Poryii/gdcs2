@@ -1,9 +1,10 @@
 ---
 title: Spawn Order
 weight: 602
+date: 2024-04-18
 contributors:
-- koma5
-- 𝕋ypexleta
+- komatic5
+- typexleta
 draft: false
 ---
 

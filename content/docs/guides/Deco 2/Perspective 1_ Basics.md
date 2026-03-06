@@ -1,12 +1,12 @@
 ---
 title: Perspective 1 (Basics)
 weight: 820
+date: 2023-05-21
 contributors:
-- KDE
-- koma5
+- kde__
+- komatic5
 draft: false
 ---
-{{< img src="images/GDEmotes/Icons/Clock.png" class="emote">}} **Short** (4-6 minutes)
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Forms are 3D objects bound by 2D shapes. These shapes make it easier to understand how the 3D form projects onto a flat 2D screen.

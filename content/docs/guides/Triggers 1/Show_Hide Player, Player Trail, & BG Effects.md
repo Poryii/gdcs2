@@ -1,8 +1,10 @@
 ---
 title: Show/Hide Player, Player Trail, & BG Effects
 weight: 331
+date: 2024-01-08
 contributors:
-- koma5
+- komatic5
+- tdp9
 draft: false
 ---
 

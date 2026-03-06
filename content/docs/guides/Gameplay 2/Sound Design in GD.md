@@ -1,9 +1,10 @@
 ---
 title: Sound Design in GD
 weight: 713
+date: 2024-09-06
 contributors:
-- Electrify
-- kyouki
+- electrifyxd
+- psytrancegd
 draft: false
 ---
 

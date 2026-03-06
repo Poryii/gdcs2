@@ -2,9 +2,9 @@
 title: Reception
 weight: 217
 contributors:
-- psy
-- Selena
-draft: true
+- sparktwee
+- psytrancegd
+draft: false
 ---
 
 ## TLDR - What this guide covers

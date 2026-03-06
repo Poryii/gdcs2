@@ -2,7 +2,7 @@
 title: Planning a Level
 weight: 202
 contributors:
-- koma5
+- komatic5
 draft: false
 ---
 

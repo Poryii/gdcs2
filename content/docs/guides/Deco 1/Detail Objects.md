@@ -2,8 +2,8 @@
 title: Detail Objects
 weight: 503
 contributors:
-- Aquarware
-- koma5
+- aquarware
+- komatic5
 draft: false
 ---
 

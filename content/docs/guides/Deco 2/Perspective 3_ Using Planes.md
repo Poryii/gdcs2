@@ -1,9 +1,11 @@
 ---
 title: Perspective 3 (Using Planes)
 weight: 822
+date: 2024-05-31
 contributors:
-- koma5
-- Selena
+- komatic5
+- sparktwee
+- vayulenagd
 draft: false
 ---
 

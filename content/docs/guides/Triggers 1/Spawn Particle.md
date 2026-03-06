@@ -1,9 +1,10 @@
 ---
 title: Spawn Particle
 weight: 321
+date: 2024-01-21
 contributors:
-- koma5
-- naem
+- komatic5
+- naem.less
 draft: false
 ---
 

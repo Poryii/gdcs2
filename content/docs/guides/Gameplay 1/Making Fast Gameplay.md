@@ -1,9 +1,11 @@
 ---
 title: Making Fast Gameplay
 weight: 416
+date: 2024-11-30
 contributors:
-- Kb
-- NotAModerator
+- kbtrains
+- illusion2
+- notamoderatr
 draft: false
 ---
 

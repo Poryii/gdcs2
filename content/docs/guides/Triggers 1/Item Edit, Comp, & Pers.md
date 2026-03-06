@@ -1,9 +1,10 @@
 ---
 title: Item Edit, Comp, & Pers
 weight: 345
+date: 2023-12-30
 contributors:
-- koma5
-- Vexilo
+- komatic5
+- vexilo5
 draft: false
 
 seo:

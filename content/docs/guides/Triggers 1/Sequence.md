@@ -1,9 +1,10 @@
 ---
 title: Sequence
 weight: 339
+date: 2023-12-30
 contributors:
-- Erazer
-- naem
+- proerazer
+- naem.less
 draft: false
 ---
 

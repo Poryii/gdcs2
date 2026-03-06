@@ -2,8 +2,8 @@
 title: Transforming Objects
 weight: 115
 contributors:
-- koma5
-- Vexilo
+- komatic5
+- vexilo5
 draft: false
 
 seo:

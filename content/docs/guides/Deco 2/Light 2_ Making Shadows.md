@@ -1,9 +1,10 @@
 ---
 title: Light 2 (Making Shadows)
 weight: 807
+date: 2025-06-30
 contributors:
-- ALEUNAM_777
-- koma5
+- alexunam_777
+- komatic5
 draft: false
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: Creating Decoration
 weight: 507
+date: 2024-07-19
 contributors:
-- koma5
-- NotAModerator
+- galofuf
+- komatic5
+- notamoderatr
 draft: false
 ---
 

@@ -1,9 +1,12 @@
 ---
 title: Mechanics 4 (Decision-Making)
 weight: 704
+date: 2025-03-01
 contributors:
-- kyouki
-- pneuma
+- intercomprehensible
+- illusion2
+- psytrancegd
+- komatic5
 draft: false
 ---
 

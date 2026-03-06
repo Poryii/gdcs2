@@ -2,9 +2,9 @@
 title: Having a Growth Mindset
 weight: 211
 contributors:
-- C4
+- creeperiv
 - leotorol
-- Selena
+- sparktwee
 draft: false
 ---
 

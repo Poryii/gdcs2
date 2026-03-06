@@ -1,9 +1,10 @@
 ---
 title: Using Remap Properties
 weight: 604
+date: 2024-07-31
 contributors:
-- koma5
-- ibra
+- komatic5
+- theibra
 draft: false
 ---
 

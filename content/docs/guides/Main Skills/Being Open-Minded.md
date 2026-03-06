@@ -2,8 +2,8 @@
 title: Being Open-Minded
 weight: 210
 contributors:
-- Half-Cooked Ramen
-- KDE
+- halfcookedramen
+- kde__
 draft: false
 ---
 

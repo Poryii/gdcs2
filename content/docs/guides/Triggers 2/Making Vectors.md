@@ -1,8 +1,9 @@
 ---
 title: Making Vectors
 weight: 612
+date: 2024-11-30
 contributors:
-- NotAModerator
+- notamoderatr
 - tanhR
 draft: false
 math: true

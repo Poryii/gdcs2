@@ -2,8 +2,8 @@
 title: Collectable Objects
 weight: 111
 contributors:
-- naem
-- NotAModerator
+- naem.less
+- notamoderatr
 draft: false
 
 seo:

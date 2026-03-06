@@ -1,7 +1,8 @@
 ---
 title: Camera Controls
 weight: 722
-contriburors:
+date: 2026-02-27
+contributors:
 - zek.1612.
 - averageundertalefan
 draft: false

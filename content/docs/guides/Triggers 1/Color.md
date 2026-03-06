@@ -1,8 +1,9 @@
 ---
 title: Color
 weight: 302
+date: 2024-01-24
 contributors:
-- "koma5"
+- komatic5
 draft: false
 ---
 

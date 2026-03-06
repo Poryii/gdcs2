@@ -1,9 +1,10 @@
 ---
 title: Color 5 (Human Perception)
 weight: 805
+date: 2024-05-31
 contributors:
 - etherail
-- sku
+- skytriz
 draft: false
 ---
 

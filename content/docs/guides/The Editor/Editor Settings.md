@@ -2,7 +2,7 @@
 title: Editor Settings
 weight: 104
 contributors:
-- Selena
+- sparktwee
 draft: false
 
 seo:

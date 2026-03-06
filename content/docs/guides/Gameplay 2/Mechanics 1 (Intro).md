@@ -1,9 +1,10 @@
 ---
 title: Mechanics 1 (Intro)
 weight: 701
+date: 2023-04-24
 contributors:
-- koma5
-- NotAModerator
+- komatic5
+- notamoderatr
 draft: false
 ---
 

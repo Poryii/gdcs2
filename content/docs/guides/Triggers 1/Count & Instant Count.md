@@ -1,9 +1,10 @@
 ---
 title: Count & Instant Count
 weight: 344
+date: 2024-01-24
 contributors:
-- koma5
-- Madzz
+- komatic5
+- __madzz__
 draft: false
 ---
 
@@ -16,7 +17,7 @@ draft: false
 ** **
 # 1: Count Trigger
 
-The Count trigger {{< img src="images/GDEmotes/Triggers/CountTrigger.png" class="emote">}} will take an Item ID, *wait UNTIL that ID passes a specific Target Count*, and then activate or deactivate a Target Group ID. It can work as both a Toggle and a Spawn Trigger.
+The Count trigger {{< img src="images/GDEmotes/Triggers/Count.png" class="emote">}} will take an Item ID, *wait UNTIL that ID passes a specific Target Count*, and then activate or deactivate a Target Group ID. It can work as both a Toggle and a Spawn Trigger.
 
 {{< youtube qs7Z4jPsFag >}}
 

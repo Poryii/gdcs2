@@ -1,10 +1,12 @@
 ---
 title: UI & Link Visible
 weight: 347
+date: 2024-01-21
 contributors:
-- Dimstack
-- koma5
-draft: true
+- delts1550
+- .eyz.
+- komatic5
+draft: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

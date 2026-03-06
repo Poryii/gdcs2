@@ -1,9 +1,10 @@
 ---
 title: Using Gamemodes
 weight: 401
+date: 2025-03-01
 contributors:
-- koma5
-- ontos
+- komatic5
+- illusion2
 draft: false
 ---
 

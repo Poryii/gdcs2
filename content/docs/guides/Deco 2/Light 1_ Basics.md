@@ -1,9 +1,10 @@
 ---
 title: Light 1 (Basics)
 weight: 806
+date: 2023-05-21
 contributors:
-- koma5
-- print
+- komatic5
+- print6165
 draft: false
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: Move & Rotate
 weight: 308
+date: 2024-01-08
 contributors:
-- koma5
+- komatic5
 draft: false
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Data Storage
 weight: 614
+date: 2024-07-31
 contributors:
-- koma5
-- V1ewsh0t
+- komatic5
+- v1ewsh0t
 draft: false
 ---
 

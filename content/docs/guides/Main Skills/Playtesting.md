@@ -2,8 +2,8 @@
 title: Playtesting
 weight: 213
 contributors:
-- Selena
-- TDP9
+- sparktwee
+- tdp9
 draft: false
 ---
 

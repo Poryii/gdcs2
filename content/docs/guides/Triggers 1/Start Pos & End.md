@@ -1,10 +1,11 @@
 ---
 title: Start Pos & End
 weight: 327
+date: 2024-03-11
 contributors:
-- koma5
-- naem
-- print
+- komatic5
+- naem.less
+- print6165
 draft: false
 ---
 

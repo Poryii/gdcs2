@@ -1,9 +1,10 @@
 ---
 title: Stacking
 weight: 347
+date: 2023-04-04
 contributors:
-- koma5
-- KDE
+- komatic5
+- kde__
 draft: false
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Frame Perfects & Alignment
 weight: 410
+date: 2024-01-01
 contributors:
-- MateussDev
-- NotAModerator
+- mateussdev
+- notamoderatr
 draft: false
 ---
 

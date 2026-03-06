@@ -1,9 +1,10 @@
 ---
 title: Intensity
 weight: 711
+date: 2024-03-11
 contributors:
-- NotAModerator
-- TDP9
+- notamoderatr
+- tdp9
 draft: false
 ---
 

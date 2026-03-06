@@ -2,8 +2,8 @@
 title: Animated Objects
 weight: 502
 contributors:
-- koma5
-- print
+- komatic5
+- print6165
 draft: false
 ---
 

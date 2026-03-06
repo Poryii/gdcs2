@@ -1,10 +1,11 @@
 ---
 title: Fixing Bugs
 weight: 347
+date: 2023-08-31
 contributors:
-- NotAModerator
-- ontos
-draft: true
+- notamoderatr
+- illusion2
+draft: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

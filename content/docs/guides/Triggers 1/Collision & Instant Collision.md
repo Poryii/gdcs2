@@ -1,8 +1,11 @@
 ---
 title: Collision & Instant Collision
 weight: 337
+date: 2023-03-14
 contributors:
-- koma5
+- komatic5
+- typexleta
+- vexilo5
 draft: false
 ---
 

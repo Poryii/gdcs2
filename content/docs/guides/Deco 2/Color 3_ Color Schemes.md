@@ -1,9 +1,10 @@
 ---
 title: Color 3 (Color Schemes)
 weight: 803
+date: 2023-11-30
 contributors:
 - etherail
-- sku
+- skytriz
 draft: false
 ---
 

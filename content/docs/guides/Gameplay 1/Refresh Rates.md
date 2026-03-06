@@ -1,8 +1,9 @@
 ---
 title: Refresh Rates
 weight: 421
+date: 2023-03-18
 contributors:
-- Lasang
+- graylasagna
 - Unknown
 draft: false
 ---

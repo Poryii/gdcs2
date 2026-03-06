@@ -1,9 +1,10 @@
 ---
 title: Making Consistent Gameplay
 weight: 415
+date: 2025-01-16
 contributors:
-- Eclypse
-- kyouki
+- e.clypse.
+- psytrancegd
 draft: false
 ---
 

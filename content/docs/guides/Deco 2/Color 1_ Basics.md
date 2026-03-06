@@ -1,9 +1,10 @@
 ---
 title: Color 1 (Basics)
 weight: 801
+date: 2023-10-15
 contributors:
-- Gustron
-- KDE
+- gustonguygermany
+- kde__
 draft: false
 ---
 

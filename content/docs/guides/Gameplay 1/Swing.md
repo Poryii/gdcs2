@@ -1,9 +1,10 @@
 ---
 title: Swing
 weight: 421
+date: 2024-10-31
 contributors:
-- ChuckOlate
-- Kritic
+- chuckolate
+- kriticsoul
 draft: true
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

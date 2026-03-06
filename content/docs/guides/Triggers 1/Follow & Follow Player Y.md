@@ -1,8 +1,9 @@
 ---
 title: Follow & Follow Player Y
 weight: 309
+date: 2024-01-08
 contributors:
-- koma5
+- komatic5
 draft: false
 ---
 

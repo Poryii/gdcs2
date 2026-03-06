@@ -2,8 +2,8 @@
 title: Static Objects
 weight: 109
 contributors:
-- DangerChampion
-- Xplode
+- .tv_box.
+- xplode09
 draft: false
 
 seo:

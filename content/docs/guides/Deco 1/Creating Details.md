@@ -1,8 +1,10 @@
 ---
 title: Creating Details
 weight: 506
+date: 2024-05-15
 contributors:
-- koma5
+- komatic5
+- sparktwee
 draft: false
 ---
 

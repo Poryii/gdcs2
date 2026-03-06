@@ -3,7 +3,7 @@ title: Setting Goals
 weight: 207
 contributors:
 - niko
-- NotAModerator
+- notamoderatr
 draft: false
 ---
 ## TLDR - What this guide covers

@@ -1,10 +1,12 @@
 ---
 title: Making Duals
 weight: 421
+date: 2024-10-14
 contributors:
-- ChuckOlate
-- naem
-draft: true
+- chuckolate
+- e.clypse.
+- naem.less
+draft: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

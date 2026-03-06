@@ -2,8 +2,8 @@
 title: Gameplay Objects
 weight: 402
 contributors:
-- Selena
-- Xplode
+- sparktwee
+- xplode09
 draft: false
 ---
 

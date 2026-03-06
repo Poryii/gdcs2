@@ -1,10 +1,11 @@
 ---
 title: Binary Stacking
 weight: 347
+date: 2023-08-14
 contributors:
-- koma5
-- nau.
-- NotAModerator
+- komatic5
+- livelaughluvv
+- notamoderatr
 draft: true
 ---
 

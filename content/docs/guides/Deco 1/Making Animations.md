@@ -1,9 +1,10 @@
 ---
 title: Making Animations
 weight: 511
+date: 2023-08-05
 contributors:
-- koma5
-- YoReid
+- komatic5
+- yoreid
 draft: false
 ---
 

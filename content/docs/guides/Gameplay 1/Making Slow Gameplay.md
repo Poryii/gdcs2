@@ -1,9 +1,10 @@
 ---
 title: Making Slow Gameplay
 weight: 417
+date: 2023-07-25
 contributors:
-- Half-Cooked Ramen
-- koma5
+- halfcookedramen
+- komatic5
 draft: false
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Song & Edit Song
 weight: 314
+date: 2024-01-07
 contributors:
-- DangerChampion
-- Electrify
+- .tv_box.
+- electrifyxd
 draft: false
 math: true
 ---
@@ -18,7 +19,7 @@ math: true
 
 # 1: Song Trigger
 
-Go to the Triggers tab and place down the {{< img src="images/GDEmotes/Triggers/SongTrigger.png" class="emote">}} Song trigger. It lets you add new songs to your level.
+Go to the Triggers tab and place down the {{< img src="images/GDEmotes/Triggers/Song.png" class="emote">}} Song trigger. It lets you add new songs to your level.
 
 When selected, click on {{< img src="images/GDEmotes/Buttons/EditObject.png" class="emote">}} Edit Object to edit its properties.
 

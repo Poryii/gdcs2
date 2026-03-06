@@ -1,8 +1,9 @@
 ---
 title: Using Deco Objects
 weight: 501
+date: 2024-04-28
 contributors:
-- koma5
+- komatic5
 draft: false
 ---
 

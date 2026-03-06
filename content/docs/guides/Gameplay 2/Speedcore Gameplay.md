@@ -1,9 +1,10 @@
 ---
 title: Speedcore Gameplay
 weight: 722
+date: 2024-05-15
 contributors:
-- Madzz
-- ontos
+- __madzz__
+- illusion2
 draft: true
 ---
 

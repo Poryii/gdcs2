@@ -2,7 +2,7 @@
 title: Asking for Feedback
 weight: 204
 contributors:
-- koma5
+- komatic5
 draft: false
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: Advanced Follow
 weight: 312
+date: 2024-01-08
 contributors:
 - etherail
-- naem
+- naem.less
 draft: false
 ---
 

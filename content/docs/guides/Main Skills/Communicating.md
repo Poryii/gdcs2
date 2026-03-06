@@ -2,8 +2,8 @@
 title: Communicating
 weight: 217
 contributors:
-- koma5
-draft: true
+- komatic5
+draft: false
 ---
 
 ## TLDR - What this guide covers

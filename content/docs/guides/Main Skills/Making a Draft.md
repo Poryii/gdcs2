@@ -2,8 +2,8 @@
 title: Making a Draft
 weight: 203
 contributors:
-- koma5
-- Selena
+- komatic5
+- sparktwee
 draft: false
 ---
 

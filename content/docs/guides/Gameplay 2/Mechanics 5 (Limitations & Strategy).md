@@ -1,9 +1,12 @@
 ---
 title: Mechanics 5 (Limitations & Strategy)
 weight: 705
+date: 2024-10-15
 contributors:
-- kyouki
-- ontos
+- illusion2
+- psytrancegd
+- everedeck
+- themilkcat_tmc
 draft: false
 ---
 

@@ -1,11 +1,13 @@
 ---
 title: Pathfinding
 weight: 911
+date: 2024-09-30
+contributors:
+- furorem
+- komatic5
 draft: false
 math: true
-contributors:
-- Furorem
-- koma5
+
 seo:
   title: "Graph Theory and Pathfinding for Geometry Dash" # custom title (optional)
   description: "Basics of graph theory and pathfinding algorithms for Geometry Dash" # custom description (recommended)

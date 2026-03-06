@@ -1,9 +1,10 @@
 ---
 title: Making Loops
 weight: 607
+date: 2024-11-30
 contributors:
-- kyouki
-- TDP9
+- psytrancegd
+- tdp9
 draft: false
 ---
 
