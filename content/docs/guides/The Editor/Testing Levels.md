@@ -2,11 +2,7 @@
 title: Testing Levels
 weight: 116
 contributors:
-<<<<<<< HEAD
 - __madzz__
-=======
-- Madzz
->>>>>>> upstream/main
 - illusion2
 draft: false
 

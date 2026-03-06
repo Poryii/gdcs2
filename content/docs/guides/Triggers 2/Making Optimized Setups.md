@@ -3,15 +3,9 @@ title: Making Optimized Setups
 weight: 615
 date: 2025-03-17
 contributors:
-<<<<<<< HEAD
 - chuckolate
 - theibra
 - themilkcat_tmc
-=======
-- ChuckOlate
-- ibra
-- TheMilkCat
->>>>>>> upstream/main
 draft: false
 math: true
 

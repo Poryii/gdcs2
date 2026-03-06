@@ -3,13 +3,8 @@ title: Using Remap Properties
 weight: 604
 date: 2024-07-31
 contributors:
-<<<<<<< HEAD
 - komatic5
 - theibra
-=======
-- koma5
-- ibra
->>>>>>> upstream/main
 draft: false
 ---
 

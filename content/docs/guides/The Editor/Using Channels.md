@@ -3,11 +3,7 @@ title: Using Channels
 weight: 118
 contributors:
 - illusion2
-<<<<<<< HEAD
 - vexilo5
-=======
-- Vexilo
->>>>>>> upstream/main
 draft: false
 
 seo:

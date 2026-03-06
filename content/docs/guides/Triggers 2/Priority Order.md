@@ -3,15 +3,9 @@ title: Priority Order
 weight: 603
 date: 2024-09-17
 contributors:
-<<<<<<< HEAD
 - notamoderatr
 - theibra
 - typexleta
-=======
-- NotAModerator
-- 𝕋ypexleta
-- ibra
->>>>>>> upstream/main
 draft: false
 ---
 

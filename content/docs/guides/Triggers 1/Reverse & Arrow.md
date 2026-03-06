@@ -54,7 +54,7 @@ The features include the following:
 - **Edit Velocity:** Lets you edit the velocity when switching rotation.
 - **VelModX / VelModY:** Multiplies the amount of force applied in X and Y axis after changing directions.
 - **Override Velocity:** Sets the velocity instead of multiplying it.
-- **Change Channel:** Changes the Channel to the number entered in the **Target Channel** box below. Only triggers set to this channel will activate after this trigger, unless you change the channel again. (This does not apply to triggers activated by {{< img src="images/GDEmotes/Triggers/SpawnTrigger.png" class="emote">}} a Spawn / condition trigger.)
+- **Change Channel:** Changes the Channel to the number entered in the **Target Channel** box below. Only triggers set to this channel will activate after this trigger, unless you change the channel again. (This does not apply to triggers activated by {{< img src="images/GDEmotes/Triggers/Spawn.png" class="emote">}} a Spawn / condition trigger.)
  - To **revert the channel change**, place another Arrow trigger, go to Edit Group, and set the channel in the bottom right corner to the one you entered in the first trigger. Once you do that, click the Edit Object button and set the Target Channel back to zero.
 
 {{< youtube 8Z7hGnH-OwI >}}

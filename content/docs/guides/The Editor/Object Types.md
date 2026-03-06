@@ -2,11 +2,7 @@
 title: Object Types
 weight: 108
 contributors:
-<<<<<<< HEAD
 - sparktwee
-=======
-- Selena
->>>>>>> upstream/main
 - illusion2
 draft: false
 

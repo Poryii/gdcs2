@@ -2,7 +2,7 @@
 title: Control Schemes
 weight: 616
 contributors:
-- ibra
+- theibra
 draft: false
 
 seo:
@@ -91,7 +91,7 @@ We will break this down into individual directional movements, which can be crea
 
 ## Setup A: Spawn loop:
 
-* place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}}
+* place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}}
 * the first detects [key] push and activates  groupID X
 * place a spawn trigger that activates groupID X, and a move trigger that moves your character a certain direction
 * give both these triggers the same delay and groupID X
@@ -107,7 +107,7 @@ You can also replace the move trigger with a rotate trigger.
 
 * your character has a groupID X, with a center object being the parent of this group
 * place an object away from the center of your character and in your desired direction, give it groupIDs X and Y
-* place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}}
+* place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}}
 * the first detects [key] push and activates  groupID Z
 * place an adv follow trigger and give it groupID Z
 * set TargetGID: X, FollowGID: Y and speed to a desired finite number
@@ -149,7 +149,7 @@ This trigger already has a built in hold mode, it is generally used in classic m
 
 ### Event triggers:
 
-* Place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}} A and B:
+* Place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}} A and B:
 * Event trigger A detects [key] push, this is the hold state that activates your action
 * Event trigger B detects [key] release, this means the player stopped holding, this trigger spawns a trigger that reverts your action, either using a stop trigger, toggle off trigger... etc.
 
@@ -158,7 +158,7 @@ This trigger already has a built in hold mode, it is generally used in classic m
 ## Double taps
 
 This can be used to create actions like sprinting, or generally a stronger variation of your single tap action
-* Place an event trigger {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}} with [key] push enabled
+* Place an event trigger {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}} with [key] push enabled
 * This event trigger activates 2 triggers:
 * A pickup trigger that adds 1 to itemID X
 * A spawn trigger with a small delay, it activates a pickup trigger that subtracts 1 from itemID X
@@ -175,7 +175,7 @@ Sometimes you may need multiple keys at once to be pressed
 ### Unordered key combination:
 
 Order doesn’t matter, but the action should be done when all keys are pressed at once, the combo can either be detected when all keys are held, or when all keys are pressed in a specific time window
-* For each key in your combo, place an event trigger {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}} that detects [key] push
+* For each key in your combo, place an event trigger {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}} that detects [key] push
 * This event trigger activates 2 triggers:
 * a pickup trigger that adds 1 to itemID X
 * a spawn trigger with a small delay. Either activate a pickup trigger that subtracts 1 from itemID X
@@ -190,7 +190,7 @@ If instead of having a small delay to press all keys you want to have the keys h
 ### Modifier key:
 
 This is like the Shift and Ctrl keys used in computer shortcuts
-* Place two event triggers {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}} that detect [mod key] push (A) and [mod key] release (B) respectively
+* Place two event triggers {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}} that detect [mod key] push (A) and [mod key] release (B) respectively
 * The event trigger A spawns another event trigger C that detects [key] push
 * the second event trigger B spawns a stop trigger that stops the event trigger C
 <!-- EXAMPLE HERE -->
@@ -199,9 +199,9 @@ This is like the Shift and Ctrl keys used in computer shortcuts
 
 This is for when you need an ordered sequence of keys to activate your action and is technically a, in this example we’ll use the following sequence: keyA -> keyB -> keyC
 
-* Place an event trigger {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}} X that detects [keyA] push
+* Place an event trigger {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}} X that detects [keyA] push
 * This event trigger activates 2 triggers:
-* an event trigger {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}} Y that detects [KeyB] push
+* an event trigger {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}} Y that detects [KeyB] push
 * a spawn trigger with a delay, it activates a stop trigger that stops the event trigger Y
 * Repeat the same step for event trigger Y, where it should activate another event trigger Z that detects [keyC] push
 * Since event trigger Z detects the last key in our sequence, this is the trigger that detects our key combo
@@ -291,7 +291,7 @@ Unlike the previous method, this one controls the cursor using 4 directional but
 This example creates a simple cursor, with one click button
 * Place a collision block and toggle it off, this will be your cursor
 * use the 4 directional control setup discussed in Custom Player
-* place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLinkTrigger.png" class="emote">}} , the first detects [key] push and activates a toggle on trigger, the second activates a toggle off trigger, this will be your clicking action
+* place 2 event triggers {{< img src="images/GDEmotes/Triggers/EventLink.png" class="emote">}} , the first detects [key] push and activates a toggle on trigger, the second activates a toggle off trigger, this will be your clicking action
 
 <!-- EXAMPLE HERE -->
 
@@ -335,7 +335,7 @@ There are some rules you can follow to help you design a more robust control sch
 * **Simple:** Key combos get exponentially harder to remember the more keys you have to press, so it’s best to only use 2-key combos (considering mobile players too), and include less important and non time critical actions in menus
 * **Compact:**  One key can fit multiple actions when they are mutually exclusive (one action can be performed at a time). Some examples include:
   - the player doesn’t move while using a menu, so you can use player left/right to navigate them
-  - toggle orbs/blocks can be used to interact with objects, as you don’t need to jump  
+  - toggle orbs/blocks can be used to interact with objects, as you don’t need to jump
   - player jump can be used to jump while grounded and dash while mid-air
 
 These rules can be broken in some specific cases (fighting games sometimes include 10-key combos), this is where playtesting comes in to confirm whether or not players can quickly adapt to your controls
