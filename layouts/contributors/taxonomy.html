@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="row justify-content-center">
-  <div class="col-md-12 col-lg-10 col-xl-8">
+  <div class="col-md-12 col-lg-12 col-xl-10">
     <h1 class="text-center">{{ .Title }}</h1>
     {{ with .Params.summary }}<p class="lead text-center">{{ . }}</p>{{ end }}
     <div class="text-center">{{ .Content }}</div>
@@ -10,18 +10,20 @@
     {{ $pagesSorted := slice }}
     {{ range $sorted }}{{ $pagesSorted = $pagesSorted | append .page }}{{ end }}
 
-    {{ $paginator := .Paginate $pagesSorted }}
+    {{ $paginator := .Paginate $pagesSorted 20 }}
 
-    <div class="card-list">
+    <div class="row row-cols-5 row-cols-md-2 gx-5 gy-2 justify-content-center">
       {{ range $paginator.Pages }}
-        {{ $displayname := partial "get-contributor-name.html" (dict "username" .Title "context" $) }}
-        <div class="card card-terms my-3">
-          <div class="card-body">
-            <article>
-              <a class="stretched-link" href="{{ .RelPermalink }}">
-                {{ $displayname }} ({{ len .Pages }}) &rarr;
-              </a>
-            </article>
+        <div class="col hover-scale">
+          {{ $displayname := partial "get-contributor-name.html" (dict "username" .Title "context" $) }}
+          <div class="card card-terms my-3 ">
+            <div class="card-body justify-content-center ">
+              <article>
+                <a class="stretched-link" href="{{ .RelPermalink }}">
+                  {{ $displayname }} ({{ len .Pages }}) &rarr;
+                </a>
+              </article>
+            </div>
           </div>
         </div>
       {{ end }}

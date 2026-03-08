@@ -23,15 +23,20 @@
   <section class="section section-md section-features">
     <div class="container">
       <div class="row justify-content-center text-center">
-        <p>This is a free resource to help you make Geometry Dash levels! Check out the <strong>guides</strong> here, or join the Discord server for practice content.</p>
-        <div class="links">
-          <p style="color: red;"><a href="https://www.youtube.com/@GDCreatorSchool" target="_blank" el="noopener">Youtube</a></p>
-        </div>
+        <p>This is a free resource to help you make Geometry Dash levels! Check out the guides here, or join the Discord server for practice content.</p>
+
         <div class="col-lg-14">
           {{ partial "latest-guides.html" . }}
         </div>
+
         <div class="col-lg-14">
           {{ partial "recently-edited.html" . }}
+        </div>
+
+        <div class="col-lg-14">
+          <h2 class="h2">Contributing</h2>
+          Want to help us build the website? Consider
+          <span class="links"><a href="https://github.com/komatic5/gdcs2/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">contributing</a></span>!
         </div>
       </div>
     </div>

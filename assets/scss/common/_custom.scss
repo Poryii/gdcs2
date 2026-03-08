@@ -1,5 +1,19 @@
 // Put your custom SCSS code here
 
+.hover-scale {
+  transition: transform 0.2s;
+}
+
+.hover-scale:hover {
+  transform: scale(1.05);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 img.emote {
     display: inline;
     width: 1.55rem;
@@ -7,10 +21,11 @@ img.emote {
 }
 
 img.smallemote {
-    display: inline-flex;
+    display: inline;
     height: 1.35rem;
     width: auto;
     margin-left: 2px;
+    margin-bottom: 0.15rem;
 }
 
 img.largeemote {
@@ -39,20 +54,6 @@ h4 img.headingemote {
     transform: translateY(0.1rem);
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-
 .new-badge {
   display: none;
-}
-
-.hover-scale {
-  transition: transform 0.2s;
-}
-
-.hover-scale:hover {
-  transform: scale(1.05);
 }
