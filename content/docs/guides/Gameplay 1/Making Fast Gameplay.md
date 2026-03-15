@@ -1,14 +1,14 @@
 ---
-title: Making Fast Gameplay
+title: "Making Fast Gameplay"
 weight: 416
-date: 2024-11-30
+date: 2024-11-30T00:00:00.000Z
 authors:
-- kbtrains
-- illusion2
+  - "kbtrains"
+  - "illusion2"
 contributors:
-- kbtrains
-- illusion2
-- notamoderatr
+  - "kbtrains"
+  - "illusion2"
+  - "notamoderatr"
 draft: false
 ---
 

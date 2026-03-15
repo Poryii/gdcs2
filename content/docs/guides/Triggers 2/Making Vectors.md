@@ -1,12 +1,12 @@
 ---
-title: Making Vectors
+title: "Making Vectors"
 weight: 612
-date: 2024-11-30
+date: 2024-11-30T00:00:00.000Z
 authors:
-- tanhR
+  - "tanhr"
 contributors:
-- notamoderatr
-- tanhR
+  - "notamoderatr"
+  - "tanhr"
 draft: false
 math: true
 ---

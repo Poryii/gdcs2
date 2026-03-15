@@ -1,14 +1,14 @@
 ---
-title: Scroll Speed Bug
+title: "Scroll Speed Bug"
 weight: 411
-date: 2023-12-16
+date: 2023-12-16T00:00:00.000Z
 authors:
-- mateussdev
-- Unknown
+  - "mateussdev"
+  - "unknown"
 contributors:
-- .tv_box.
-- mateussdev
-- Unknown
+  - "tv_box"
+  - "mateussdev"
+  - "unknown"
 draft: false
 ---
 

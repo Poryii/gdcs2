@@ -1,13 +1,13 @@
 ---
-title: Creating Decoration
+title: "Creating Decoration"
 weight: 507
-date: 2024-07-19
+date: 2024-07-19T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- galofuf
-- komatic5
-- notamoderatr
+  - "galofuf"
+  - "komatic5"
+  - "notamoderatr"
 draft: false
 ---
 

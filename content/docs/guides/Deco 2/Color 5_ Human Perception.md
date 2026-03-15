@@ -1,12 +1,12 @@
 ---
-title: Color 5 (Human Perception)
+title: "Color 5 (Human Perception)"
 weight: 805
-date: 2024-05-31
+date: 2024-05-31T00:00:00.000Z
 authors:
-- skytriz
+  - "skytriz"
 contributors:
-- etherail
-- skytriz
+  - "etherail"
+  - "skytriz"
 draft: false
 ---
 
@@ -122,7 +122,3 @@ Changed the channel name: Color 5: Human Perception
 
 {{< youtube id=P2r4Z5kbx7M start=478 >}}
 
-
-
-## Credits
-Created by @etherail and @sku and @Lagwerious

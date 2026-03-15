@@ -1,19 +1,18 @@
 ---
-title: Transforming Objects
+title: "Transforming Objects"
 weight: 115
-date: 2024-01-07
+date: 2024-01-07T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- komatic5
-- vexilo5
+  - "komatic5"
+  - "vexilo5"
 draft: false
-
 seo:
-  title: "How to Transform Objects in Geometry Dash" # custom title (optional)
-  description: "An extensive explanation of how the Transform features work in GD, such as the Warp button." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "How to Transform Objects in Geometry Dash"
+  description: "An extensive explanation of how the Transform features work in GD, such as the Warp button."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

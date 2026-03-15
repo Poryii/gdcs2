@@ -1,12 +1,12 @@
 ---
-title: Using Gamemodes
+title: "Using Gamemodes"
 weight: 401
-date: 2025-03-01
+date: 2025-03-01T00:00:00.000Z
 authors:
-- illusion2
+  - "illusion2"
 contributors:
-- komatic5
-- illusion2
+  - "komatic5"
+  - "illusion2"
 draft: false
 ---
 

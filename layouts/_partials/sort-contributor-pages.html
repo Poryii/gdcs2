@@ -7,8 +7,8 @@
 {{- $context := .context -}}
 
 {{- range .pages -}}
-  {{- $displayname := partial "get-contributor-name.html" (dict "username" .Title "context" $context) -}}
-  {{- $pages = $pages | append (dict "page" . "displayname" $displayname) -}}
+  {{- $preferredName := partial "get-contributor-name.html" (dict "username" .Title "context" $context) -}}
+  {{- $pages = $pages | append (dict "page" . "preferredName" $preferredName) -}}
 {{- end -}}
 
-{{- return (sort $pages "displayname") -}}
+{{- return (sort $pages "preferredName") -}}

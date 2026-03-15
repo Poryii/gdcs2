@@ -1,12 +1,12 @@
 ---
-title: Intensity
+title: "Intensity"
 weight: 711
-date: 2024-03-11
+date: 2024-03-11T00:00:00.000Z
 authors:
-- tdp9
+  - "tdp9"
 contributors:
-- notamoderatr
-- tdp9
+  - "notamoderatr"
+  - "tdp9"
 draft: false
 ---
 

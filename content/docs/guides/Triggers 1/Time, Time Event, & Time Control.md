@@ -1,12 +1,12 @@
 ---
-title: Time, Time Event, & Time Control
+title: "Time, Time Event, & Time Control"
 weight: 346
-date: 2024-02-11
+date: 2024-02-11T00:00:00.000Z
 authors:
-- naem.less
+  - "naem.less"
 contributors:
-- etherail
-- naem.less
+  - "etherail"
+  - "naem.less"
 draft: false
 ---
 

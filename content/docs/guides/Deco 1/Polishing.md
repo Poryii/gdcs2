@@ -1,12 +1,12 @@
 ---
-title: Polishing
+title: "Polishing"
 weight: 508
-date: 2023-03-10
+date: 2023-03-10T00:00:00.000Z
 authors:
-- matty2003
+  - "matty2003"
 contributors:
-- matty2003
-- Unknown
+  - "matty2003"
+  - "unknown"
 draft: false
 ---
 

@@ -4,11 +4,11 @@
 */ -}}
 
 {{- $username := .username | lower -}}
-{{- $userYAML := index (where .context.Site.Data.contributors "username" "==" $username) 0 -}}
-{{- $displayname := .username -}}
+{{- $userYAML := index (where .context.Site.Data.contributors "safeUsername" "==" $username) 0 -}}
+{{- $preferredName := .username -}}
 
-{{- if and $userYAML $userYAML.useDisplay -}}
-  {{- $displayname = $userYAML.displayname -}}
+{{- if and $userYAML $userYAML.usePreferred -}}
+  {{- $preferredName = $userYAML.preferredName -}}
 {{- end -}}
 
-{{- return $displayname -}}
+{{- return $preferredName -}}

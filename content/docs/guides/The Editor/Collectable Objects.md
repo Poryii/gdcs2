@@ -1,19 +1,18 @@
 ---
-title: Collectable Objects
+title: "Collectable Objects"
 weight: 111
-date: 2024-01-12
+date: 2024-01-12T00:00:00.000Z
 authors:
-- naem.less
+  - "naem.less"
 contributors:
-- naem.less
-- notamoderatr
+  - "naem.less"
+  - "notamoderatr"
 draft: false
-
 seo:
-  title: "How to Use Keys in Geometry Dash" # custom title (optional)
-  description: "A full explanation of collectable objects in Geometry Dash, such as keys and coins." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "How to Use Keys in Geometry Dash"
+  description: "A full explanation of collectable objects in Geometry Dash, such as keys and coins."
+  canonical: ""
+  noindex: false
 ---
 
 ## TLDR - What this guide covers

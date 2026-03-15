@@ -12,7 +12,7 @@
       {{- if eq $index (sub (len $contributors) 1) }} and {{ else }}, {{ end -}}
     {{- end }}
 
-    <a href='/contributors/{{- $contributor.username | lower -}}' target='_blank' rel='noopener'>{{- $contributor.displayname -}}</a>
+    <a href='/contributors/{{- $contributor.username | lower -}}' target='_blank' rel='noopener'>{{- $contributor.preferredName -}}</a>
 
     {{- if in $page.Params.authors $contributor.username -}}
       {{- $writerIcon := resources.Get "images/GDEmotes/Badges/writer.png" -}}

@@ -1,12 +1,12 @@
 ---
-title: Making Slow Gameplay
+title: "Making Slow Gameplay"
 weight: 417
-date: 2023-07-25
+date: 2023-07-25T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- halfcookedramen
-- komatic5
+  - "halfcookedramen"
+  - "komatic5"
 draft: false
 ---
 

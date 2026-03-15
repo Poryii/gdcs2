@@ -1,19 +1,18 @@
 ---
-title: Organizing Objects
+title: "Organizing Objects"
 weight: 103
-date: 2024-04-03
+date: 2024-04-03T00:00:00.000Z
 authors:
-- tdp9
+  - "tdp9"
 contributors:
-- tdp9
-- .tv_box.
+  - "tdp9"
+  - "tv_box"
 draft: false
-
 seo:
-  title: "Geometry Dash: Organizing Objects" # custom title (optional)
-  description: "Part 3 of how to use Geometry Dash's level editor, going over editor layers, select filter, and select all." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "Geometry Dash: Organizing Objects"
+  description: "Part 3 of how to use Geometry Dash's level editor, going over editor layers, select filter, and select all."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

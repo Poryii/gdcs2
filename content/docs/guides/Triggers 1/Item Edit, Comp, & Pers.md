@@ -1,19 +1,18 @@
 ---
-title: Item Edit, Comp, & Pers
+title: "Item Edit, Comp, & Pers"
 weight: 345
-date: 2023-12-30
+date: 2023-12-30T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- komatic5
-- vexilo5
+  - "komatic5"
+  - "vexilo5"
 draft: false
-
 seo:
-  title: "How to Use Item Edit, Compare, and Persist" # custom title (optional)
+  title: "How to Use Item Edit, Compare, and Persist"
   description: "A short guide to using the Item Edit, Item Compare, and Item Persist triggers in Geometry Dash."
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

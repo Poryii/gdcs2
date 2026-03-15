@@ -1,18 +1,17 @@
 ---
-title: Control Schemes
+title: "Control Schemes"
 weight: 616
-date: 2026-03-05
+date: 2026-03-05T00:00:00.000Z
 authors:
-- theibra
+  - "theibra"
 contributors:
-- theibra
+  - "theibra"
 draft: false
-
 seo:
-  title: "How to Make Minigame Controls in Geometry Dash" # custom title (optional)
-  description: "A complete guide to creating custom controls for a Geometry Dash level." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "How to Make Minigame Controls in Geometry Dash"
+  description: "A complete guide to creating custom controls for a Geometry Dash level."
+  canonical: ""
+  noindex: false
 ---
 {{< callout context="caution" title="Incomplete guide" icon="outline/info-circle" >}}
 This guide is missing the following:

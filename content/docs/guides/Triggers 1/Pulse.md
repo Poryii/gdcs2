@@ -1,12 +1,12 @@
 ---
-title: Pulse
+title: "Pulse"
 weight: 303
-date: 2024-01-08
+date: 2024-01-08T00:00:00.000Z
 authors:
-- electrifyxd
+  - "electrifyxd"
 contributors:
-- electrifyxd
-- Unknown
+  - "electrifyxd"
+  - "unknown"
 draft: false
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Making Animations
+title: "Making Animations"
 weight: 511
-date: 2023-08-05
+date: 2023-08-05T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- komatic5
-- yoreid
+  - "komatic5"
+  - "yoreid"
 draft: false
 ---
 

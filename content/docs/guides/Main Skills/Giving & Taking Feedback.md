@@ -1,12 +1,12 @@
 ---
-title: Giving & Taking Feedback
+title: "Giving & Taking Feedback"
 weight: 215
-date: 2023-03-14
+date: 2023-03-14T00:00:00.000Z
 authors:
-- Unknown
+  - "unknown"
 contributors:
-- etherail
-- Unknown
+  - "etherail"
+  - "unknown"
 draft: false
 ---
 

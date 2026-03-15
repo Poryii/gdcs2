@@ -16,7 +16,7 @@
         {{- if gt $index 0 }}{{ if eq $index $last }} & {{ else }}, {{ end }}{{ end -}}
 
         {{- $username := $contributor.username -}}
-        {{- $displayname := $contributor.displayname -}}
+        {{- $preferredName := $contributor.preferredName -}}
 
         {{- with $.Site.GetPage "taxonomyTerm" (printf "contributors/%s" (urlize $username)) -}}
           {{ if $.Params.avatar -}}
@@ -26,7 +26,7 @@
             <img class="rounded-circle w-auto mx-1 lazyload blur-up" src="{{ $imageLq.RelPermalink }}" data-src="{{ $image.RelPermalink }}" alt="{{ .Title }}" width="30" height="30">
           {{- end }}
         {{- end -}}
-        <a class="stretched-link position-relative" href="{{ "/contributors/" | relLangURL }}{{ $username | urlize }}/">{{ $displayname }}</a>
+        <a class="stretched-link position-relative" href="{{ "/contributors/" | relLangURL }}{{ $username | urlize }}/">{{ $preferredName }}</a>
       {{- end }}
     {{- end -}}
     </div>

@@ -1,12 +1,12 @@
 ---
-title: Making Logic Gates
+title: "Making Logic Gates"
 weight: 608
-date: 2024-09-16
+date: 2024-09-16T00:00:00.000Z
 authors:
-- tanhR
+  - "tanhr"
 contributors:
-- chuckolate
-- tanhR
+  - "chuckolate"
+  - "tanhr"
 draft: false
 ---
 

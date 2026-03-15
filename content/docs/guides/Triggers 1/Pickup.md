@@ -1,12 +1,12 @@
 ---
-title: Pickup
+title: "Pickup"
 weight: 343
-date: 2024-01-19
+date: 2024-01-19T00:00:00.000Z
 authors:
-- nailed_bread
+  - "nailed_bread"
 contributors:
-- nailed_bread
-- __madzz__
+  - "nailed_bread"
+  - "madzz"
 draft: false
 ---
 

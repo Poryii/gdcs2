@@ -1,12 +1,12 @@
 ---
-title: Speedcore Gameplay
+title: "Speedcore Gameplay"
 weight: 722
-date: 2024-05-15
+date: 2024-05-15T00:00:00.000Z
 authors:
-- illusion2
+  - "illusion2"
 contributors:
-- __madzz__
-- illusion2
+  - "madzz"
+  - "illusion2"
 draft: true
 ---
 

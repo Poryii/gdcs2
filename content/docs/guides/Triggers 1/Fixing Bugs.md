@@ -1,12 +1,12 @@
 ---
-title: Fixing Bugs
+title: "Fixing Bugs"
 weight: 347
-date: 2023-08-31
+date: 2023-08-31T00:00:00.000Z
 authors:
-- illusion2
+  - "illusion2"
 contributors:
-- notamoderatr
-- illusion2
+  - "notamoderatr"
+  - "illusion2"
 draft: false
 ---
 

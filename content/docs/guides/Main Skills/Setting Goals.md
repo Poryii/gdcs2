@@ -1,12 +1,12 @@
 ---
-title: Setting Goals
+title: "Setting Goals"
 weight: 207
-date: 2023-09-30
+date: 2023-09-30T00:00:00.000Z
 authors:
-- nikobik0
+  - "nikobik0"
 contributors:
-- nikobik0
-- notamoderatr
+  - "nikobik0"
+  - "notamoderatr"
 draft: false
 ---
 ## TLDR - What this guide covers

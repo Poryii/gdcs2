@@ -1,14 +1,14 @@
 ---
-title: Making Effects
+title: "Making Effects"
 weight: 512
-date: 2024-09-18
+date: 2024-09-18T00:00:00.000Z
 authors:
-- illusion2
+  - "illusion2"
 contributors:
-- chuckolate
-- illusion2
-- silvow.
-- sparktwee
+  - "chuckolate"
+  - "illusion2"
+  - "silvow"
+  - "sparktwee"
 draft: false
 ---
 

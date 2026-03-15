@@ -1,12 +1,12 @@
 ---
-title: Scale
+title: "Scale"
 weight: 310
-date: 2024-02-04
+date: 2024-02-04T00:00:00.000Z
 authors:
-- .eyz.
+  - "eyz"
 contributors:
-- .eyz.
-- sparktwee
+  - "eyz"
+  - "sparktwee"
 draft: false
 ---
 

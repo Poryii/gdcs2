@@ -2,16 +2,16 @@
 title: "Resources"
 description: ""
 summary: ""
-date: 2024-02-27T09:30:56+01:00
-lastmod: 2024-02-27T09:30:56+01:00
+date: 2024-02-27T08:30:56.000Z
+lastmod: 2024-02-27T08:30:56.000Z
 draft: false
 weight: 999
 toc: true
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: ""
+  description: ""
+  canonical: ""
+  noindex: false
 ---
 
 Link to valuable, relevant resources.

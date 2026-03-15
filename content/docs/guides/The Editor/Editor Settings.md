@@ -1,19 +1,18 @@
 ---
-title: Editor Settings
+title: "Editor Settings"
 weight: 104
-date: 2024-05-15
+date: 2024-05-15T00:00:00.000Z
 authors:
-- tdp9
+  - "tdp9"
 contributors:
-- tdp9
-- sparktwee
+  - "tdp9"
+  - "sparktwee"
 draft: false
-
 seo:
-  title: "Geometry Dash: Editor Settings" # custom title (optional)
-  description: "Part 4 of how to use Geometry Dash's level editor, going over how to customize your editor's settings and layout, level settings, and keybinds." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "Geometry Dash: Editor Settings"
+  description: "Part 4 of how to use Geometry Dash's level editor, going over how to customize your editor's settings and layout, level settings, and keybinds."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

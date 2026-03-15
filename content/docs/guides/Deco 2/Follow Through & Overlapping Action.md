@@ -1,12 +1,12 @@
 ---
-title: Follow Through & Overlapping Action
+title: "Follow Through & Overlapping Action"
 weight: 811
-date: 2025-04-30
+date: 2025-04-30T00:00:00.000Z
 authors:
-- .asandboxer
+  - "asandboxer"
 contributors:
-- .asandboxer
-- sparktwee
+  - "asandboxer"
+  - "sparktwee"
 draft: false
 ---
 

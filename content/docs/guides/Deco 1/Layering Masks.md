@@ -1,12 +1,12 @@
 ---
-title: Layering Masks
+title: "Layering Masks"
 weight: 515
-date: 2023-10-13
+date: 2023-10-13T00:00:00.000Z
 authors:
-- Unknown
+  - "unknown"
 contributors:
-- .thunderbat
-- Unknown
+  - "thunderbat"
+  - "unknown"
 draft: false
 ---
 

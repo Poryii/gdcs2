@@ -13,8 +13,8 @@
   {{ with .Params.headline -}}
     <h1 class="text-center">{{ . }}</h1>
   {{ else -}}
-    {{- $displayName := partial "get-contributor-name.html" (dict "username" .Title "context" $) -}}
-    <h1 class="text-center">{{ $displayName }}</h1>
+    {{- $preferredName := partial "get-contributor-name.html" (dict "username" .Title "context" $) -}}
+    <h1 class="text-center">{{ $preferredName }}</h1>
   {{ end -}}
     {{ with .Params.summary -}}<p class="lead text-center">{{ . }}</p>{{ end -}}
     {{ with .Content -}}<div class="text-center">{{ . }}</div>{{ end -}}

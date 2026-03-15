@@ -1,12 +1,12 @@
 ---
-title: Fairness
+title: "Fairness"
 weight: 709
-date: 2024-07-31
+date: 2024-07-31T00:00:00.000Z
 authors:
-- tdp9
+  - "tdp9"
 contributors:
-- notamoderatr
-- tdp9
+  - "notamoderatr"
+  - "tdp9"
 draft: false
 ---
 

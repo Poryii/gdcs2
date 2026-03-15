@@ -1,12 +1,12 @@
 ---
-title: Alpha
+title: "Alpha"
 weight: 305
-date: 2024-01-08
+date: 2024-01-08T00:00:00.000Z
 authors:
-- electrifyxd
+  - "electrifyxd"
 contributors:
-- electrifyxd
-- crepeerpro244
+  - "electrifyxd"
+  - "crepeerpro244"
 draft: false
 ---
 

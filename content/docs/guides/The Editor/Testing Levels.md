@@ -1,21 +1,20 @@
 ---
-title: Testing Levels
+title: "Testing Levels"
 weight: 116
-date: 2024-03-11
+date: 2024-03-11T00:00:00.000Z
 authors:
-- illusion2
-- sparktwee
+  - "illusion2"
+  - "sparktwee"
 contributors:
-- __madzz__
-- illusion2
-- sparktwee
+  - "madzz"
+  - "illusion2"
+  - "sparktwee"
 draft: false
-
 seo:
-  title: "How to Playtest a Geometry Dash Level" # custom title (optional)
-  description: "A short explanation of the GD editor's playtesting features." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "How to Playtest a Geometry Dash Level"
+  description: "A short explanation of the GD editor's playtesting features."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,12 +1,12 @@
 ---
-title: Count & Instant Count
+title: "Count & Instant Count"
 weight: 344
-date: 2024-01-24
+date: 2024-01-24T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- komatic5
-- __madzz__
+  - "komatic5"
+  - "madzz"
 draft: false
 ---
 

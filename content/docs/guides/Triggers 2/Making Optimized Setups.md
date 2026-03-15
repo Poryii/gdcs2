@@ -1,21 +1,20 @@
 ---
-title: Making Optimized Setups
+title: "Making Optimized Setups"
 weight: 615
-date: 2025-03-17
+date: 2025-03-17T00:00:00.000Z
 authors:
-- theibra
+  - "theibra"
 contributors:
-- chuckolate
-- theibra
-- themilkcat_tmc
+  - "chuckolate"
+  - "theibra"
+  - "themilkcat_tmc"
 draft: false
 math: true
-
 seo:
-  title: "How to Optimize Geometry Dash Setups" # custom title (optional)
-  description: "Tips for optimizing Geometry Dash setups." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "How to Optimize Geometry Dash Setups"
+  description: "Tips for optimizing Geometry Dash setups."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

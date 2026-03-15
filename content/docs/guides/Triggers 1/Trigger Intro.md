@@ -1,12 +1,12 @@
 ---
-title: Trigger Intro
+title: "Trigger Intro"
 weight: 301
-date: 2025-06-05
+date: 2025-06-05T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- komatic5
-- Unknown
+  - "komatic5"
+  - "unknown"
 draft: false
 ---
 

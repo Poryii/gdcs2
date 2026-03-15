@@ -1,12 +1,12 @@
 ---
-title: Pacing & Progression
+title: "Pacing & Progression"
 weight: 707
-date: 2023-06-26
+date: 2023-06-26T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- creeperiv
-- komatic5
+  - "creeperiv"
+  - "komatic5"
 draft: false
 ---
 

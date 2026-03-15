@@ -1,12 +1,12 @@
 ---
-title: Color 1 (Basics)
+title: "Color 1 (Basics)"
 weight: 801
-date: 2023-10-15
+date: 2023-10-15T00:00:00.000Z
 authors:
-- kde__
+  - "kde"
 contributors:
-- gustonguygermany
-- kde__
+  - "gustonguygermany"
+  - "kde"
 draft: false
 ---
 

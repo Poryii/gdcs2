@@ -1,12 +1,12 @@
 ---
-title: Parallax
+title: "Parallax"
 weight: 518
-date: 2024-01-15
+date: 2024-01-15T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- komatic5
-- sparktwee
+  - "komatic5"
+  - "sparktwee"
 draft: false
 ---
 

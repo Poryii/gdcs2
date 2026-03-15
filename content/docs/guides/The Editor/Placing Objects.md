@@ -1,19 +1,18 @@
 ---
-title: Placing Objects
+title: "Placing Objects"
 description: "A basic guide to the most important features in the GD Editor."
 weight: 101
-date: 2023-03-20
+date: 2023-03-20T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- komatic5
+  - "komatic5"
 draft: false
-
 seo:
-  title: "Geometry Dash: Placing Objects" # custom title (optional)
-  description: "Part 1 of how to use Geometry Dash's level editor, going over how to navigate the editor, and the build, edit, and delete tabs." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "Geometry Dash: Placing Objects"
+  description: "Part 1 of how to use Geometry Dash's level editor, going over how to navigate the editor, and the build, edit, and delete tabs."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,12 +1,12 @@
 ---
-title: Enter Triggers
+title: "Enter Triggers"
 weight: 325
-date: 2024-04-03
+date: 2024-04-03T00:00:00.000Z
 authors:
-- .eyz.
+  - "eyz"
 contributors:
-- etherail
-- .eyz.
+  - "etherail"
+  - "eyz"
 draft: false
 ---
 

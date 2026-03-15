@@ -1,12 +1,12 @@
 ---
-title: Random & Advanced Random
+title: "Random & Advanced Random"
 weight: 340
-date: 2023-04-07
+date: 2023-04-07T00:00:00.000Z
 authors:
-- themilkcat_tmc
+  - "themilkcat_tmc"
 contributors:
-- komatic5
-- themilkcat_tmc
+  - "komatic5"
+  - "themilkcat_tmc"
 draft: false
 ---
 

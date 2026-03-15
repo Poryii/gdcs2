@@ -1,14 +1,14 @@
 ---
-title: Level Design
+title: "Level Design"
 weight: 718
-date: 2025-01-14
+date: 2025-01-14T00:00:00.000Z
 authors:
-- intercomprehensible
+  - "intercomprehensible"
 contributors:
-- everedeck
-- komatic5
-- illusion2
-- intercomprehensible
+  - "everedeck"
+  - "komatic5"
+  - "illusion2"
+  - "intercomprehensible"
 draft: false
 ---
 

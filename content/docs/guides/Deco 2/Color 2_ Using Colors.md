@@ -1,12 +1,12 @@
 ---
-title: Color 2 (Using Colors)
+title: "Color 2 (Using Colors)"
 weight: 802
-date: 2023-11-30
+date: 2023-11-30T00:00:00.000Z
 authors:
-- kde__
+  - "kde"
 contributors:
-- .tv_box.
-- kde__
+  - "tv_box"
+  - "kde"
 draft: false
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Advanced Follow
+title: "Advanced Follow"
 weight: 312
-date: 2024-01-08
+date: 2024-01-08T00:00:00.000Z
 authors:
-- naem.less
+  - "naem.less"
 contributors:
-- etherail
-- naem.less
+  - "etherail"
+  - "naem.less"
 draft: false
 ---
 

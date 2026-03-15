@@ -1,12 +1,12 @@
 ---
-title: Sync & Rhythm
+title: "Sync & Rhythm"
 weight: 708
-date: 2025-11-15
+date: 2025-11-15T00:00:00.000Z
 authors:
-- kde__
+  - "kde"
 contributors:
-- kde__
-- komatic5
+  - "kde"
+  - "komatic5"
 draft: true
 ---
 

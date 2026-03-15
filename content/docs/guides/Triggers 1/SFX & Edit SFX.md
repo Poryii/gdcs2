@@ -1,12 +1,12 @@
 ---
-title: SFX & Edit SFX
+title: "SFX & Edit SFX"
 weight: 315
-date: 2024-01-07
+date: 2024-01-07T00:00:00.000Z
 authors:
-- electrifyxd
+  - "electrifyxd"
 contributors:
-- .tv_box.
-- electrifyxd
+  - "tv_box"
+  - "electrifyxd"
 draft: false
 math: true
 ---

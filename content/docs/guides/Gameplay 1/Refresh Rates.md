@@ -1,12 +1,12 @@
 ---
-title: Refresh Rates
+title: "Refresh Rates"
 weight: 421
-date: 2023-03-18
+date: 2023-03-18T00:00:00.000Z
 authors:
-- Unknown
+  - "unknown"
 contributors:
-- graylasagna
-- Unknown
+  - "graylasagna"
+  - "unknown"
 draft: false
 ---
 

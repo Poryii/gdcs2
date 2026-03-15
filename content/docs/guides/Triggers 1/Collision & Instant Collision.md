@@ -1,14 +1,14 @@
 ---
-title: Collision & Instant Collision
+title: "Collision & Instant Collision"
 weight: 337
-date: 2023-03-14
+date: 2023-03-14T00:00:00.000Z
 authors:
-- komatic5
-- typexleta
+  - "komatic5"
+  - "typexleta"
 contributors:
-- komatic5
-- typexleta
-- vexilo5
+  - "komatic5"
+  - "typexleta"
+  - "vexilo5"
 draft: false
 ---
 

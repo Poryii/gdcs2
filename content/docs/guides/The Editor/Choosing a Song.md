@@ -1,23 +1,22 @@
 ---
-title: Choosing a Song
+title: "Choosing a Song"
 weight: 105
-date: 2024-01-30
+date: 2024-01-30T00:00:00.000Z
 authors:
-- tdp9
-- print6165
+  - "tdp9"
+  - "print6165"
 contributors:
-- tdp9
-- .tv_box.
-- print6165
-- halfcookedramen
-- komatic5
+  - "tdp9"
+  - "tv_box"
+  - "print6165"
+  - "halfcookedramen"
+  - "komatic5"
 draft: false
-
 seo:
-  title: "How to Choose a Song in Geometry Dash" # custom title (optional)
-  description: "A short guide to choosing a song for your Geometry Dash level, using Newgrounds, the Music Library, and NONG file replacement." # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: "How to Choose a Song in Geometry Dash"
+  description: "A short guide to choosing a song for your Geometry Dash level, using Newgrounds, the Music Library, and NONG file replacement."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

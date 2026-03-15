@@ -1,12 +1,12 @@
 ---
-title: Light 2 (Making Shadows)
+title: "Light 2 (Making Shadows)"
 weight: 807
-date: 2025-06-30
+date: 2025-06-30T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- alexunam_777
-- komatic5
+  - "alexunam_777"
+  - "komatic5"
 draft: false
 ---
 

@@ -1,12 +1,12 @@
 ---
-title: Perspective 1 (Basics)
+title: "Perspective 1 (Basics)"
 weight: 820
-date: 2023-05-21
+date: 2023-05-21T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- kde__
-- komatic5
+  - "kde"
+  - "komatic5"
 draft: false
 ---
 

@@ -1,14 +1,12 @@
 ---
-title: Camera Simulation (2.1)
+title: "Camera Simulation (2.1)"
 weight: 619
-date: 2024-04-20
-authors:
-- "?"
+date: 2024-04-20T00:00:00.000Z
 contributors:
-- chunlv1
-- komatic5
-- sparktwee
-- zvleus1487
+  - "chunlv1"
+  - "komatic5"
+  - "sparktwee"
+  - "zvleus1487"
 draft: false
 ---
 

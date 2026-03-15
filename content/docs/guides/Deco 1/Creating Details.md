@@ -1,12 +1,12 @@
 ---
-title: Creating Details
+title: "Creating Details"
 weight: 506
-date: 2024-05-15
+date: 2024-05-15T00:00:00.000Z
 authors:
-- komatic5
+  - "komatic5"
 contributors:
-- komatic5
-- sparktwee
+  - "komatic5"
+  - "sparktwee"
 draft: false
 ---
 
