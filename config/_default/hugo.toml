@@ -6,6 +6,7 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = true
 enableRobotsTXT = true
+timeout: 180s
 languageCode = "en-US"
 rssLimit = 10
 summarylength = 20 # 70 (default)
