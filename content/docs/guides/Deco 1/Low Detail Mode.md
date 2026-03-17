@@ -49,7 +49,7 @@ Historically, lag started to become an issue once Update 2.0 came out with group
 
 These features snowballed to Updates 2.1 and 2.2 where players grew more concerned about lag, level performance, and optimizing details for effects and trigger setups to effectively create the vision they wanted. Additionally, with some mods allowing creators to bypass the object count limit, levels reached as high as 1 million objects.
 
-https://youtu.be/Htg4aIoRcYw?si=hacIGUodFEURDHNe
+{{< youtube Htg4aIoRcYw >}}
 
 # 2: Low Detail Mode
 

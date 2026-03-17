@@ -24,7 +24,7 @@ def format_media(lines):
 
         # replace plaintext gdrive link with shortcode
         html2 = re.sub(r'https://drive.google.com/file/d/', '{{< img src="https://lh3.googleusercontent.com/d/', html)
-        html2 = re.sub(r'(?<=googleusercontent.com/d/[a-zA-Z0-9\-\_]{33})/(pre)?view\?usp=drive_link', '" >}} \n', html2)
+        html2 = re.sub(r'(?<=googleusercontent.com/d/[a-zA-Z0-9\-\_]{33})/(pre)?view\?usp=(drive_link|sharing)', '" >}} \n', html2)
         html2 = re.sub(r'(?<=googleusercontent.com/d/[a-zA-Z0-9\-\_]{33})\s?\n', '" >}} \n', html2)
 
         html2 = re.sub(r'> • ', '- ', html2)
