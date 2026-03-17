@@ -4,15 +4,18 @@ description: ""
 summary: ""
 date: 2026-03-14T00:00:00.000Z
 draft: false
+toc: false
+type: "hub"
 seo:
   title: "Creator Showcase"
   description: ""
   canonical: ""
   noindex: false
 ---
-
+<div style="text-align: left;">
 {{< callout context="tip" title="This page shows levels made by our users. Feel free to check them out!" icon="outline/info-circle" >}}
 {{< /callout >}}
+</div>
 
 {{< card-grid >}}
 

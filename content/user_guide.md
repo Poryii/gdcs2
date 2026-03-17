@@ -4,18 +4,21 @@ description: ""
 summary: ""
 date: 2026-03-14T00:00:00.000Z
 draft: false
+toc: false
+type: "hub"
 seo:
   title: "All Guides"
   description: ""
   canonical: ""
   noindex: false
 ---
-
+<div style="text-align: left;">
 {{< callout context="tip" title="Use this page to find the guides you need." icon="outline/info-circle" >}}
 - Guides are organized in **grades**, from beginner to expert.
 - Each grade covers certain **skills**, like how to use the editor or plan levels.
 - Don't expect tutorials; we teach you to **create, not copy**.
 {{< /callout >}}
+</div>
 
 # Beginner (Grade 0)
 New to the Geometry Dash editor? Don't worry! You'll find all the info you need to get up to speed.
