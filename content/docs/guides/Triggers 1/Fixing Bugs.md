@@ -59,20 +59,20 @@ Mixing up Count and Instant Count triggers is possible, but they have some disti
 
 # 5: Example: Double Click
 
-{{< img src="https://lh3.googleusercontent.com/d/1E4fGRtGM3_M00ZH9k0mapIHfMkXDE5JT" >}}
+<div><iframe src=https://drive.google.com/file/d/1E4fGRtGM3_M00ZH9k0mapIHfMkXDE5JT/view></iframe></div>
 
 In the image above, we have a double click detector. When making a trigger setup, we need a vision for it. Our vision in this double click detector is that when you click, collision block 1 moves onto collision block 2 in a 0.25 second move time, which when triggered moves Block 1 to the left by 2 blocks and stops the trigger that moves Block 1 to the left by 1 block. In our vision, it should look like Block 1 is shifting back and forth, but never leaving to the left or right of either collision block.
 
-{{< img src="https://lh3.googleusercontent.com/d/1K6pLGgUxUw25_xtHHnXTExKeNCPOGMjp" >}}
+<div><iframe src=https://drive.google.com/file/d/1K6pLGgUxUw25_xtHHnXTExKeNCPOGMjp/view></iframe></div>
 
 In this video, we see Block 1 moving too far to the left, which _goes against our vision_. We have now _identified_ the bug, which goes to the next step, which is to _examine_ the bug.
 
 To start, we analyze what happened; Block 1 moved too far to the left. However, looking closer shows that as soon as Block 1 moved onto Block 2, the collision trigger moved Block 1 to its starting position, and then soon after, Block 1 shifted left by 2 grid spaces with a small delay in between. With logical thinking, we can infer that the problem came from the stop trigger and the move trigger that shifts Block 1 to the left by 1 grid space.
 
-{{< img src="https://lh3.googleusercontent.com/d/1Az0djF0Ol8P2WgkuwuZkG78lAtxPdT-u" >}}
+<div><iframe src=https://drive.google.com/file/d/1Az0djF0Ol8P2WgkuwuZkG78lAtxPdT-u/view></iframe></div>
 
 In this video, we’re looking through the groups and triggers to find anything odd. First, we start off with the collision block to see if there are any miscellaneous IDs. Then, we look at all the move triggers with wrong values, as well as the stop trigger. When looking through the spawn trigger, it seems it wasn’t given group 6, the group that the stop trigger stops. This is a common mistake when working with stop triggers.
 
-{{< img src="https://lh3.googleusercontent.com/d/1JVGQU35qnNENoxMrdprd2Rt5vgiz_qBr" >}}
+<div><iframe src=https://drive.google.com/file/d/1JVGQU35qnNENoxMrdprd2Rt5vgiz_qBr/view></iframe></div>
 
 Now that we know the bug’s origin, we just have to fix it. This fix is as simple as adding a group to a spawn trigger, but most other setups would require an extra module in order to patch a bug. Now that we’ve implemented a fix, we need to playtest and make sure no further problems arise. On a double click detector, spamming is easy enough to make sure.

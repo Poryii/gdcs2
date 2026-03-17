@@ -22,6 +22,9 @@ def format_media(lines):
 
         html2 = re.sub(r'> • ', '- ', html2)
 
+        html2 = re.sub(r'(?<=.be/[a-zA-Z0-9\-\_]{11})\n', ' >}}', html2)
+        html2 = re.sub(r'^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube(?:-nocookie)?\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|live\/|v\/)?)', '{{< youtube ', html2)
+
         relines.append(html2)
 
     return relines

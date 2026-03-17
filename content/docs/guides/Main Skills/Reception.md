@@ -147,7 +147,7 @@ If performance is below set expectations, that results in a letdown. Let’s see
 
 ## 1. Overhype
 
-{{< img src="https://lh3.googleusercontent.com/d/1ZmH96ZL-Q-uryvJnfMcuS8CkCTfqEt3P" >}}
+<div><iframe src=https://drive.google.com/file/d/1ZmH96ZL-Q-uryvJnfMcuS8CkCTfqEt3P/view></iframe></div>
 
 > LET ME TELL YOU ABOUT MY UPCOMING TOP 1 MASTERPIECE THAT IS GUARANTEED TO HAVE A MYTHIC RATING BECAUSE I AM GOING TO MAKE THE BEST LEVEL IN EXISTENCE. YOU ALL WILL BOW DOWN TO ME BECAUSE UNDER 40K OBJECTS, I AM GONNA BLOW… YOUR… MIND!
 >

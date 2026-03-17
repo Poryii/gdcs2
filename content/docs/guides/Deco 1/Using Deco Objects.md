@@ -66,11 +66,11 @@ There are many ways to create polygons, which all come from how you can view the
 
 To this extent, if a polygon isn’t already in the editor, you could make it using triangles, rectangles, and other simpler polygons:
 
-{{< img src="https://lh3.googleusercontent.com/d/1pyBPSdJtA33WasKXbuUlhv1H6paIyfIY" >}}
+{{< youtube ReCVKZBeU70 >}}
 
 Alternatively, you could place down a set of points and connect them using lines or glow, which is better for outlining shapes:
 
-{{< img src="https://lh3.googleusercontent.com/d/1oIHl5QZD5ofi3tQvzWg378GxpAEprvyP" >}}
+https://youtu.be/5EyV-rse2ZI
 
 In either case, you’ll be able to make your complex polygons very quickly with a bit of practice.
 
@@ -84,25 +84,25 @@ Custom curves are really just a collection of lines or rectangles stacked next t
 
 For example, you could make a circle by rotating lines around a center point. Be aware of where each object’s rotation center is, as it’ll make certain objects harder to make custom circles with:
 
-{{< img src="https://lh3.googleusercontent.com/d/1d8jINGALTCRvf9SacJ8vROzYzq0jiKRs" >}}
+https://youtu.be/UKgBJ4utA5Q
 
 Or, you could make a parabolic curve by combining a bunch of straight lines:
 
-{{< img src="https://lh3.googleusercontent.com/d/15RnUY0UBEKMd2TB-WDCfh8oxQlOOFfRu" >}}
+https://youtu.be/PCYK6TDL9ps
 
 Using 2.2’s new warping features, you can stretch out the pre-made curves to make larger circles more efficiently:
 
-{{< img src="https://lh3.googleusercontent.com/d/1cYv3788ydSa1ds3zAuywGHPhOg-5z9_a" >}}
+https://youtu.be/ICk0Th3UEmg
 
 And finally, you could freehand your curves if you’re patient and want a lot of control:
 
-{{< img src="https://lh3.googleusercontent.com/d/1Og7HkPUDKp-nu1mNZww2AJ0HfEve15sd" >}}
+https://youtu.be/NQaPbyNjN0A
 
 Once again, practice makes perfect here. This is especially true of the last two methods, as they can be quite time-consuming.
 
 As a final thing, you can also combine curves to create custom ones with more complexity. Feel free to mix and match different parts of curves as you wish, or to scale, warp, and transform them as necessary:
 
-{{< img src="https://lh3.googleusercontent.com/d/1T1HE_O680fU_84sEYnAjhvSQnR0VDR6t" >}}
+https://youtu.be/IZPYCrbjKw0
 
 ## Combining Geometric & Organic Shapes
 
@@ -122,7 +122,7 @@ In Geometry Dash, object colors are the same. As you can expect, you start by di
 
 I recommend you learn to choose colors by hand instead of strictly using hex codes or HSV numbers; specific numerical colors will not help you learn as much as eyeballing things and getting a good feel for what works.
 
-{{< img src="https://lh3.googleusercontent.com/d/1vZWkmHGgrZkQ98CqxJ3qgpGJ7s-Dvg2g" >}}
+https://youtu.be/KuHNWtOekvw
 
 # 4: Layering Objects & Texturing
 
@@ -172,7 +172,7 @@ You can also combine opacity with blending, of course. This makes your blending 
 
 Finally, note that you can use low opacity copies of objects to create blurred shapes, which is quite time-efficient.
 
-{{< img src="https://lh3.googleusercontent.com/d/1Q2kOwjN0RCfjhbjJkz8X1DqDpXek78Ih" >}}
+https://youtu.be/UoXnI6ni1ww
 
 **Video:** [How To DECORATE in Geometry Dash!](https://youtu.be/3ofZI82lKQ8?si=a5bXL1ilq24c9C_N)
 
