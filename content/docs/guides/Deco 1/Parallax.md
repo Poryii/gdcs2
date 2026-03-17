@@ -26,7 +26,7 @@ draft: false
 
 Basic parallax is described in the Making Backgrounds guide, and is demonstrated by this video. The background moves slower than the gameplay layer, while the foreground moves faster than the gameplay layer.
 
-{{< youtube 2z4OTRFuLP8
+{{< youtube 2z4OTRFuLP8 >}}
 
 At a high level, parallax can be used to figure out how far away things are - this is often applied for astronomy, such as calculating the distance between the earth and stars.
 
