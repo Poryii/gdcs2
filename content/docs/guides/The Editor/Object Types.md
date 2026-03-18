@@ -42,7 +42,7 @@ You can check which category an object is in by turning on hitboxes or clicking 
 
 This is the first tab, and it consists of all objects that are used as block or slab details. Blocks are the square objects, and slabs are the shorter ones. There might be some slope details as well, however the majority of them appear in the slopes tab. Note that not all objects have hitboxes, so you would need to combine them with the outline objects, which are covered in the next section. There are also objects used for Autobuild, which you can find in the [Custom Objects & Autobuild](/docs/guides/the-editor/custom-objects-autobuild/) guide.
 
-{{< img src="https://lh3.googleusercontent.com/d/1fUb0t-LwYFFapE0VTwBq2SuidFJX" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1fUb0t-LwYFFapE0VTwBq2SuidFJX-P4Y" >}}
 
 Most of the blocks are put into tilesets, which are basically a group of objects. Most tilesets include:
 - 1 x 1 object: a lonely object that doesn’t have to be put into a tileset
