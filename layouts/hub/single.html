@@ -29,6 +29,7 @@
 
 			<h1>{{ .Title }}</h1>
 
+			{{ "** **" | .Page.RenderString }}
 
 			<!-- <p class="lead">{{ .Params.lead | safeHTML }}</p> -->
 			{{ if ne .Params.toc false -}}
