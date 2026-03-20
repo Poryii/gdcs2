@@ -36,7 +36,7 @@ To edit their properties, you'll use the {{< img src="images/GDEmotes/Buttons/Ed
 
 # 1: Properties
 
-Collectable objects can be set to give the player points, [toggle](https://www.gdcreatorschool.com/docs/guides/triggers-1/toggle) or [spawn](https://www.gdcreatorschool.com/docs/guides/triggers-1/spawn) groups, or change the value of an [item ID].
+Collectable objects can be set to give the player points, [toggle](https://www.gdcreatorschool.com/docs/guides/triggers-1/toggle) or [spawn](https://www.gdcreatorschool.com/docs/guides/triggers-1/spawn) groups, or change the value of an [item ID](https://www.gdcreatorschool.com/docs/guides/triggers-1/pickup/#1-item-ids--pickup-trigger).
 
 - Pickup Item: Lets you set an [Item ID](https://www.gdcreatorschool.com/docs/guides/triggers-1/pickup/#1-item-ids--pickup-trigger) that the collectable affects. You specify the Item ID by typing one into the "Item ID" field.
 - Sub Count: By default the Item ID's value will increase by 1. You can change this by activating this checkbox, which decreases its value by 1.
