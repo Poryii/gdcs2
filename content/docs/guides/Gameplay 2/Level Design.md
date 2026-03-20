@@ -9,7 +9,7 @@ contributors:
   - "komatic5"
   - "illusion2"
   - "intercomprehensible"
-  - "Lightning-Fire"
+  - "sethlai"
 draft: false
 ---
 
