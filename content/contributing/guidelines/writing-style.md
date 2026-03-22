@@ -11,8 +11,6 @@ draft: false
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
-Welcome to GDCS guide making! These guidelines outline the main info you need to know. Here, you’ll learn:
-
 - What guides are.
 - How you can make a guide.
 - The types of support you get as a guide maker.
