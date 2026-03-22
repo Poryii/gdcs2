@@ -8,6 +8,11 @@ contributors:
   - "komatic5"
 draft: false
 math: true
+seo:
+  title: "Evenness in Geometry Dash"
+  description: "An explanation of evenness, one of the most crucial theories behind making good decoration in Geometry Dash."
+  canonical: ""
+  noindex: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
