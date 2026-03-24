@@ -8,10 +8,6 @@ media_folder: /static/media
 public_folder: /media
 publish_mode: editorial_workflow
 site-url: https://www.gdcreatorschool.com/
-slug:
-  encoding: "ascii"
-  clean_accents: true
-  sanitize_replacement: "-"
 
 fields: &page_fields
   - { label: Draft, name: draft, widget: boolean,
@@ -34,6 +30,7 @@ fields: &page_fields
 collections:
   - name: guides
     label: Guides
+    label_singular: Guide
     folder: "content/docs/guides"
     slug: "{{slug}}"
     sortable_fields: []
@@ -46,6 +43,7 @@ collections:
 
   - name: contributing
     label: Contributing
+    label_singular: Guide
     folder: "content/contributing"
     slug: "{{slug}}"
     sortable_fields: []
@@ -54,3 +52,4 @@ collections:
       depth: 5
       subfolders: false
     fields: *page_fields
+    create: true
