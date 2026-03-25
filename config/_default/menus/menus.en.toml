@@ -1,11 +1,6 @@
 [[main]]
-  name = "Creator Showcase"
-  url = "/showcase"
-  weight = 5
-
-[[main]]
   name = "User Guide"
-  url = "/user_guide"
+  url = "/user-guide"
   weight = 10
 
 [[main]]
@@ -13,9 +8,14 @@
   weight = 20
 
 [[main]]
-  name = "Contributors"
-  url = "/contributors"
-  weight = 30
+  name = "Creator Showcase"
+  url = "/showcase"
+  weight = 25
+
+[[main]]
+  name = "Contributing"
+  url = "/contributing/Contributing Guide"
+  weight = 100
 
 [[main]]
   parent="All Guides"

@@ -4,7 +4,7 @@ description = "Guides, documentation, and advice for creators in Geometry Dash."
 images = ["Banner2_Small.png"]
 
 # mainSections
-mainSections = ["docs"]
+mainSections = ["docs", "contributing", "hub"]
 
 # Doks (@thulite/doks-core)
 [doks]
@@ -41,7 +41,7 @@ mainSections = ["docs"]
   bootstrapJavascript = false # false (default) or true
 
   # Nav
-  sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
+  sectionNav = ["docs", "contributing"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = true # false (default) or true
   breadcrumbTrail = false # false (default) or true
   headlineHash = true # true (default) or false

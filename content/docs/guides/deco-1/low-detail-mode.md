@@ -10,7 +10,7 @@ contributors:
   - "creeperiv"
   - "komatic5"
   - "sparktwee"
-draft: true
+draft: false
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
@@ -23,6 +23,7 @@ draft: true
 {{< /callout >}}
 
 ** **
+
 # 1: How Levels are Rendered
 
 Generally speaking, the game does calculations for every object in a level. By that logic, the more frequent and complex the calculations are, the laggier the level.
@@ -73,7 +74,7 @@ Following that idea, sometimes you might want to give the players more customiza
 3. Normal with LDM ticked
 4. Min Mode with LDM ticked
 
-{{< youtube j_Hgp-k2twk >}} 
+{{< youtube j_Hgp-k2twk >}}
 
 With 2.2’s upgrades in Item IDs, the amount of LDM customization has expanded.
 
@@ -134,7 +135,7 @@ While there are curved objects available in the editor, sometimes they might not
 
 ## 1c Object Types
 
-**Object Types** is the strongest way to efficiently optimize, although using this requires more experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These optimized objects will depend on what you’re trying to do with the unoptimized objects as shown in[Creating Details](<https://discord.com/channels/414295025883545600/1233710767895740456/1233710767895740456>). For example, you can get away with using the wood objects in the 1st and 9th tabs in the editor instead of making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which includes things like creating custom curves instead of default curves.
+**Object Types** is the strongest way to efficiently optimize, although using this requires more experience. Essentially, some objects can be sufficient to maintain similar quality with far lower object counts. These optimized objects will depend on what you’re trying to do with the unoptimized objects as shown in [Creating Details](<https://discord.com/channels/414295025883545600/1233710767895740456/1233710767895740456>). For example, you can get away with using the wood objects in the 1st and 9th tabs in the editor instead of making your own custom wood. In general, be aware that custom assets will always be more inefficient than using default objects, which includes things like creating custom curves instead of default curves.
 
 With other object types that have both base and detail color channels, you can also make use of partial masking to make them part of a detail.
 
@@ -142,7 +143,7 @@ With other object types that have both base and detail color channels, you can a
 
 As much as creators can use toggles for LDM, toggles can also be used for optimizing by removing unnecessary objects that are offscreen. Castlemania does this with its branching paths where any path the player avoids gets toggled off. As shown here, removing those toggles makes the level difficult to render in the editor and in-game.
 
-{{< youtube dhsYDtOrvw0 >}} 
+{{< youtube dhsYDtOrvw0 >}}
 
 ## Miscellaneous Methods
 
@@ -180,4 +181,4 @@ Note that this works significantly better if you use a lot of Editor layers. Thi
 
 Here is an example of this process.
 
-{{< youtube NMwzuKoi3Nk >}} 
+{{< youtube NMwzuKoi3Nk >}}

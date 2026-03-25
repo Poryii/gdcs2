@@ -24,6 +24,7 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+  margin-bottom: 1rem;
 }
 
 img.emote {
@@ -52,6 +53,7 @@ img.headingemote {
     height: 4rem;
     width: auto;
     vertical-align: middle;
+    margin-bottom: 0rem;
 }
 
 h2 img.headingemote {
@@ -81,4 +83,15 @@ h4 img.headingemote {
 
 .audio-card audio {
   max-width: 100%;
+}
+
+table {
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+table td, table th {
+  padding: 8px 16px;
+  border: 1px solid #eee;
 }
