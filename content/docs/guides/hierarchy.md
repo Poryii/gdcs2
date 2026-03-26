@@ -55,11 +55,11 @@ What contrasts more: a white square against a black background, or a black squar
 This idea is the basis of **visual weight** – basically, **how much an object draws attention to itself**. Objects with high visual weight will pull your eyes to them more, the same way heavy objects (like your mom) use more force when moving.
 Keep in mind that **visual weight is all relative**. If an object draws lots of attention to itself, it will only feel that way because other objects in its surroundings don't draw as much attention to themselves.
 
-\`(Need an image example here)\`
+`(Need an image example here)`
 Since visual weight is based on the elements of deco, each one provides a way to increase visual weight.
 
 
-\`(Each of these needs an image example)\`
+`(Each of these needs an image example)`
 
 * **Value:** The most important way to increase visual weight. Value contrast is the one method that lets you completely maximize contrast (for instance, pure black on pure white). Brighter objects, such as lights, tend to have more visual weight (though this depends on how bright the surroundings are).
 * **Proximity:** This is derived from space and form, and is basically how "close" an object feels to you. Objects that feel closer will have more visual weight. Similarly, objects packed closer together will have more visual weight than if they're far apart.
