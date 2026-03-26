@@ -51,6 +51,22 @@ The components of deco are as follows.
 
 # 2: Contrast
 
+While it's important to know what elements make up deco, it's equally (or even more) important to know about **contrast**. Put simply, this is the difference between two objects. Contrast is the reason why you can see, distinguish objects from each other, and so on; so knowing how to manipulate it is crucial for deco.
+
+For decoration, these differences will be based on the elements of deco described above. A red object differs from a blue object because of color, while a circle contrasts with a square because of its shape. Objects can have multiple types of contrast, which is often how you make more dynamic and interesting visuals.
+
+The image below shows an example of contrast at work.
+
+* The tree's **colors** stand out from its surroundings. While most of the art uses blue and less saturated colors, the tree uses greens, yellows, and reds that stand out.
+* While most of the art is dark, the tree and the ground around it have **brighter values**. The snow near the tree is noticeably brighter for instance, making it feel like there's a spotlight on the tree.
+* The **lines** here aren't incredibly explicit, but they still exist. Anywhere that there's a border between shapes, there's technically a line. There are also plenty of lines on the cliff face which help give the rocks details.
+* While the **shapes** of the rocks are mostly jagged and angular, the tree uses flowing curves as its shape. This helps it stand out against the environment.
+* The lighting helps communicate the **forms** of the tree and environment. The light only hits certain parts of the tree, providing the illusion that light is being blocked in some parts as 3D objects would do.
+* The **texture** of the tree leaves and bark differs from that of the snow and rocks.
+
+
+{{< img src="https://cdnb.artstation.com/p/assets/images/images/094/136/337/large/rutger-van-de-steeg-merryxmasfromrutger205notext.jpg?1765886856" >}}
+
 
 
 ## Visual Weight
