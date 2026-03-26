@@ -47,7 +47,14 @@ Put simply, this is the difference between two objects. Contrast is the reason w
 
 
 For decoration, these differences will be based on the elements of deco described above. A red object differs from a blue object because of color, while a circle contrasts with a square because of its shape. Objects can have multiple types of contrast, which is often how you make more dynamic and interesting visuals.
+
+
 The image below shows an example of contrast at work.
+
+
+{{< img src="https://cdnb.artstation.com/p/assets/images/images/094/136/337/large/rutger-van-de-steeg-merryxmasfromrutger205notext.jpg?1765886856" >}}
+
+
 
 * The tree's **colors** stand out from its surroundings. While most of the art uses blue and less saturated colors, the tree uses greens, yellows, and reds that stand out.
 * While most of the art is dark, the tree and the ground around it have **brighter values**. The snow near the tree is noticeably brighter for instance, making it feel like there's a spotlight on the tree.
@@ -55,7 +62,6 @@ The image below shows an example of contrast at work.
 * While the **shapes** of the rocks are mostly jagged and angular, the tree uses flowing curves as its shape. This helps it stand out against the environment.
 * The lighting helps communicate the **forms** of the tree and environment. The light only hits certain parts of the tree, providing the illusion that light is being blocked in some parts as 3D objects would do.
 * The **texture** of the tree leaves and bark differs from that of the snow and rocks.
-  {{< img src="https://cdnb.artstation.com/p/assets/images/images/094/136/337/large/rutger-van-de-steeg-merryxmasfromrutger205notext.jpg?1765886856" >}}
 
 
 Knowing how to use contrast effectively can help you make decoration as good as the image above. However, using contrast effectively requires a bit more nuance.
@@ -68,7 +74,17 @@ This is *similar* to contrast, but covers a different aspect. Variety is **how d
 
 `Insert a diagram/image showing exactly what's described in the last sentence`
 
-``
+Like contrast, variety helps make your deco more interesting. However, its role is often to **make contrast feel more natural**. You can't have high contrast in *every* area of your deco, as that becomes overwhelming or looks deep-fried. Adding more variety will help to make your contrast less harsh, which is helpful when you need lots of contrast without making everything chaotic.
+
+This art by Baptiste Boutié shows exactly what I mean. There is fairly high contrast in a few places, such as how the mech and person use dark colors while being placed against bright clouds. However, it doesn't feel overwhelming because they aren't *entirely* dark colors; there are enough midtones scattered throughout to make the transition from light to dark feel more natural.
+
+
+{{< img src="https://cdna.artstation.com/p/assets/images/images/084/969/724/large/baptiste-boutie-monarch.jpg?1739642081" >}}
+
+Without the midtones, the art feels deep-fried and certainly doesn't look as good.
+
+
+
 
 
 
@@ -96,3 +112,7 @@ Since visual weight is based on the elements of deco, each one provides a way to
 * **Edges/Lines:** Objects with thicker lines will appear to have more weight than objects with thinner lines. This is a side effect of proximity as thick lines are often used to convey objects being closer.
 * **Proportion:** Larger parts of objects carry more visual weight than smaller parts.
 * **Texture:** Objects with textures will have more visual weight than flat objects without any texture. This is also the least impactful way to increase visual weight.
+
+# 3: Design Language
+
+How you use these elements to basically make a style for yourself / communicate certain things, and the stuff that goes into that (e.g., repetition, consistency, etc)
