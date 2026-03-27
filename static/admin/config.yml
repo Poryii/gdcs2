@@ -14,8 +14,10 @@ site_url: https://www.gdcreatorschool.com/
 fields: &page_fields
   - { label: Draft, name: draft, widget: boolean,
     hint: "Enabling draft mode lets you save your changes, but doesn't make them available on the website."}
-  - { label: Title, name: title, widget: string }
-  - { label: Date, name: date, widget: datetime, time_format: false, format: "YYYY-MM-DD" }
+  - { label: Title, name: title, widget: string,
+    hint: "The guide's title that will be seen on the website." }
+  - { label: Date, name: date, widget: datetime, time_format: false, format: "YYYY-MM-DD",
+    hint: “The date when the guide is published and becomes public.” }
   - label: SEO
     name: seo
     widget: object
@@ -33,25 +35,43 @@ fields: &page_fields
     hint: "Lets you use MathJax for math formatting in your guide."}
   - { label: Body, name: body, widget: markdown }
 
-collections:
-  - name: guides
-    label: Guides
-    label_singular: Guide
-    folder: "content/docs/guides"
-    slug: "{{slug}}"
-    sortable_fields: []
-    summary: "[Draft: {{ draft }}] - {{ title }}"
-    nested:
-      depth: 5
-      subfolders: false
-    fields: *page_fields
-    create: true
+guide_base: &guide_base
+  label_singular: Guide
+  slug: "{{slug}}"
+  preview_path: "docs/guides/{{dirname}}/{{filename}}"
+  sortable_fields: []
+  summary: "[Draft: {{ draft }}] - {{ title }}"
+  fields: *page_fields
+  create: true
 
+collections:
+  # the editor
+  - { name: the-editor, label: The Editor, folder: "content/docs/guides/the-editor", preview_path: "docs/guides/the-editor/{{filename}}", <<: *guide_base }
+
+  # main skills
+  - { name: main-skills, label: Main Skills, folder: "content/docs/guides/main-skills", preview_path: "docs/guides/main-skills/{{filename}}", <<: *guide_base }
+
+  # deco
+  - { name: deco-1, label: Basic Deco, folder: "content/docs/guides/deco-1", preview_path: "docs/guides/deco-1/{{filename}}", <<: *guide_base }
+  - { name: deco-2, label: Intermediate Deco, folder: "content/docs/guides/deco-2", preview_path: "docs/guides/deco-2/{{filename}}", <<: *guide_base }
+  - { name: deco-3, label: Advanced Deco, folder: "content/docs/guides/deco-3", preview_path: "docs/guides/deco-3/{{filename}}", <<: *guide_base }
+
+  # gameplay
+  - { name: gameplay-1, label: Basic Gameplay, folder: "content/docs/guides/gameplay-1", preview_path: "docs/guides/gameplay-1/{{filename}}", <<: *guide_base }
+  - { name: gameplay-2, label: Intermediate Gameplay, folder: "content/docs/guides/gameplay-2", preview_path: "docs/guides/gameplay-2/{{filename}}", <<: *guide_base }
+
+  # triggers
+  - { name: triggers-1, label: Basic Triggers, folder: "content/docs/guides/triggers-1", preview_path: "docs/guides/triggers-1/{{filename}}", <<: *guide_base }
+  - { name: triggers-2, label: Intermediate Triggers, folder: "content/docs/guides/triggers-2", preview_path: "docs/guides/triggers-2/{{filename}}", <<: *guide_base }
+  - { name: triggers-3, label: Advanced Triggers, folder: "content/docs/guides/triggers-3", preview_path: "docs/guides/triggers-3/{{filename}}", <<: *guide_base }
+
+  # contributing guides
   - name: contributing
     label: Contributing
     label_singular: Guide
     folder: "content/contributing"
     slug: "{{slug}}"
+    preview_path: "contributing/{{dirname}}/{{filename}}"
     sortable_fields: []
     summary: "[Draft: {{ draft }}] - {{ title }}"
     nested:
