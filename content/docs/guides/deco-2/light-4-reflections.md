@@ -1,8 +1,12 @@
 ---
-draft: true
-title: Light 4 (Reflections)
-date: 2026-03-27
+draft: false
+title: "Light 4 (Reflections)"
+date: 2026-03-27T00:00:00.000Z
 weight: 8090
+authors:
+  - "sethlai"
+contributors:
+  - "sethlai"
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
@@ -24,7 +28,15 @@ Essentially, the angle at which the line of sight intersects a surface is called
 
 First, light comes in, hitting a surface. The angle at which the light hits the surface gets mirrored over an imaginary line known as the normal. Then, the reflected light bounces off the surface.
 
-{{< img-grid >}} {{< img src="https://lh3.googleusercontent.com/d/1aGD8e82-9XrWbJ3GJ-cgTTIvMl1ArFtv" > < img src="https://lh3.googleusercontent.com/d/14WhQBRVlYmiHn4Qr_hlmIFK4CtC-16OG" > < img src="https://lh3.googleusercontent.com/d/1rWDDa8jxmsRavzmMYR-vnNN2ZQ9lukMY" >}} {{< /img-grid >}}
+{{< img-grid >}}
+
+{{< img src="https://lh3.googleusercontent.com/d/1aGD8e82-9XrWbJ3GJ-cgTTIvMl1ArFtv" >}}
+
+{{< img src="https://lh3.googleusercontent.com/d/14WhQBRVlYmiHn4Qr_hlmIFK4CtC-16OG" >}}
+
+{{< img src="https://lh3.googleusercontent.com/d/1rWDDa8jxmsRavzmMYR-vnNN2ZQ9lukMY" >}}
+
+{{< /img-grid >}}
 
 ## Fresnel Effect
 
