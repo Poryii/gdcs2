@@ -1,26 +1,28 @@
 ---
+draft: false
 title: Perspective 1 (Basics)
-weight: 8200
 date: 2023-05-21T00:00:00.000Z
+weight: 8200
 authors:
   - komatic5
 contributors:
   - kde
   - komatic5
-draft: false
 ---
-
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+
 - Forms are 3D objects bound by 2D shapes. These shapes make it easier to understand how the 3D form projects onto a flat 2D screen.
 - Complex forms can be simplified into a combination of simpler, basic forms.
 - Perspective is how forms and their shapes appear when seen from different viewpoints.
 - The horizon line is the boundary between the sky and the ground.
 - A vanishing point is where a set of lines parallel to each other converge.
 
+
 {{< /callout >}}
 
-** **
-# 1: Form**
+- - -
+
+# 1: Form
 
 Shapes are 2D objects bounded by lines. Forms are 3D objects bounded by shapes. Just as shapes can be made with lines and curves, forms are made by combining shapes together. The most common shapes used are quadrilaterals (four-sided shapes), ellipses, and triangles.
 
@@ -32,9 +34,9 @@ It is very useful to study real-life objects to see how these forms get combined
 
 {{< img src="https://lh3.googleusercontent.com/d/1bx-Oz3CcqCSzmhL_DL-JKSidWxL-23l1" >}}
 
-# 2: Essence of Perspective**
+# 2: Essence of Perspective
 
-**Perspective** is __how forms change shape depending on your viewpoint__. From one angle, for example, a box will appear as a square; however, from another it will resemble two trapezoids or three parallelograms. An example is shown below.
+**Perspective** is **how forms change shape depending on your viewpoint**. From one angle, for example, a box will appear as a square; however, from another it will resemble two trapezoids or three parallelograms. An example is shown below.
 
 {{< img src="https://lh3.googleusercontent.com/d/1NtdfzibTu0aCgkfZBKtC8UJLBD_n3-Xd" >}}
 
@@ -46,11 +48,11 @@ Perspective is ultimately an illusion created by your brain. The brain is used t
 
 With that, let’s discuss the main concepts for perspective.
 
-# 3: Basics**
+# 3: Basics
 
 The horizon line and the vanishing point are crucial concepts to grasp for a good understanding of perspective. They are a way to organize forms in relation to each other and in relation to space.
 
-The **horizon line** __marks where the ground and sky meet. It helps describe where in the scene you are looking__ (i.e. if youre looking up from a low point, down from a high point, etc).
+The **horizon line** **marks where the ground and sky meet. It helps describe where in the scene you are looking** (i.e. if youre looking up from a low point, down from a high point, etc).
 
 This is the most important thing you must know about perspective when working with it. Even if you’re making a scene that does not make much use of vanishing points, you must still use the horizon line to communicate where the viewer is looking. Here are two examples of different horizon lines and how they work in practice.
 
@@ -62,7 +64,7 @@ On the other hand, a horizon line above the vertical midpoint can give the impre
 
 {{< img src="https://lh3.googleusercontent.com/d/1dLbXGeTK9yQaXHNTZo9-2kj15eK_1sGH" >}}
 
-In perspective, __if you extend all the parallel lines from a form, they will eventually converge at a point__. This is called a **vanishing point**, and is useful for actually making forms. You can pick out a few vanishing points to orient a form accurately.
+In perspective, **if you extend all the parallel lines from a form, they will eventually converge at a point**. This is called a **vanishing point**, and is useful for actually making forms. You can pick out a few vanishing points to orient a form accurately.
 
 Note that vanishing points need not strictly be on the horizon line, although they often are.
 
@@ -84,6 +86,6 @@ The example below shows how rotated forms look in 2-point perspective. Rotating 
 
 {{< img src="https://lh3.googleusercontent.com/d/1c8UkdUcuuQzynNMKimf1dr4m6kAGI3XU" >}}
 
-
 # Sources
-- [Drawabox Part 1, Lesson 1](<https://drawabox.com/lesson/1/6/123pointperspective>)
+
+* [Drawabox Part 1, Lesson 1](https://drawabox.com/lesson/1/6/123pointperspective)
