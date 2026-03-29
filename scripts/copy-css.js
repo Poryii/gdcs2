@@ -5,7 +5,7 @@ const publicDir = path.join(__dirname, '../public');
 const targetDir = path.join(__dirname, '../public/admin');
 
 if (!fs.existsSync(publicDir)) {
-    console.warn("Copy main.css into static/ failed: The 'public' folder didn't exist. Run 'npm run dev' again.");
+    console.warn("Copy main.css into public/ failed: The 'public' folder didn't exist. Run 'npm run dev' again.");
     process.exit(0);
 }
 
@@ -28,7 +28,7 @@ if (mainCSS) {
 
     fs.writeFileSync(dest, cssContent);
 
-    console.log(`Success: Clean main.css saved to static/admin/main.css`);
+    console.log(`Success: Clean main.css saved to public/admin/main.css`);
 } else {
     console.warn("A main.*.css file doesn't exist in public/");
 }
