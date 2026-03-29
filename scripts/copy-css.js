@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const publicDir = path.join(__dirname, '../public');
-const targetDir = path.join(__dirname, '../static/admin');
+const targetDir = path.join(__dirname, '../public/admin');
 
 if (!fs.existsSync(publicDir)) {
     console.warn("Copy main.css into static/ failed: The 'public' folder didn't exist. Run 'npm run dev' again.");
