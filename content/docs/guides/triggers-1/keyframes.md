@@ -1,7 +1,7 @@
 ---
 title: Keyframes
-weight: 3110
 date: 2024-05-15T00:00:00.000Z
+weight: 3110
 authors:
   - theibra
 contributors:
@@ -76,13 +76,13 @@ The following settings are related to the transition’s duration.
 - **Ref only**: The keyframe will be used as a reference for the path to take, their time settings are ignored in both “Even” and “Dist” modes. Ref only keyframes are half transparent in the editor.
 - **Easing**: Gives an easing effect to the animation, similar to the move, rotate and scale triggers, the easing lasts from the current keyframe to the next non Ref Only keyframe.
 
-{{< img src="https://lh3.googleusercontent.com/d/1r_xIjy0VS9_pkwKq-pPm8jQFGkzQB7Hn" >}}
+{{< video src="https://lh3.googleusercontent.com/d/1r_xIjy0VS9_pkwKq-pPm8jQFGkzQB7Hn" >}}
 
 - **Time**: The target will take the time specified in Duration to transition to the next keyframe.
 - **Even**: The time specified in Duration will be divided evenly between all transitions until the next non Ref Only keyframe.
 - **Dist**: The target will take the time specified in Duration to move to the next non Ref Only keyframe, rotation and scaling will act similarly to Even mode.
 
-{{< img src="https://lh3.googleusercontent.com/d/1wi_6e4cb90p_XmnycU7ZPn_TESylHIAq" >}}
+{{< video src="https://lh3.googleusercontent.com/d/1wi_6e4cb90p_XmnycU7ZPn_TESylHIAq" >}}
 
 ## Full Rotation Settings
 
