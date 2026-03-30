@@ -1,33 +1,39 @@
 ---
 draft: false
 title: Using Shaders
-weight: 5145
 date: 2026-03-29T00:00:00.000Z
-description: Shaders are powerful visual tools that allow many creators to change how the entire screen looks or feels during the level. Instead of simply decorating to make the level visually appealing, shaders let you apply many different effects that help making your level more immersive. However, using shaders effectively requires practice, planning, and a clear understanding on how they work. This guide explains how to use shaders properly, especially for people who want to improve the level design and atmosphere of their level.
+weight: 5125
 authors:
   - poryii
 contributors:
   - poryii
-tags:
-  - Grade 1
-  - Visual Effects
 ---
-
 {{< callout context="caution" title="Incomplete guide" icon="outline/info-circle" >}}
+
 This guide is missing the following:
 - Examples
+
 
 {{< /callout >}}
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
-- Shaders are effects that cover the whole screen.
-- They can enhance your level's atmosphere and immersion, but they do not affect gameplay itself.
-- Use shaders in key moments like drops, transitions, and intensity changes to emphasize important beats in the music and structure of your level.
-- Keep effects controlled and make sure they have a clear purpose. Overusing shaders can cause lag, reduce visibility, and make your level feel messy, rather than polished.
-
+* Shaders are effects that cover the whole screen.
+* They can enhance your level's atmosphere and immersion, but they do not affect gameplay itself.
+* Use shaders in key moments like drops, transitions, and intensity changes to emphasize important beats in the music and structure of your level.
+* Keep effects controlled and make sure they have a clear purpose. Overusing shaders can cause lag, reduce visibility, and make your level feel messy, rather than polished.
+* You can use Shaders beyond their regular "limits" to get different effects.
 {{< /callout >}}
 
-** **
+- - -
+
+Shaders are powerful visual tools that allow many creators to change how the entire screen looks or feels during the level. Instead of simply decorating to make the level visually appealing, shaders let you apply many different effects, such as:
+
+* Glitchy effects
+* Pixelation effects
+* Blur
+* Lens circles
+
+These help create a more immersive feeling to your level. However, using shaders effectively requires practice, planning, and a clear understanding on how they work. This guide explains how to use shaders properly, especially for people who want to improve the level design and atmosphere of their level.
 
 # 1: When to Use a Shader
 
@@ -39,12 +45,14 @@ Because of this, shaders should be treated as something you keep in mind through
 
 {{< callout context="caution" title="Ask yourself these 3 questions:" icon="outline/info-circle" >}}
 
+
+
 - Does the shader effect match the theme/mood of the music?
 - Does it improve the quality of the theme/mood?
 - Is it making the player's experience better and more immersive?
 
-{{< /callout >}}
 
+{{< /callout >}}
 
 If the answer is no, it's probably better to leave the shader out. Using shaders does not mean adding as many effects as possible. It's more about using them at the right time to enhance the overall feel and atmosphere of your level, without distracting them from the gameplay.
 
@@ -54,13 +62,14 @@ Shaders are also very useful when you want to establish or change the atmosphere
 
 However, creators should be careful with their shader usage. Keeping effects active at all times can overwhelm the player and make the level hard to read and understand. (Not to mention the lag) Instead, it's better to use shaders in short, controlled moments that show a clear impact in the level. This will also prevent performance issues that may occur.
 
-
 ## Understanding What Shaders do
+
 Shaders can enhance the visuals and overall feeling of the level in real-time. This means that they can influence the brightness, colour, and distortion of what the player sees. At their core, shaders act like filters layerered on your level.
 
 It is important to realize that shaders do not change the actual gameplay; they only affect the visuals and how the level looks. However, shaders can strongly influence how the player experiences the level. Due to the fact that shaders affect the whole screen, they must be used carefully. Even a small change in your shader trigger settings can have a big impact on the player's visibility. For this reason, you should think of shaders as a tool for enhancing your level, and not overusing them and abusing them.
 
 # 2: How to Use Shaders
+
 Learning what the different shader triggers do and can be found in Screen Filters in the Basic Triggers Section. We have a full guide on how to use and set up each shader trigger. If you don't know how to use one of them, you can read the guide [here](https://www.gdcreatorschool.com/docs/guides/triggers-1/screen-filters/).
 
 We won't go too in-depth as we already have a guide on how to use them, but here's how it works.
@@ -76,35 +85,43 @@ None
 3. Change the Trigger however you like! You can also use the shader trigger (the trigger literally called shader, not to be confused with the other shader triggers.) to change what Z Layers the shader will affect!
 
 # 3. Scenarios & Techniques Involving Shaders
+
 Like we've said before, shaders are most effective when used in specific situations, rather than being applied randomly. Understanding when and how to use them are cruicial, as they can improve level design, and the level quality and overall experience. Here are some examples how you can use shaders effectively:
 
 ## Treating Shaders as Pulses
+
 Shaders can be used to create quick pulses that sync on beat with the music, and it's actually very simple to set up. For example, you can combine a radial blur with a lens circle with the colour black, and set them up like this, acting as a "pulse trigger" while still having a unique effect that a pulse trigger couldn't set up.
 
 None
 
 ## Using Them During Transitions
+
 By using shaders during transitions, you can make a transition smoother between different sections of the level. You can change the colour hue, have a shockwave effect, or even a slight distortion to signal a shift or change in the level. This helps make the level feel more connected with the theme and the music.
 
 None
 
 ## Utilizing Shaders as Subtle Enhancements
+
 Instead of just relying on strong effects lasting a lifetime, shaders can be used in small amounts so you can polish up your level. For example, you can add a glitch effect to your level if there's already a kind of "glitchy vibe" to it, that slowly gets more intense over time, to give a sense of buildup throughout the level.
 
 None
 
 # 3: Using Shaders to Mask Certain Objects
+
 Shader Masking gives you control over where visual effects appear in your level. Instead of applying a visual effect to everything on the screen, you can choose specific objects or areas to be affected. This allows you to make parts of the background change colour, highlight certain areas, or create effects that only appear in specific regions, all while keeping important parts of the level like the gameplay completely clear.
 
 One important fact you should know is that you are not limited to the “normal” values shown in the editor. Shader effects can become much more useful when you push their values far beyond what you would typically use. For "normal" shader usage, small values are usually enough to give you the effects you want. However, for masking and more complex visuals, larger values are often required to make the effect strong enough. Here are some examples of shader effects and masks that use values beyond the "normal" ones:
 
 ## Shockwave/line Mask
+
 By using a Shockwave or Shockline Shader and setting it to a very high value (such as 10000 or 50000), you can hide any objects behind it. You can also configure what the shader mask affects by using the Shader Trigger and changing it so it only affects a specific Z Layer.
 
 ## Gradient Trigger Mask
+
 By using a Gradient Trigger, you can do all sorts of things, including additive, inversion, and multiply effects. Anything under the gradient will be affected, and it requires 3-4 points set to different Group IDs. (To create a shape) Also note that some gradient effects aren't compatible with shaders, like invert gradient with lens circle. Although it isn't a shader, it can be used alongside them, serving as a useful tool, if needed.
 
 ## Motion Blur Opacity Control Mask
+
 This mask acts like an alpha trigger but makes it so that objects don't overlap.
 
 None
@@ -114,9 +131,11 @@ As you can see, the objects on the left don't overlap with eachother, unlike the
 But you may have noticed that the colours look "washed out," or desaturated. This is because it is, which we can simply fix by adding a saturation booster.
 
 ## Saturation Boosting
+
 Saturation Boosting will be very beneficial for the next example and the example before. By using a Sepia, Grayscale, or Edit Color Shader, you can boost the saturation of any object on a z layer by pushing their values over 1. It's most useful when you feel like an object is washed out, or when other shader effects unintentionally lower the saturation of an object.
 
 ## Colour Banding Gradient Effect
+
 Although this effect isn't very well known, it's actually used in levels like Eta Carnis. By using a gradient trigger and setting one colour pitch black (0, 0, 0,) and the other one to some very dark color that tints toward one colour, (eg. 8, 7, 7, where 8 would be the color that it's tinted towards.) we can add a saturation booster which boosts the saturation of the colour that it's tinted towards, (In this case red.) and keep the other one pitch black. (As 0, 0, 0, saturation boosted is still the same)
 
 This creates a banding effect, despite being just one gradient trigger. It's a trippy effect that is very unstable, and very chaotic. Due to this fact, I suggest trying it out in a separate level and experimenting with it. You can also try putting black glow circles above the gradient. Enjoy ;)
