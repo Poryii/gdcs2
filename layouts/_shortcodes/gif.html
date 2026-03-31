@@ -1,0 +1,12 @@
+<!-- Renders a gif given a link. -->
+
+{{$alt := $.Get "alt"}}
+{{- $source := $.Get "src" -}}
+{{- if not $source -}}
+  {{- errorf "Gif 'src' must be supplied" -}}
+{{- end -}}
+{{if not $alt}} {{$alt = "GIF alt text"}} {{end}}
+
+{{$gif := (printf "![%v](%v)" $alt $source)}}
+
+{{ $gif | .Page.RenderString}}

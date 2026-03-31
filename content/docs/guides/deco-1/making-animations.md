@@ -89,19 +89,19 @@ A simple but thorough example of these 4 aspects of animation in motion is the b
 
 ## X movement
 
-{{< img src="https://lh3.googleusercontent.com/d/1_uwV0Tyk1nNaERhW8VB2EO6PO1tJuyxZ" >}}
+{{< gif src="https://lh3.googleusercontent.com/d/1_uwV0Tyk1nNaERhW8VB2EO6PO1tJuyxZ" >}}
 
 This movement is the simplest. The boss is alternating from left and right with each bite, so the movement is simply a 'none' easing switching at every beat. As the bossfight progresses, though, the X movement eventually becomes more dramatic like the Y movement to match the rising intensity.
 
 ## Y movement
 
-{{< img src="https://lh3.googleusercontent.com/d/1MRhXcziH-h078BluS-mQa262xCa1hqDf" >}}
+{{< gif src="https://lh3.googleusercontent.com/d/1MRhXcziH-h078BluS-mQa262xCa1hqDf" >}}
 
 This bouncing motion is a combination of 'exponential out' move trigger activated first going up, followed immediately by an 'exponential in' move trigger going down. Despite the triggers having the same duration, it results in a sudden jolt up caused by the first trigger, which is only corrected later when the second trigger catches up.
 
 ## Rotation
 
-{{< img src="https://lh3.googleusercontent.com/d/1qijHawfe1DemjiHP5EmeF8If8XPbDJvy" >}}
+{{< gif src="https://lh3.googleusercontent.com/d/1qijHawfe1DemjiHP5EmeF8If8XPbDJvy" >}}
 
 This part of the motion is as simple as the X movement, it's a rotation loop with no easing. It is still very important, though, as it displays the same leaning motion described earlier; whatever direction the boss moves, it will ‘lean’ the other way.
 
@@ -109,13 +109,13 @@ Notice that in the X and Y movement and rotation, there is a bit of randomness i
 
 ## Frame by Frame
 
-{{< img src="https://lh3.googleusercontent.com/d/1MKD80aDiv_04IQIqnIQb8-hDhLslRbTL" >}}
+{{< gif src="https://lh3.googleusercontent.com/d/1MKD80aDiv_04IQIqnIQb8-hDhLslRbTL" >}}
 
 This animation shows a perfect instance to use frame by frame. The bosses movement and design is already cartoony, so a squash and stretch loop as well as the exaggerated impact frame reflects this vibe even more. Also, the boss design is very simple, so making several copies of the boss for each frame is not object heavy at all.
 
 Here is the finished product:
 
-{{< img src="https://lh3.googleusercontent.com/d/1TKUus9idxs2C1RlPbHivLxpEcHGN4Tmc" >}}
+{{< gif src="https://lh3.googleusercontent.com/d/1TKUus9idxs2C1RlPbHivLxpEcHGN4Tmc" >}}
 
 Notice how the design for the boss is very simple, yet is the most iconic part of the level due to the execution of its animation. One of the best ways to get the most out of your animations is to make the animation the entire theme of the level.
 

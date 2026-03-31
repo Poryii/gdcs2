@@ -1,7 +1,7 @@
 ---
 draft: true
 title: Making a Sandwich
-date: 2026-04-01
+date: 2026-04-01T00:00:00.000Z
 weight: 0
 math: false
 ---
