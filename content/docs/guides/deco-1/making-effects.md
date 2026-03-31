@@ -103,9 +103,9 @@ This subsection will go over various specific effects that don't have enough inf
 
 **[Shader triggers](/docs/guides/triggers-1/screen-filters/)** are a new addition to 2.2 that have lots of applications effect-wise. The Shader trigger specifically allows you to lock other shaders to specific layers, letting you have full control over that layer without conflicting with your other deco. Most of the “transformation” shaders like Shockwave, Bulge, and Pinch can help create lots of new and unique shapes. The various color shaders like Hue, Sepia, Grayscale and Invert allow you to have wonky colors as well.
 
-What makes the shader triggers even more compelling though is their Strength, Intensity, or Target values. Typing in a number that goes over the slider limit creates unique shapes and colors that have a near endless amount of possibilities. Levels like Out of This World by Perox8, Metamorphosis by Blogde, Wulzy’s pixelate level, and a recent part in my solo, take advantage of these mechanics to create wonky structures. Unfortunately, one limitation that they have is that individual shaders can’t go on different layers, so *all of your shader effects will go on the same layer*. You can’t really have more than one unique shader effect going on unless you combine them.
+What makes the shader triggers even more compelling though is their Strength, Intensity, or Target values. **Typing in a number that goes over the slider limit creates unique shapes and colors that have a near endless amount of possibilities.** Levels like Out of This World by Perox8, Metamorphosis by Blogde, Wulzy’s pixelate level, and a recent part in my solo, take advantage of these mechanics to create wonky structures.
 
-{{< img src="https://lh3.googleusercontent.com/d/1yUil_Y03QINnh-iBkAe1eRlpxgRLl3VR" >}}
+{{< youtube "4PrvVO8c4mM" >}}
 
 {{< youtube ""9AuptH4fElM"" >}}
 
@@ -113,21 +113,26 @@ What makes the shader triggers even more compelling though is their Strength, In
 
 {{< youtube ""toYzkwGtKZE"" >}}
 
-**Keep in mind that there is a big drawback behind shader effects; they are extremely laggy.** By default they render at 4K resolution regardless of your screen size, unless you install the "Shader Fix" mod in Geode.
 
-**[Area triggers](/docs/guides/triggers-1/area-triggers/)** are another gold mine of possibilities because of how versatile they are. They all allow you to make objects move in unique ways without any manual work. Almost all the Area triggers have a +- box, letting you input randomization within the movement. Once you think about all the things you could do with this, you will have ideas for weeks. For example, my collab part here uses Area Scale to seemingly make the structures melt into place, and also uses Area Tint to bring a splash of color to the edges of the screen.
+Unfortunately, one limitation that they have is that individual shaders can’t go on different layers, so *all of your shader effects will go on the same layer*. You can’t really have more than one unique shader effect going on unless you combine them.
 
-{{< img src="https://lh3.googleusercontent.com/d/1kUWyONrJWhlaE0RE_9DrPPF8hNWc5oJi" >}}
+- - -
+
+**[Area triggers](/docs/guides/triggers-1/area-triggers/)** are another gold mine of possibilities because of how versatile they are. They all allow you to make objects move in unique ways without any manual work. Almost all the Area triggers have a +- box, letting you input randomization within the movement.
+
+Once you think about all the things you could do with this, you will have ideas for weeks. For example, my collab part here uses Area Scale to seemingly make the structures melt into place, and also uses Area Tint to bring a splash of color to the edges of the screen.
+
+{{< youtube "TxkfKK1-w20" >}}
 
 Here is another part I made, where the vertices of the Gradient triggers moved around randomly to create a floating vibe.
 
-{{< img src="https://lh3.googleusercontent.com/d/1J9WsnJMI8rD9FnZ10H1mmzdrejuUsm4D" >}}
+{{< youtube "AB2qkjRym3o" >}}
 
 **[Animated objects](/docs/guides/deco-1/animated-objects/)** when scaled up, feature unique shapes and movements that can be used to your advantage. You could have bright periodic flashes by slowing them down and putting them on a bright, low-opacity color, or have them animate really fast on really low opacity on top of everything to convey texture. Here are two parts that use animated objects to their advantage.
 
-{{< img src="https://lh3.googleusercontent.com/d/1fY2wA5C8MxctST78sBSicCHh_vGNmBWB" >}}
+{{< youtube id="HxzcrtNtYw0" start="66" >}}
 
-{{< img src="https://lh3.googleusercontent.com/d/1QchSrYR9G2EARpN4Px7nV_L7WgbyCqed" >}}
+{{< youtube "Kxerg414Ikk" >}}
 
 The second example also acts as an example of Area triggers, as the structure's outlines randomly move into place.
 
