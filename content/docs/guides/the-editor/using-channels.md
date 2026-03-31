@@ -2,6 +2,7 @@
 title: Using Channels
 weight: 1180
 date: 2024-01-15T00:00:00.000Z
+description: This guide explains how you can use Color Channels, Trigger Channels, and Trigger Order. They're fairly simple on the surface, but can break your levels if you aren't aware of how to use them.
 authors:
   - illusion2
 contributors:

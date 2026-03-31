@@ -2,6 +2,7 @@
 title: Organizing Objects
 weight: 1030
 date: 2024-04-03T00:00:00.000Z
+description: In this editor guide we’ll go over things you’ll need to organize your objects. This will make creating a lot less painful in the long run.
 authors:
   - tdp9
 contributors:
@@ -76,7 +77,7 @@ The top button with a number is for **filtering out GroupIDs**, and the button b
 
 The trash button to the left of these filters resets the GroupID and Color Channel filters back to 0.
 
-- The Color Filter has extra options to select Special Colors by pressing the blue plus button: Obj, Lighter, 3DL, P1, and P2. 
+- The Color Filter has extra options to select Special Colors by pressing the blue plus button: Obj, Lighter, 3DL, P1, and P2.
 - The trash button in the top right of the filter menus resets the current filter.
 
 {{< youtube 9fA-URaI8EU >}}

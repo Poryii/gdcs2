@@ -2,6 +2,7 @@
 title: Static Objects
 weight: 1090
 date: 2024-02-11T00:00:00.000Z
+description: In this guide, we’ll explain how static objects - blocks, slopes, and (interactable) hazards - function. These objects have hitboxes that the player may interact with, making them essential to creating gameplay.
 authors:
   - xplode09
 contributors:
@@ -207,58 +208,58 @@ In addition to these objects, you can modify their properties to your liking. To
 
 {{< img src="https://lh3.googleusercontent.com/d/1TSlMDTVPWB45myZm7rJuWZSeAWMU8_RE" >}}
 
-{{< youtube 05Z6yPc7ZSM >}} 
+{{< youtube 05Z6yPc7ZSM >}}
 
 - **NoTouch** __removes the object's hitbox completely__, making it unable to be interacted with by the player.
 
 {{< img src="https://lh3.googleusercontent.com/d/1yhkBYgZnFhYFg8LuXc-Gc3KesqWFcMzK" >}}
 
-{{< youtube -5S0WJjHYXE >}} 
+{{< youtube -5S0WJjHYXE >}}
 
 - **GripSlope** __allows the player to stand still on a 45° slope__, instead of sliding down it in Platformer.
 
 {{< img src="https://lh3.googleusercontent.com/d/1gob0D7oJ2paa3UpK-rDPjKTWVq9zZ5kx" >}}
 
-{{< youtube Tfcru5SFdKE >}} 
+{{< youtube Tfcru5SFdKE >}}
 
 - **Passable** __allows the player to pass through a block from the bottom, but still allows the players to stand on the block__. You can move onto the top from below too.
 
 {{< img src="https://lh3.googleusercontent.com/d/1dkR6fbq-2UD0aoEefUUPkQ2SNyqgz2qr" >}}
 
-{{< youtube PngcEN0fDRM >}} 
+{{< youtube PngcEN0fDRM >}}
 
 - **Hide** __completely removes the visual appearance of an object__. You can press `F6` in the editor to show these hidden objects if needed.
 
 {{< img src="https://lh3.googleusercontent.com/d/1XK-4cyA_wFJ86juqLeyKEP0KQYsEV5FI" >}}
 
-{{< youtube yoJi1rqKi5Q >}} 
+{{< youtube yoJi1rqKi5Q >}}
 
 - **NonStickX/NonStickY** __stops the player from sticking to moving blocks in Platformer__.
 
 {{< img src="https://lh3.googleusercontent.com/d/1nIugS0VRHjjPBgmEcpYg03gItaBhYmHn" >}}
 
-{{< youtube PSOZ5TvpH5Y >}} 
+{{< youtube PSOZ5TvpH5Y >}}
 
 - **DontBoostX/DontBoostY** __stops the player from being boosted by moving blocks__.
 
 {{< img src="https://lh3.googleusercontent.com/d/1LiJSLoQaeBfmp--O_VtVCXKKAsemGwNR" >}}
 
-{{< youtube RSaNW87d0iQ >}} 
+{{< youtube RSaNW87d0iQ >}}
 
 - **ExtraSticky** __keeps the player stuck onto blocks moving downwards at higher speeds__. This has a limit, however: moving too fast can still cause the player to stop sticking to the block.
 
 {{< img src="https://lh3.googleusercontent.com/d/1ixiYaIj0SvYVpJtzr6QFW3ff63O0plfc" >}}
 
-{{< youtube IBtR39cuu9Q >}} 
+{{< youtube IBtR39cuu9Q >}}
 
 - **ScaleStick** __allows the player to move along the X axis of a block relative to its center when it is scaled__.
 
 {{< img src="https://lh3.googleusercontent.com/d/1NHYm2FqTxGyGykqTHyjx2E3Ulrk3tjir" >}}
 
-{{< youtube OBZ90fm9_D8 >}} 
+{{< youtube OBZ90fm9_D8 >}}
 
 - **Extended Collision** __fixes the hitboxes of objects with a scale above 6__.
 
 {{< img src="https://lh3.googleusercontent.com/d/1PV8LK4QG3ToTXgWZVFIoXmvRopaIkMXH" >}}
 
-{{< youtube -7X9YNVWyb0 >}} 
+{{< youtube -7X9YNVWyb0 >}}

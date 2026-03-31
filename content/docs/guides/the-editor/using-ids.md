@@ -2,6 +2,7 @@
 title: Using IDs
 weight: 1170
 date: 2025-03-31T00:00:00.000Z
+description: IDs (short for identifiers) are numbers that are assigned to objects for a specific role. These roles range from moving an object or changing an object’s color, to assigning a specific area effect. This guide will explain the different types of IDs that you can assign in the editor and how complex they are to set up.
 authors:
   - sparktwee
 contributors:
@@ -57,7 +58,7 @@ Of course, the type of objects you use will affect how the color appears. Some o
 
 You may notice that when copying objects across levels, they don’t retain their colors. This is because the color channels they use may have different values across levels. If you want to __copy objects and the specific colors they use__, click the **Copy + Color** button in the editor’s pause menu. You can then use **Paste + Color** to paste the objects with their colors & HSV intact, even across different levels.
 
-{{< youtube 28DmrjoweBg >}} 
+{{< youtube 28DmrjoweBg >}}
 
 As a final note, be aware that only color ids 1-999 are typically available in-game. You can technically input a value above 999 when using Edit Object, but you cannot use color triggers to modify the color later.
 
@@ -68,7 +69,7 @@ Force IDs are only used in force blocks. Blocks with the same force ID will not 
 2. 2 Force blocks with power of 5 and force ID of 1.
 3. 2 Force blocks with power of 5 and force ID of 0.
 
-{{< youtube tkvUBGYX0bE >}} 
+{{< youtube tkvUBGYX0bE >}}
 
 ## Song Channel IDs
 These IDs allow you to add multiple songs in the same level. Depending on how you set up the {{< img src="images/GDEmotes/Triggers/Song.png" class="emote" >}} [Song or Edit Song trigger](/docs/guides/triggers-1/song-edit-song/), the songs can be switched or played simultaneously.
@@ -92,7 +93,7 @@ For objects you want to assign a Material ID, go to {{< img src="images/GDEmotes
 
 In this example you can see two blocks; one has Material ID 1, while the other has Material ID 0. The Extra ID in the Event trigger is set to 1.
 
-{{< youtube e4kKNkBr08o >}} 
+{{< youtube e4kKNkBr08o >}}
 
 Unlike Force IDs, objects with Material ID 0 actually have some interesting applications and bugs. For instance, Material IDs don’t work on objects like orbs or portals. Additionally, if you have triggers for “Tiny/Feather/Soft/Normal or Hard landing”, the trigger will only activate when you hit the ground, not for merely touching the block.
 

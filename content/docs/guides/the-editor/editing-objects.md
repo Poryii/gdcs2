@@ -2,6 +2,7 @@
 title: Editing Objects
 weight: 1020
 date: 2024-02-25T00:00:00.000Z
+description: In this Editor guide, we’ll show you how to change an object’s properties.
 authors:
   - komatic5
   - illusion2

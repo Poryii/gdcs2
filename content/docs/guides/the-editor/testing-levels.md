@@ -2,6 +2,7 @@
 title: Testing Levels
 weight: 1160
 date: 2024-03-11T00:00:00.000Z
+description: There are multiple options and features within the editor that can help you sufficiently playtest your level. This guide will go over these options/features in depth.
 authors:
   - illusion2
   - sparktwee

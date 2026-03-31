@@ -2,6 +2,7 @@
 title: Collectable Objects
 weight: 1110
 date: 2024-01-12T00:00:00.000Z
+description:
 authors:
   - naem.less
 contributors:

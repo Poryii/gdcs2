@@ -1,6 +1,6 @@
 ---
 title: Placing Objects
-description: A basic guide to the most important features in the GD Editor.
+description: Welcome to the first Editor guide! Here, we’ll show you how to place objects, remove them, and navigate the editor.
 weight: 1010
 date: 2023-03-20T00:00:00.000Z
 authors:
@@ -32,7 +32,7 @@ The editor has plenty of controls, which are grouped into navigation, building, 
 
 {{< img src="images/GDEmotes/Buttons/ZoomIn.png" class="emote">}} Use the **Zoom** buttons to zoom in and out.
 
-{{< youtube 7KmBdg82Y94 >}} 
+{{< youtube 7KmBdg82Y94 >}}
 
 # 2: The Build Tab
 
@@ -40,13 +40,13 @@ The editor has plenty of controls, which are grouped into navigation, building, 
 
 To place an object, *click on its button* in the Build tab, then *click* anywhere in the editor space.
 
-{{< youtube v9PjLdzX3Vw >}} 
+{{< youtube v9PjLdzX3Vw >}}
 
-Objects are organized into lots of different tabs, which you’ll learn more about in [later guides](/docs/guides/the-editor/object-types). 
+Objects are organized into lots of different tabs, which you’ll learn more about in [later guides](/docs/guides/the-editor/object-types).
 
 {{< img src="images/GDEmotes/Buttons/Swipe.png" class="emote">}} The **Swipe** button lets you place lots of objects at once when you're in the Build Tab. When enabled, you can click and drag to place objects on the grid. This will stop you from moving around in the editor.
 
-{{< youtube PpLad3Hj5aE >}} 
+{{< youtube PpLad3Hj5aE >}}
 
 # 3: The Edit Tab
 
