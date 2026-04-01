@@ -14,7 +14,7 @@ mainSections = ["docs", "contributing", "hub"]
 
   # Navbar
   navbarSticky = true # true (default) or false
-  containerBreakpoint = "fluid" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
+  containerBreakpoint = "xxl" # "", "sm", "md", "lg" (default), "xl", "xxl", or "fluid"
 
   ## Button
   navBarButton = false # false (default) or true

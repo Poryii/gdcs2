@@ -2,10 +2,7 @@
 title: Perspective 2 (Making Forms)
 date: 2023-11-01T00:00:00.000Z
 weight: 8210
-description: Once you know basic perspective concepts like vanishing points and
-  horizon lines, it's important to learn the technical skills required to make
-  perspective work in-game. This guide explains the specific skills you'll need
-  to manually create forms like prisms, cylinders, cones, and more.
+description: Once you know basic perspective concepts like vanishing points and horizon lines, it's important to learn the technical skills required to make perspective work in-game. This guide explains the specific skills you'll need to manually create forms like prisms, cylinders, cones, and more.
 authors:
   - komatic5
   - chunlv1

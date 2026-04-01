@@ -3,7 +3,7 @@ title: Guides
 description: ""
 summary: ""
 draft: false
-weight: 1
+weight: 2
 toc: true
 seo:
   title: How to Create in Geometry Dash

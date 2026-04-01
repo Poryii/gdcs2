@@ -2,11 +2,7 @@
 title: Layering Masks
 date: 2023-10-13T00:00:00.000Z
 weight: 5150
-description: Masking is a popular technique used by creators to hide objects or
-  parts of blocks. They’re often used to save time or make neat visual effects.
-  There are many kinds of masks; however, this lesson will focus specifically on
-  layering masks. Layering masks are masks that rely on Z layers to function.
-  This guide will mention a total of 6 of them.
+description: Masking is a popular technique used by creators to hide objects or parts of blocks. They’re often used to save time or make neat visual effects. There are many kinds of masks; however, this lesson will focus specifically on layering masks. Layering masks are masks that rely on Z layers to function. This guide will mention a total of 6 of them.
 authors:
   - unknown
 contributors:

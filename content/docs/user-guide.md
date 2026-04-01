@@ -1,9 +1,10 @@
 ---
 title: User Guide
+weight: 1
 description: ""
 summary: ""
 draft: false
-toc: false
+toc: true
 type: hub
 seo:
   title: All Guides

@@ -3,9 +3,7 @@ draft: false
 title: Making Effects
 date: 2024-09-18T00:00:00.000Z
 weight: 5120
-description: This guide explains what effects generally are, important concepts
-  to know when making them, and the creating process for implementing them in
-  your levels.
+description: This guide explains what effects generally are, important concepts to know when making them, and the creating process for implementing them in your levels.
 authors:
   - illusion2
 contributors:
