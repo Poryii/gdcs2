@@ -2,8 +2,6 @@
 title: Making a Sandwich
 date: 2026-04-01
 description: it's sandwhiching time
-authors:
- - the mods
 weight: 110001
 math: false
 ---
