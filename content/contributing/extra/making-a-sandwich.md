@@ -100,10 +100,11 @@ Hold on I made a typo
 There we go.
 Anyways, these sandwiches taste ass wtf?? It’s gotta be the bread or something, because the bleach tastes fine on its own. Sandwiches that don’t taste good aren’t good sandwiches. These are also known as **bad sandwiches**. They belong in the trash. In order to throw the sandwich into the trash, you must calculate 2 things: the angle to throw the sandwich at, and how hard you throw it. The initial angle can be calculated using the following formula:
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1d4dxgBc-ffRaB3ZIX9O3ddGb0OSp-PMb" >}}
 
 Here, (x,y) is the position of the *opening* of the garbage bin. If you use the center or base of the garbage bin, your sandwich will fall short and flop onto the ground really pathetically, it makes a sad little wet flop sound. Then, you’ll have to clean it up. Luckily, there's little risk involved as you can reuse the bleach in the sandwich to clean it up easily. g is the acceleration from gravity, which is equal to π². v is the initial velocity of the sandwich, which can be calculated by working backwards through the following formula:
 
+{{< img src="https://lh3.googleusercontent.com/d/186dWI0e30ahsGA2dgAAiAOkUG0fgMIsq" >}}
 
 NOW hold on, if your initial speed v isn’t enough, then this chud formula won’t work. Be sure to throw it at AT LEAST a velocity of c/4.429769199 m/s, where c is the speed of light. Does the m stand for meters or miles? Nobody knows.
 
@@ -116,14 +117,14 @@ Anyways, back to sandwiches. Wait, sorry I forgot what this guide was about. Let
 
 After learning about Linear Algebra and all the other stuff, if you still don’t want to trash your sandwich, you can throw some eggs in your sandwich for better taste. The formulas to calculate how to throw the eggs are the same as throwing the sandwich, because air resistance doesn’t exist. It’s a lie created by the government in order to prevent people from reaching infinite speeds. Don’t believe me? Try it out! Drive down the highway *as fast as you can,* you won’t be slowed down by air resistance. Rather, you will be slowed down by crashing into another car. This is known as eigendecomposition, because your body will get eigendecomposed into 3 separate pieces: your head, your torso, and your legs (more generally, a matrix A gets eigendecomposed into its eigenvalues and eigenvectors. A = QΛQ⁻¹).
 
-7. Tell your sandwich how much you love it
+# 7. Tell your sandwich how much you love it
 It was a dark day, a day unlike any other. “How could you have done this to us!?” screamed the defenseless sandwich, unaware of its impending demise. As the sandwich was lifted slowly off the plate, it began to lose all hope. Suddenly, out of nowhere, a flash appeared in the distance. It was a kitchen knife. YUM YUM! (The sandwich died :gasp:)
 
 █████████████████████████████████████████████ █████████████████████████████████████████████
 
 Something something corny corny corny… the sandwich said I love you. Because it is love, and because you are love.
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1pl3ZzrLGkyM_6RxAUKWqbvylRR12_--h" >}}
 
 ###### 76: haha 67
 
@@ -217,7 +218,7 @@ AUTOMOMICA!!
 
 It’s some other day now and we can tackle this complex topic now. According to Google, a **sandwich** is a *verb* that means *insert or squeeze (someone or something) between two other people or things, typically in a restricted space or so as to be uncomfortable.* Obviously, a sandwich isn’t a verb, it’s a noun. Google is a fucking chud. The G in google stands for chud. I’m gay btw, just in case you forgot. In reality, a **sandwich** is a piece of *food*, i.e. something to be eaten, digested, then is usually excreted in a toilet. If it is, it gets transported to a wastewater treatment plant, where the purified water then goes to a factory to dilute bleach, which will eventually find its way into another sandwich. That’s right, a sandwich is actually a *perpetual motion machine.* Albert Einstein said it was impossible, but he never ate bleach with his sandwiches. I bet he never even drank bleach at all! Moving on from that freaking chud, perpetual motion machines, along with other bread-bleach foods, can be classified using the **Cube Rule of Food:**
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1jWboEOqWJtuEfIkHyyHShjP8633lJZ0Z" >}}
 
 As you should know, a sandwich has two pieces of bread with a filling in between them. This would classify the sandwich under section 2, meaning a sandwich is in fact a sandwich. See how useful this diagram is? However, despite its usefulness, the Cube Rule is not all-powerful. For example, a “sandwich” made up of bread, lettuce, tomato, bacon, and bread, would be classified as a sandwich. However, this “sandwich” is not actually a sandwich, but a BLT. You may be thinking, “But isn’t a BLT a sandwich? I mean, a BLT sandwich has sandwich in its name!” Well, I ain’t reading allat.
 
@@ -229,15 +230,15 @@ Stop. Using. Arrows. In. Your. Levels.
 
 As you may or may not have learned from the very beginning, using references for your art/levels/anything else is a crucial step towards improvement. Here are some images you can use to really boost your skills:
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1SXpsQPWGv1OzI9USvNio2KFvb1HpeaCt" >}}
 
 1. Idk I just googled stock images and this one’s pretty funny.
 
 
-   {{< img src="undefined" >}}
+   {{< img src="https://lh3.googleusercontent.com/d/1RSKIZGsDNwQn4nGZ-1fBcHFT_tksWugL" >}}
 2. A funny meme I found earlier today. As we all know by now, memes are a life-changing experience to look at and be amused by and you should embrace the whimsy before getting to do anything remotely serious (I know you’re still procrastinating writing that job application, but it’s okay :D)
 
-   {{< img src="undefined" >}}
+   {{< img src="https://lh3.googleusercontent.com/d/1QOhI-NjF3_Fdkj1oGViQ-GbSWJnJKggl" >}}
 3. This guy is blue for a nefarious reason. You can make your sandwiches blue for a nefarious reason as well!
 
 That’s it, I'm getting tired. Someone else take care of the rest of this section while im gone thanks
@@ -258,11 +259,11 @@ You might be asking yourself, why does this guide exist in the first place? Well
 
 yeah close enough
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1yotm4_AZZ70bNu-_2HyjaigiHEN3-Xpn" >}}
 
                          Yo no one cares about ur stupid corny level
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1_n0emjtMj5gWz-0QmBH7DAEa6fk8fOGA" >}}
 
 Picture of starfruit instead
 
@@ -293,22 +294,22 @@ Expect the “Makin a sandwich” exercise releasing soon
 
 1. Lightning-Fire (li-fi give you wi-fi hehehehewegahjergwha)
 
-   {{< img src="undefined" >}}
+   {{< img src="https://lh3.googleusercontent.com/d/1AFvkr6uxGVq9bMtszuyxyDxIjxyq0_uw" >}}
 2. iisventi the computer scientist
 
-   {{< img src="undefined" >}}
+   {{< img src="https://lh3.googleusercontent.com/d/1j_-duzIHmdhDwj4Qkt1ju6EmUelX-v7e" >}}
 3. Checo Perez (the F1 driver fr)
 
-   {{< img src="undefined" >}}
+   {{< img src="https://lh3.googleusercontent.com/d/1oQcWr0muJkGhAMwUnu4xfd5FdOug7lhK" >}}
 
     ^^ ts u bro, yea
 4. CLENT THE PROTOGEN
 
-   {{< img src="undefined" >}}
+   {{< img src="https://lh3.googleusercontent.com/d/191va2-rQdftw4rHlKB0KJETpNYiEfIgN" >}}
 
    ###### *ii. Mytho (chud) (NOT A CHUD)*
 
-   {{< img src="undefined" >}}
+   {{< img src="https://lh3.googleusercontent.com/d/1JStS9YKt_UvpHa5yRQX6zgwcYTjt8tGQ" >}}
 5. Why is Mytho in a small font he’s so handsome he doesn’t deserve this little attention
 6. Told you mytho was a chu~
 7. youre right blud
@@ -334,7 +335,7 @@ Expect the “Makin a sandwich” exercise releasing soon
 17. Inter < I saved this guide 
 18. XD < I saved this guide 2: electric boogaloo
 
-    {{< img src="undefined" >}}
+    {{< img src="https://lh3.googleusercontent.com/d/1kWBMtfzSgKoyHYVLVU0zDEIVALyv-9sD" >}}
 19. Issimo for an AMAZING reason
 
 ‎ 67. Miauurre mrrwww mrrprp nyah :333 ahhh ha ha ha ha haaaaaaa says emi the auraful one 
@@ -343,9 +344,9 @@ Expect the “Makin a sandwich” exercise releasing soon
 
 Goated sandwich
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1Br2qFHuqGPrJ8zje08FolVhIdeYWHwEP" >}}
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1vJm17sK4s_5VXhuW8bj2W-vUUYU30f3O" >}}
 
 # Bye
 
@@ -355,7 +356,7 @@ Hi there, signing off, hope you enjoyed, these guys above exploded when they cou
 
 Alright got it, what i meant to say was: thanks for supporting GDCS for all this time, what we’re doing is only possible thanks to the incessant volunteering of many and the support of y'all, so thank you. Here is an image to illustrate that:
 
-{{< img src="undefined" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1rH4cZwtILsdRg_rmyme9g43MAlTAcssP" >}}
 
 Apologies, I couldn't help some sunfish slander.
 
