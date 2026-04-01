@@ -54,6 +54,6 @@ jobs:
 
       - name: Test Build
         run: |
-          npm run predev
+          node scripts/prepare-content.js
           hugo --gc --minify --cacheDir "${{ runner.temp }}/hugo_cache"
           node scripts/copy-css.js
