@@ -156,7 +156,7 @@ The caption, we are observing ImaginaryIQ having a stroke and thinking that Egoc
 
 # 12: Elements of Sandwiches
 
-Sorry, my cat stepped on my keyboard. It’s a fucking schizo, plays Risk of Rain 2, reads *wayy* too much Ao3, and is super brainrotted. I think it ate one of my sandwiches, it was probably the bread that did it. It’s definitely not the bleach, after all I drink bleach all the time and I don’t play Risk of Rain 2!
+Sorry, my cat stepped on my keyboard. It’s a fucking schizo, plays Risk of Rain 2, reads *wayy* too much ██, and is super brainrotted. I think it ate one of my sandwiches, it was probably the bread that did it. It’s definitely not the bleach, after all I drink bleach all the time and I don’t play Risk of Rain 2!
 
 The most fundamental parts of any sandwiches are known as **the elements of sandwiches**. These are so fundamental to the creation of sandwiches that you cannot create one without them. For example, without shape, lines, or form, your sandwich becomes a boundless piece of bread that extends infinitely in every direction, unbounded by the confines of the elements of sandwiches.
 
