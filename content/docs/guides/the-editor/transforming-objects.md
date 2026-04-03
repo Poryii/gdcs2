@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Transforming Objects
 weight: 1150
 date: 2024-01-07T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - vexilo5
-draft: false
+tags:
+  - Grade 0
+  - Advanced Editor
 seo:
   title: How to Transform Objects in Geometry Dash
   description: An extensive explanation of how the Transform features work in GD, such as the Warp button.

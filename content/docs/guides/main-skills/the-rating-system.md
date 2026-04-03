@@ -1,4 +1,5 @@
 ---
+draft: false
 title: The Rating System
 weight: 2170
 date: 2024-05-31T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - notamoderatr
   - sparktwee
-draft: false
+tags:
+  - Grade 0
+  - Community Work
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

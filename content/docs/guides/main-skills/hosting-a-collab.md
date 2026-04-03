@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Hosting a Collab
 weight: 2140
 date: 2023-09-30T00:00:00.000Z
@@ -7,7 +8,9 @@ authors:
   - komatic5
 contributors:
   - komatic5
-draft: false
+tags:
+  - Grade 0
+  - Community Work
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

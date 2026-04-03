@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Getting Ideas
 weight: 2010
 date: 2023-03-09T00:00:00.000Z
@@ -9,7 +10,9 @@ contributors:
   - sparktwee
   - vexilo5
   - komatic5
-draft: false
+tags:
+  - Grade 0
+  - Creating Process
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

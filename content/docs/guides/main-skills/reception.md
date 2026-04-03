@@ -10,6 +10,9 @@ contributors:
   - sparktwee
   - psytrancegd
   - colon
+tags:
+  - Grade 0
+  - Community Work
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 

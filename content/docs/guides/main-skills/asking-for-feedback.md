@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Asking for Feedback
 weight: 2040
 date: 2023-03-09T00:00:00.000Z
@@ -7,7 +8,9 @@ authors:
   - komatic5
 contributors:
   - komatic5
-draft: false
+tags:
+  - Grade 0
+  - Creating Process
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

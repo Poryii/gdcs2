@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Testing Levels
 weight: 1160
 date: 2024-03-11T00:00:00.000Z
@@ -10,7 +11,9 @@ contributors:
   - madzz
   - illusion2
   - sparktwee
-draft: false
+tags:
+  - Grade 0
+  - Advanced Editor
 seo:
   title: How to Playtest a Geometry Dash Level
   description: A short explanation of the GD editor's playtesting features.

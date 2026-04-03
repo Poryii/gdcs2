@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Sharing Levels
 weight: 1060
 date: 2023-03-20T00:00:00.000Z
@@ -9,7 +10,9 @@ contributors:
   - komatic5
   - sparktwee
   - lagwerious
-draft: false
+tags:
+  - Grade 0
+  - The Editor
 seo:
   title: How to Upload a Geometry Dash Level
   description: An explanation of every feature you can use when uploading a GD level.

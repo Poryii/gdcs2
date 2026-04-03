@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Solving Problems
 weight: 2050
 date: 2024-07-31T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - sparktwee
-draft: false
+tags:
+  - Grade 0
+  - Creating Process
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

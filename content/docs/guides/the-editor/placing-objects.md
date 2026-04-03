@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Placing Objects
 description: Welcome to the first Editor guide! Here, we’ll show you how to place objects, remove them, and navigate the editor.
 weight: 1010
@@ -7,7 +8,9 @@ authors:
   - komatic5
 contributors:
   - komatic5
-draft: false
+tags:
+  - Grade 0
+  - The Editor
 seo:
   title: "Geometry Dash: Placing Objects"
   description: Part 1 of how to use Geometry Dash's level editor, going over how to navigate the editor, and the build, edit, and delete tabs.

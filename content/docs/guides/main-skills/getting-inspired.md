@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Getting Inspired
 weight: 2080
 date: 2023-04-19T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - komatic5
   - tdp9
-draft: false
+tags:
+  - Grade 0
+  - Your Mindset
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Custom Objects & Autobuild
 weight: 1140
 date: 2024-07-16T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - notamoderatr
   - tdp9
-draft: false
+tags:
+  - Grade 0
+  - Advanced Editor
 seo:
   title: Custom Objects and Autobuild in Geometry Dash
   description: How to use the Custom Object tab and the Autobuild system in Geometry Dash.

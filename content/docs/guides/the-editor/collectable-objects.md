@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Collectable Objects
 weight: 1110
 date: 2024-01-12T00:00:00.000Z
@@ -9,7 +10,9 @@ contributors:
   - naem.less
   - notamoderatr
   - icefire100062
-draft: false
+tags:
+  - Grade 0
+  - Advanced Editor
 seo:
   title: How to Use Keys in Geometry Dash
   description: A full explanation of collectable objects in Geometry Dash, such as keys and coins.

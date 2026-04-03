@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Choosing a Song
 weight: 1050
 date: 2024-01-30T00:00:00.000Z
@@ -12,7 +13,9 @@ contributors:
   - print6165
   - halfcookedramen
   - komatic5
-draft: false
+tags:
+  - Grade 0
+  - The Editor
 seo:
   title: How to Manaeg Songs in Geometry Dash
   description: A short guide to choosing a song for your Geometry Dash level, using Newgrounds, the Music Library, and NONG file replacement.

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Organizing Objects
 weight: 1030
 date: 2024-04-03T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - tdp9
   - tv_box
-draft: false
+tags:
+  - Grade 0
+  - The Editor
 seo:
   title: "Geometry Dash: Organizing Objects"
   description: Part 3 of how to use Geometry Dash's level editor, going over editor layers, select filter, and select all.

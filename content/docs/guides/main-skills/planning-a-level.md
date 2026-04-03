@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Planning a Level
 weight: 2020
 date: 2025-03-25T00:00:00.000Z
@@ -7,7 +8,9 @@ authors:
   - komatic5
 contributors:
   - komatic5
-draft: false
+tags:
+  - Grade 0
+  - Creating Process
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

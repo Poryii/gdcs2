@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Setting Goals
 weight: 2070
 date: 2023-09-30T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - nikobik0
   - notamoderatr
-draft: false
+tags:
+  - Grade 0
+  - Your Mindset
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 - Make sure to set realistic Goals as doing this and accomplishing these goals will keep you motivated.

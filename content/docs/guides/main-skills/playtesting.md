@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Playtesting
 weight: 2130
 date: 2023-03-14T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - sparktwee
   - tdp9
-draft: false
+tags:
+  - Grade 0
+  - Community Work
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

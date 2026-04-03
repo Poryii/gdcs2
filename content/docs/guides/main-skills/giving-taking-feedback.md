@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Giving & Taking Feedback
 weight: 2150
 date: 2023-03-14T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - etherail
   - unknown
-draft: false
+tags:
+  - Grade 0
+  - Community Work
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

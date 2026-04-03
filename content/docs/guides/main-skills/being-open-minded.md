@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Being Open-Minded
 weight: 2100
 date: 2023-03-16T00:00:00.000Z
@@ -8,7 +9,9 @@ authors:
 contributors:
   - halfcookedramen
   - kde
-draft: false
+tags:
+  - Grade 0
+  - Your Mindset
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}

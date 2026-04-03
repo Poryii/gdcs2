@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Staying Patient
 weight: 2090
 date: 2023-03-09T00:00:00.000Z
@@ -10,7 +11,9 @@ contributors:
   - komatic5
   - sparktwee
   - calibratorworks
-draft: false
+tags:
+  - Grade 0
+  - Your Mindset
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
