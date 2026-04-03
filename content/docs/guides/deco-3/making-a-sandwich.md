@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Making a Sandwich
 description: it's sandwhiching time
 weight: 110001
@@ -86,7 +87,7 @@ And you know it!
 
 Please note that being gay will not affect the sandwich quality besides adding a bit of a zesty flavor to the sandwich. This can be circumvented and used to your advantage by making a Tuna Sandwich, as the acidity helps define the flavors. (see [Tuna guide](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for further details)
 
-hey guys please note that if you have the correct list of traits you can actually turn your sandwich shiny meow mrrp miauur mrrowww\~ :33333 >w< \~v~ @///@ 
+hey guys please note that if you have the correct list of traits you can actually turn your sandwich shiny meow mrrp miauur mrrowww\~ :33333 >w< \~v~ @///@
 
 # 5. Throwing the sandwich into the Garbag
 
@@ -318,7 +319,7 @@ Expect the “Makin a sandwich” exercise releasing soon
 13. Imagine… having  2.2
 
     braincells. Could be me…IQ
-14. GTeam people because they are cool and everyone else is a 
+14. GTeam people because they are cool and everyone else is a
 
     ## **CHUD**
 
@@ -329,13 +330,13 @@ Expect the “Makin a sandwich” exercise releasing soon
     ***Chud team - Emi)***
 15. revv up those fryers, cause I am sure hungry for one krabby patty -juny
 16. Am I or it??? The
-17. Inter < I saved this guide 
+17. Inter < I saved this guide
 18. XD < I saved this guide 2: electric boogaloo
 
     {{< img src="https://lh3.googleusercontent.com/d/1kWBMtfzSgKoyHYVLVU0zDEIVALyv-9sD" >}}
 19. Issimo for an AMAZING reason
 
-‎ 67. Miauurre mrrwww mrrprp nyah :333 ahhh ha ha ha ha haaaaaaa says emi the auraful one 
+‎ 67. Miauurre mrrwww mrrprp nyah :333 ahhh ha ha ha ha haaaaaaa says emi the auraful one
 
 # Authors’ Notes:
 

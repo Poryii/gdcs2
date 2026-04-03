@@ -1,7 +1,9 @@
 ---
+draft: false
 title: Troubleshooting
 weight: 900
-draft: false
+tags:
+  - Contributing
 ---
 {{< callout context="danger" title="This page is a stub." icon="outline/info-circle" >}}
 

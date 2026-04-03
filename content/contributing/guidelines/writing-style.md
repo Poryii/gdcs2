@@ -1,12 +1,16 @@
 ---
+draft: false
 title: Writing Style
 weight: 600
+date: 2024-07-06
+description: This guide explains what makes a good guide and how to write one. It covers the full writing process, from planning and structuring content to refining it with feedback and examples.
 authors:
   - komatic5
 contributors:
   - komatic5
   - chuckolate
-draft: false
+tags:
+  - Contributing
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
@@ -95,7 +99,7 @@ We recommend doing the following to speed up exercise creation:
 
 This is an example video for a guide on numerical techniques. You don’t need to leverage animations or fancy software for your own examples, but feel free if you have the time and motivation.
 
-(video)
+{{< youtube cuWsJqvB9OI >}}
 
 ## Sources
 

@@ -1,13 +1,17 @@
 ---
+draft: false
 title: Formatting
 weight: 500
+date: 2026-03-23
+description: Once your setup is ready, you can start writing guides. This guide covers how to structure content using a frontmatter, format your text, and use shortcodes to embed media and standard components.
 authors:
   - komatic5
   - chuckolate
 contributors:
   - komatic5
   - chuckolate
-draft: false
+tags:
+  - Contributing
 ---
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
@@ -17,8 +21,6 @@ draft: false
 - Store important metadata in a guide's frontmatter.
 
 {{< /callout >}}
-
-Here's how to format pages for the website. Example of fully formatted page are the [Placing Objects](/docs/guides/the-editor/placing-objects/) and [Sync & Rhythm](/docs/guides/gameplay-2/sync-rhythm) guides. You can check their raw text in GitHub or Decap.
 
 # 1: Frontmatter
 
@@ -339,6 +341,8 @@ To display audio files on the website, you can use the `{{</* audio */>}}` short
 For instance, the shortcode `{{</* audio src=/audio/sync-rhythm/1-Unsyncopated.mp3 title="Unsyncopated" */>}}` will display the following output:
 
 {{< audio src=/audio/sync-rhythm/1-Unsyncopated.mp3 title="Unsyncopated" >}}
+
+You can check audio shortcodes being used in the [Note Representation](/docs/guides/gameplay-2/note-representation) guide.
 
 
 ## Callouts
