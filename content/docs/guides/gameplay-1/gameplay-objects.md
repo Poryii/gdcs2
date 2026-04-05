@@ -23,11 +23,13 @@ tags:
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
 
+
 - Gameplay objects spice up how your level plays.
 - Orbs need the player’s input to activate, while pads don’t.
 - Portals come in all shapes and sizes
 - Special letter blocks help with bugfixing but their invisibility makes them less intuitive for the player
 - The checkpoint diamond is the only object with limited usability for Platformer Mode.
+
 
 
 {{< /callout >}}
@@ -71,7 +73,7 @@ Originally proposed by OmegaFalcon, Robtop liked the idea so much that he implem
 
 {{< img src="https://lh3.googleusercontent.com/d/1KM2lrTt4XzK5WgNvdhR0GA9ZeAVOf96x" >}}
 
-* When the player holds on a **dash orb**, the player will **travel in a straight line in the direction of the orb’s arrow.** The green variants dash normally while the pink variants dash while also flipping the player’s gravity. Like the spider pad, you cannot hold your input button after
+* When the player holds on a **dash orb**, the player will **travel in a straight line in the direction of the orb’s arrow until the input is released.** The green variants dash normally while the pink variants dash while also flipping the player’s gravity. Like the spider pad, you cannot hold your input button after.
 
 {{< img src="https://lh3.googleusercontent.com/d/1l5ThioghAUOx1L_fKTKu1qKMllfgk--R" >}}
 
@@ -121,7 +123,7 @@ As of Update 2.2, there are eight gamemode portals that change the player’s ov
 * Wave: Holding midair makes the player fly at a straight 45 angle, while releasing makes the player fly 45 downwards. This creates a trail that forms a zig zag pattern.
 * Robot: You control the robot’s jump height depending on how long you. Tiny holds lead to micro jumps while long holds lead to large jumps.
 * Spider: Click to instantly switch gravity.
-* :2Point2: Swing: Acts similarly to the ball but you can click while the player is mid-air creating a curved path.
+* Swing: Acts similarly to the ball but you can click while the player is mid-air creating a curved path. (added in 2.2
 
 By default, some gamemodes are affixed to a border such as the ship and ball gamemode. If you click their Edit Object, you can enable Free Mode to remove those borders.
 
