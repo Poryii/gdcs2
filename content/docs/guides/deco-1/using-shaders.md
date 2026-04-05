@@ -10,18 +10,22 @@ contributors:
 ---
 {{< callout context="caution" title="Incomplete guide" icon="outline/info-circle" >}}
 
+
 This guide is missing the following:
 - Examples
+
 
 
 {{< /callout >}}
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+
 * Shaders are effects that cover the whole screen.
 * They can enhance your level's atmosphere and immersion, but they do not affect gameplay itself.
 * Use shaders in key moments like drops, transitions, and intensity changes to emphasize important beats in the music and structure of your level.
 * Keep effects controlled and make sure they have a clear purpose. Overusing shaders can cause lag, reduce visibility, and make your level feel messy, rather than polished.
 * You can use Shaders beyond their regular "limits" to get different effects.
+
 {{< /callout >}}
 
 - - -
@@ -47,9 +51,11 @@ Because of this, shaders should be treated as something you keep in mind through
 
 
 
+
 - Does the shader effect match the theme/mood of the music?
 - Does it improve the quality of the theme/mood?
 - Is it making the player's experience better and more immersive?
+
 
 
 {{< /callout >}}
@@ -78,11 +84,10 @@ We won't go too in-depth as we already have a guide on how to use them, but here
 
 None
 
-2. Press "Edit Object"
+2. Press "Edit Object" and edit the trigger settings respectively.
 
-None
 
-3. Change the Trigger however you like! You can also use the shader trigger (the trigger literally called shader, not to be confused with the other shader triggers.) to change what Z Layers the shader will affect!
+3. Change the Trigger however you like! There's many different options for all of the different shaders, so you can play around with them yourself to see what they do. You can also use the shader trigger (the trigger literally called shader, not to be confused with the other shader triggers.) to change what Z Layers the shader will affect!
 
 # 3. Scenarios & Techniques Involving Shaders
 
