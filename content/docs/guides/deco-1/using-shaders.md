@@ -82,7 +82,7 @@ We won't go too in-depth as we already have a guide on how to use them, but here
 
 1. Place any shader trigger, (like sepia, bulge, shockwave, etc.) found in the triggers tab (you may need to scroll a bit)
 
-None
+None (IMAGE WHERE)
 
 2. Press "Edit Object" and edit the trigger settings respectively.
 
@@ -103,13 +103,13 @@ None
 
 By using shaders during transitions, you can make a transition smoother between different sections of the level. You can change the colour hue, have a shockwave effect, or even a slight distortion to signal a shift or change in the level. This helps make the level feel more connected with the theme and the music.
 
-None
+ANDROMEDA CHROMA GLITCH TRANSITION
 
 ## Utilizing Shaders as Subtle Enhancements
 
 Instead of just relying on strong effects lasting a lifetime, shaders can be used in small amounts so you can polish up your level. For example, you can add a glitch effect to your level if there's already a kind of "glitchy vibe" to it, that slowly gets more intense over time, to give a sense of buildup throughout the level.
 
-None
+3RROR (or whatever its called)
 
 # 3: Using Shaders to Mask Certain Objects
 
