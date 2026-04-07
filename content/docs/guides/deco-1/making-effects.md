@@ -17,14 +17,9 @@ tags:
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
-
-
 - By taking full advantage of all the editor features, you can create a wide range of visual effects.
 - You can use layering tricks, visual illusions and ambiguity in order to achieve more interesting effects.
 - Having a clear idea and understanding its underlying logistics will allow you to achieve your desired effect successfully.
-
-
-
 
 {{< /callout >}}
 
@@ -200,6 +195,6 @@ Now that you know what your effect does and how it works, you should start brain
 
 # Sources
 
-* https://en.wikipedia.org/wiki/Barberpole_illusion
-* https://en.wikipedia.org/wiki/Spinning_dancer
-* https://apalmanac.com/commentary/the-simple-way-i-deal-with-sun-flare-using-canons-17mm-tilt-shift-lens-17587
+* [Barberpole illusion](https://en.wikipedia.org/wiki/Barberpole_illusion)
+* [Spinning dancer](https://en.wikipedia.org/wiki/Spinning_dancer)
+* [Sun flare](https://apalmanac.com/commentary/the-simple-way-i-deal-with-sun-flare-using-canons-17mm-tilt-shift-lens-17587)

@@ -34,24 +34,31 @@ How would you like your level to start? The **level settings** can help you set 
 {{< img src="https://lh3.googleusercontent.com/d/1YBMfoE_jAqBhOEjB5rhqUif89PEWvR3r" >}}
 
 ## Color Options
+
 At the top center of the page, you have options to change the color of the Background, Ground, Secondary Ground Color, Ground Line, Middle Ground, Secondary Middle Ground Color, and all color channels (in the more section). The plus symbols next to the labels will bring you back to the main editor screen and allow you to choose a color using a HSV slider.
 
 ## BG, G, and MG selectors
+
 To the right of the screen, there are three selectors where you can choose the starting background, ground, and the middle ground of the level. If the MG selector has a cross on it, the middle ground is removed.
 
 ## Font
+
 The font button will allow you to scroll through and select a font used in the level’s text objects. There are currently 60 fonts to choose from.
 
 ## Speed
+
 Here you can select the starting speed of the level. There are five different speeds to choose from.
 
 ## Mode
+
 Here you can select the starting gamemode of the level. There are eight gamemodes to choose from.
 
 ## Game Type
+
 Game Type allows you to choose between classic mode and platformer mode for your level. Note that the wave and swing game modes are disabled for platformer mode.
 
 ## Select Song
+
 Select the starting song for the level from the list of default songs or [use a custom song](/docs/guides/the-editor/choosing-a-song).
 
 ## Options

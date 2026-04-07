@@ -55,7 +55,7 @@ The image below shows an example of spawn branching. The number above each trigg
 
 Note that as of Update 2.2, triggers *can* be updated multiple times per frame, but ONLY if they don't activate other triggers. This means that merged branches need to activate a Condition trigger before activating others, or you may risk duplicating the same actions on accident.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1AaDvKgd9e7Wk4Kuk6qrrI_tRUO9JRxsm" >}}
 
 This is most useful when making OR gates, which you’ll learn more about in a later guide.
 

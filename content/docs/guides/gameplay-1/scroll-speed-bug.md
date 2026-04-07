@@ -87,10 +87,10 @@ A very extreme example of this is Unknown Processing by MagicTabLordGD, where th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nlFyXTnNy24" frameborder="0" allowfullscreen></iframe>
 
-A more practical example is this showcase of Blast Processing at 75000 FPS: https://youtu.be/rw5l_NNI-Ic >}} si=2CTlELZb19qt7sTL
+A more practical example is this showcase of [Blast Processing at 75000 FPS](https://youtu.be/rw5l_NNI-Ic).
 
 Here, you can see the effects you will most likely encounter:
-- Increase in speed: SSB can sometimes increase the speed of the player, allowing them to jump farther than expected. Here’s an example: <https://youtu.be/2NFb2StSFN4 >}}
+- Increase in speed: SSB can sometimes increase the speed of the player, allowing them to jump farther than expected. [Here’s an example.](https://youtu.be/2NFb2StSFN4)
 - Slowing down: Same as the above, but you instead slow down on the speed that you are on, causing you to jump in awkward trajectories
 - Wave wonkiness: This is just 2 effects on the wave, which is shown below.
 

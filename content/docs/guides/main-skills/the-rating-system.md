@@ -60,7 +60,7 @@ As the official Rating System guide already covers the technical side of the pro
 
 Assuming that you’ve already uploaded your level publicly as per the [Sharing Levels](<https://discord.com/channels/414295025883545600/1083167651041390704/1083167651041390704>) guide, your level will be unrated :NA:. Every level ever made and will be made goes through this stage. It’s the common denominator that ties every single uploaded level, whether it’s a serious project, a collab part, a gift, or a complete joke. This is similar to how businesses do a product launch.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1fGeZpIGKaFXHbDLg1_MpVuRlzhDP-zjg" >}}
 
 ## Stage 2: Growth
 
@@ -68,7 +68,7 @@ Assuming that you’re new to creating and this uploaded level is your first tim
 
 Other players will play your level and have the ability to rate the difficulty of that level, converting the NA face to a different difficulty face. This ranges from Easy to Insane difficulty :Easy: :Insane:.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1DRBLbY8a8fvldwVgJe8o5mp9YwblY_gq" >}}
 
 After some time, your level may get noticed by the public as shown by the increasing download count and sometimes the like/dislike count. But there are moderators who can officially give your levels a rate. How do you reach out to them and send your ID? There are three possible ways:
 

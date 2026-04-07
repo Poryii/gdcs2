@@ -41,23 +41,23 @@ Perhaps the most common visual bug that exists, layering bugs occur when objects
 
 One such example is in Hypersonic by Viprin and more, as shown below - the glow on top of the 3DL is above the player, but the rest of the decoration is below.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1-I3pWAY07dN2Bhs1Q7zoOuWPnbnZsgdZ" >}}
 
 ## Group Conflicts
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/10Ii5-FtRgZo50Y_IFuv15bT4P5EQVzWU" >}}
 
 When combining sections of a level, you have to make sure that all your groups still do what you intend them to do. If you copy a group to later in the level, all the prior triggers will apply and ruin the intended effect. In the above example, the decoration was added to a group that completely messed up everything's appearance.
 
 ## Screen Size
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1ck1CalZ6t9rMCbYFubY6FeaiaFCYs4H3" >}}
 
 When you build levels, there’s no reason to build outside what the camera sees, since it isn’t seen by the player. However, if the camera shows more than what you built, it’ll pick up all the rough edges in your detailing. The above image is an example of this: the bottom of the structure is in view, which breaks the immersion.
 
 Camera culling is a particularly nasty issue where scaled-up objects will disappear when close to the side of the screen. This is because even though they are in view, their object coordinates are out of view, so the game does not display them. This is particularly noticeable in Dark Travel by JonathanGD, where the rightmost objects in the glow overlay aren’t rendered by the game.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1f1bDDHL_KuwERZcBvsNnPOA2dVxRhf0X" >}}
 
 Note that when playing a level, you don’t often look at the edges of the screen. Furthermore, your game aspect ratio might hide bugs that other players will see. So be careful, and look at the edges of your screen for bugs too.
 
@@ -67,7 +67,7 @@ Sometimes, objects that look fine in the editor may break in-game, and moving ob
 
 The image below is an example of this, where the curve is clearly misaligned, but it looks alright when zoomed out in the editor. Always playtest your work in-game so you can pay attention to these issues.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1ubp6_-ftn73Vih7_ljemWl3_VAE5wBOb" >}}
 
 # 3: Messy Decoration
 
@@ -80,7 +80,7 @@ When you have a lot of detailed objects but not a lot of color contrast, you'll 
 
 One example of messiness caused by a lot of detail is Viper Arctarus's part in Plummet, as shown below.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1QoZs9WFsc2iF5qUKLsQ3F1-pnhUDmK-y" >}}
 
 ## Overscaled Objects
 
@@ -88,10 +88,12 @@ Objects in Geometry Dash are just images with a certain resolution. Because of t
 
 In the image below, a glow piece is scaled up such that these pixels are visible, and as a result it looks unpolished and messy. You can mitigate the effects of something like this by using smaller objects to make large ones instead.
 
-None
+{{< img-grid >}}
+{{< img src="https://lh3.googleusercontent.com/d/1d6f3FlC0Wbch88ZKhQdWCdI6SQJNoJ5z" >}}
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/172sMv96AAfIke-fRsAwGfQaoGd4Nj64f" >}}
+{{< /img-grid >}}
 
 Of course, sometimes this spastic, random look is desirable, seen in levels such as False Horizon by lumpy. Only use this if it directly works with what you want.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1jElAjjAt4hLJTbv2erIXEUXHb3tR2vCl" >}}

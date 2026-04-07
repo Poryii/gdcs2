@@ -54,13 +54,13 @@ Here are some examples of connectors in action.
 
 As you can see, the dark rocks between the blocks connect most of them together.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1U3oleawma0UH47gU3GBogolWhmW1qBt9" >}}
 
 {{< youtube RiO5NKovWc0 >}}
 
 The glowing squares connect the top cluster of blocks to the one on the bottom. Additionally, the white lines connect the saws to the blocks.
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1DCQw161ABC3QLZC4VmP7dAy1MjZKQHer" >}}
 
 # 4: Particles
 
@@ -75,11 +75,14 @@ An example from Geometry Dash is `White Space` by `Xender Game` . You’ll notic
 
 Here are some examples from other levels.
 
-{{< youtube qJYBhbJrQBY >}} The most noticeable particles here are the small rocks that float by the player. However, some other small particles and effects show up in the part too. Notice that fire follows the player whenever they touch a block. It’s a very subtle effect because you’ll rarely be in contact with the ground, but it exists nonetheless.
+{{< youtube qJYBhbJrQBY >}}
+
+The most noticeable particles here are the small rocks that float by the player. However, some other small particles and effects show up in the part too. Notice that fire follows the player whenever they touch a block. It’s a very subtle effect because you’ll rarely be in contact with the ground, but it exists nonetheless.
 
 Additionally, notice that the rocks tend to move and rotate at different speeds. This is also subtle but it makes the part feel a lot more dynamic than it otherwise would. Variety like this will make your particles look and feel a lot better, so be sure to use principles like trigger stacking to your advantage.
 
 {{< youtube bM6V_JeSmeg >}}
+
 Two minutes and nine seconds in, you can see particles that are used for specific visual effects. Leaves fall from the trees, and stars shoot out of each pad when they’re touched. This is another example where the variety helps make the part look more interesting.
 
 # 5: Overlays
@@ -97,8 +100,10 @@ When making overlays, make sure they stay as a minor detail. They shouldn’t ov
 Here are some examples from other levels.
 
 {{< youtube hpcJFK6iSvM >}}
+
 Twenty-nine seconds in, there’s a strong glow overlay on the screen. This is somewhat foggy; the other details on the screen, like the bubbles, make it clear that this part is supposed to be underwater.
 
 {{< youtube EmKT01hDUyY >}}
+
 You most certainly can see the overlay in this part, but you may not be able to tell what it’s made of. Here, there’s a combination of gradient lines and large cloud objects, all of which are on low opacity. Occasionally a spiral saw object is also used on a pulse. Finally, there’s a glow overlay which makes the part feel very bright.
 

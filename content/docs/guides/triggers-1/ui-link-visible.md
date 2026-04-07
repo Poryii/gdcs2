@@ -64,5 +64,5 @@ For this to work you must have an object that can be rendered at all times actin
 
 {{< img src="https://lh3.googleusercontent.com/d/1h1uzq50hxcVEZnXXbn767UvAd-H7s-Ls" >}}
 
-The scaled-up object will remain rendered until the reference block goes off the screen. You can add more reference blocks to continue rendering the scaled object. __Once the trigger is activated it cannot be stopped. __
+The scaled-up object will remain rendered until the reference block goes off the screen. You can add more reference blocks to continue rendering the scaled object. __Once the trigger is activated it cannot be stopped.__
 

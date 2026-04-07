@@ -167,9 +167,6 @@ The {{< img src="images/GDEmotes/Triggers/Shake.png" class="emote">}} **Shake** 
 
 Shake triggers can be used to *exaggerate impact*, or emphasize a buildup with drums. You can also use it to add ambience to your scene. For playability in lower end devices, there is an option to **Disable Shake**.
 
+**Video:**
 
-
-**Video:** [Use 2.2 Camera Triggers CORRECTLY! (Tutorial)](https://youtu.be/Ib63PvOkxUY >}} si=e-_wO79iRmVJrAfp)
-
-
-
+{{< youtube Ib63PvOkxUY >}}
