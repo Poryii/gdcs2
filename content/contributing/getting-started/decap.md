@@ -1,24 +1,28 @@
 ---
 draft: false
-title: Decap
-weight: 200
-date: 2026-03-23T00:00:00.000Z
-description: Decap CMS is a Git-based content management system. It provides a web interface that lets you edit files in the repository without working directly with Git. Here we'll cover how to use it in order to make contributing easier for everyone.
 authors:
   - komatic5
   - chuckolate
+title: Decap
+weight: 200
+date: 2026-03-23T00:00:00.000Z
 contributors:
   - komatic5
   - chuckolate
+description: Decap CMS is a Git-based content management system. It provides a
+  web interface that lets you edit files in the repository without working
+  directly with Git. Here we'll cover how to use it in order to make
+  contributing easier for everyone.
 tags:
   - Contributing
 ---
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
+
 * How to use [Decap CMS](https://decapcms.org/) to make changes to the site.
 
-{{< /callout >}}
 
+{{< /callout >}}
 
 # 1: Interface
 
@@ -26,7 +30,7 @@ While on the website or localhost, navigate to [https://www.gdcreatorschool.com/
 
 {{< img src="https://lh3.googleusercontent.com/d/1sZ42lbtjHN7nDrG2tUmrJuqhqMdRHOTi" >}}
 
-You have to log with your Github account, and authorize the CMS.
+You have to log with your Github account and authorize the CMS.
 
 {{< img src="https://lh3.googleusercontent.com/d/1xkdfNlHFNOLFbDKYrr-VkKDVgdUZadCi" >}}
 
@@ -38,7 +42,7 @@ Clicking on a unit will bring up all guides in that unit.
 
 {{< img src="https://lh3.googleusercontent.com/d/1X2HZ_cl-p7pe1sSBegHZkg78Z2h8Ohza" >}}
 
-Clicking on a guide brings up the editing menu, which lets you make changes to guides. The right side is a **preview panel**, while the left side is the **editing panel** where you can make changes. Each section of the editing pannel corresponds to an attribute in the guide's **frontmatter**, check the [Formatting](/contributing/guidelines/formatting) guide to understand what is the frontmatter, and what each attribute does.
+Clicking on a guide brings up the editing menu, which lets you make changes to guides. The right side is a **preview panel**, while the left side is the **editing panel** where you can make changes. Each section of the editing panel corresponds to an attribute in the guide's **frontmatter**, check the [Formatting](/contributing/guidelines/formatting) guide to understand what the frontmatter is and what its attributes do.
 
 {{< img src="https://lh3.googleusercontent.com/d/1Ndw25njEufbpMUPWzyou05Pselsfr_VW" >}}
 
