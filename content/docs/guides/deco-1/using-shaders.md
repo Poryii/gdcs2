@@ -1,14 +1,16 @@
 ---
 draft: false
 title: Using Shaders
-date: 2026-03-29T00:00:00.000Z
 weight: 5125
+date: 2026-03-29T00:00:00.000Z
 authors:
   - poryii
 contributors:
   - poryii
+description: learning how to use shaders
 ---
 {{< callout context="caution" title="Incomplete guide" icon="outline/info-circle" >}}
+
 
 
 This guide is missing the following:
@@ -16,15 +18,18 @@ This guide is missing the following:
 
 
 
+
 {{< /callout >}}
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
+
 
 * Shaders are effects that cover the whole screen.
 * They can enhance your level's atmosphere and immersion, but they do not affect gameplay itself.
 * Use shaders in key moments like drops, transitions, and intensity changes to emphasize important beats in the music and structure of your level.
 * Keep effects controlled and make sure they have a clear purpose. Overusing shaders can cause lag, reduce visibility, and make your level feel messy, rather than polished.
 * You can use Shaders beyond their regular "limits" to get different effects.
+
 
 {{< /callout >}}
 
@@ -52,9 +57,11 @@ Because of this, shaders should be treated as something you keep in mind through
 
 
 
+
 - Does the shader effect match the theme/mood of the music?
 - Does it improve the quality of the theme/mood?
 - Is it making the player's experience better and more immersive?
+
 
 
 
@@ -82,11 +89,13 @@ We won't go too in-depth as we already have a guide on how to use them, but here
 
 1. Place any shader trigger, (like sepia, bulge, shockwave, etc.) found in the triggers tab (you may need to scroll a bit)
 
-None (IMAGE WHERE)
+None 
+
+![](/images/screenshot-2026-04-07-at-10.52.13 pm.png)
+
+
 
 2. Press "Edit Object" and edit the trigger settings respectively.
-
-
 3. Change the Trigger however you like! There's many different options for all of the different shaders, so you can play around with them yourself to see what they do. You can also use the shader trigger (the trigger literally called shader, not to be confused with the other shader triggers.) to change what Z Layers the shader will affect!
 
 # 3. Scenarios & Techniques Involving Shaders
