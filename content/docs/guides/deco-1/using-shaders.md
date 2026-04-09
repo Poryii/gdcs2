@@ -155,7 +155,7 @@ This is just one example, and I highly suggest playing around with gradients so 
 
 This mask acts like an alpha trigger but makes it so that objects don't overlap.
 
-None
+ {{< img src="https://lh3.googleusercontent.com/d/14_kaYx9uTyo_Qe332VolPqY0gHlia7nR" >}}
 
 As you can see, the objects on the left don't overlap with eachother, unlike the objects on the right. Due to the fact that motion blur spaces out the blurs by the z layer on the x and y axis, if we just scale it up to something like 10000, the blurring effect will disappear, giving us the opaque object. This is because motion blur lowers the opacity of the objects based on the intensity, and also makes it so that any overlapping objects don't have the "overlapping" effect a standard alpha trigger would give. This mask is best used when there are many details in your level, just like Aperture.
 
