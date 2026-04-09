@@ -15,8 +15,10 @@ description: learning how to use shaders
 
 
 
+
 This guide is missing the following:
 - Examples
+
 
 
 
@@ -30,11 +32,13 @@ This guide is missing the following:
 
 
 
+
 * Shaders are effects that cover the whole screen.
 * They can enhance your level's atmosphere and immersion, but they do not affect gameplay itself.
 * Use shaders in key moments like drops, transitions, and intensity changes to emphasize important beats in the music and structure of your level.
 * Keep effects controlled and make sure they have a clear purpose. Overusing shaders can cause lag, reduce visibility, and make your level feel messy, rather than polished.
 * You can use Shaders beyond their regular "limits" to get different effects.
+
 
 
 
@@ -68,9 +72,11 @@ Because of this, shaders should be treated as something you keep in mind through
 
 
 
+
 - Does the shader effect match the theme/mood of the music?
 - Does it improve the quality of the theme/mood?
 - Is it making the player's experience better and more immersive?
+
 
 
 
@@ -120,7 +126,7 @@ None
 
 By using shaders during transitions, you can make a transition smoother between different sections of the level. You can change the colour hue, have a shockwave effect, or even a slight distortion to signal a shift or change in the level. This helps make the level feel more connected with the theme and the music. Here is an example of a chromatic glitch enhancing a transition in the level Andromeda by Inxane97, at 0:49.
 
-{{< youtube fFtQxxepyDo?t=49s >}}
+{{< youtube id="fFtQxxepyDo" start="49" >}}
 
 ## Utilizing Shaders as Subtle Enhancements
 
@@ -174,7 +180,7 @@ For example, the 3 images below show the before and after of using an edit colou
 
 {{< img src="https://lh3.googleusercontent.com/d/1M9IMZb0QkZmr9cc6oOGs5aoSiJlAQ8i7" >}}
 
-{{< img src="https://lh3.googleusercontent.com/d/1M9IMZb0QkZmr9cc6oOGs5aoSiJlAQ8i7" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1lJW1OVSyr6Dy7b2urTiYBVoXDe-TNPSC" >}}
 
 {{< /img-grid >}}
 
