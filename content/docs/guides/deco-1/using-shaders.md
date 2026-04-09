@@ -182,6 +182,8 @@ For example, the 3 images below show the before and after of using an edit colou
 
 {{< img src="https://lh3.googleusercontent.com/d/1lJW1OVSyr6Dy7b2urTiYBVoXDe-TNPSC" >}}
 
+{{< img src="https://lh3.googleusercontent.com/d/1XZeH6jYLxRIFilIO1tYZwqvvjj59aH3f" >}}
+
 {{< /img-grid >}}
 
 ## Colour Banding Gradient Effect
