@@ -145,6 +145,12 @@ This short video explains how it works in more depth.
 
 By using a Gradient Trigger, you can do all sorts of things, including additive, inversion, and multiply effects. Anything under the gradient will be affected, and it requires 3-4 points set to different Group IDs. (To create a shape) Also note that some gradient effects aren't compatible with shaders, like invert gradient with lens circle. Although it isn't a shader, it can be used alongside them, serving as a useful tool, if needed.
 
+For example, you could use a gradient trigger set to the invert setting to create a invert colour mask on a specific z layer by using 2 different gradients, where one gradient is on a higher layer (actually affecting the objects) and the other is on a lower z layer, (reinverting the background and everything else normal) which makes it so that only one z layer is actually affected, like this:
+
+{{< youtube cgXTq9ZXJjw >}}
+
+This is just one example, and I highly suggest playing around with gradients so you can understand them better, and to get the hang of them.
+
 ## Motion Blur Opacity Control Mask
 
 This mask acts like an alpha trigger but makes it so that objects don't overlap.
