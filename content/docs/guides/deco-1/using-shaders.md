@@ -165,6 +165,10 @@ But you may have noticed that the colours look "washed out," or desaturated. Thi
 
 Saturation Boosting will be very beneficial for the next example and the example before. By using a Sepia, Grayscale, or Edit Color Shader, you can boost the saturation of any object on a z layer by pushing their values over 1. It's most useful when you feel like an object is washed out, or when other shader effects unintentionally lower the saturation of an object.
 
+For example, the 3 images below show the before and after of using an edit colour saturation booster, combined with the motion blur opacity mask.
+
+
+
 ## Colour Banding Gradient Effect
 
 Although this effect isn't very well known, it's actually used in levels like Eta Carnis. By using a gradient trigger and setting one colour pitch black (0, 0, 0,) and the other one to some very dark color that tints toward one colour, (eg. 8, 7, 7, where 8 would be the color that it's tinted towards.) we can add a saturation booster which boosts the saturation of the colour that it's tinted towards, (In this case red.) and keep the other one pitch black. (As 0, 0, 0, saturation boosted is still the same)
