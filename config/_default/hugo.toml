@@ -84,7 +84,7 @@ copyRight = "Copyright (c) 2026 Geometry Dash Creator School"
   keepWhitespace = false
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 12
 
 [related]
   threshold = 80

@@ -21,9 +21,9 @@
   </div>
 </div>
 <div class="row justify-content-center">
-  <div class="col-lg-9">
     {{ $paginator := .Paginate (.Data.Pages) -}}
     {{ range $paginator.Pages -}}
+    <div class="col-16 col-lg-8">
       <div class="card mt-2">
         {{ if site.Params.doks.imageList -}}
           {{- $images := .Resources.ByType "image" -}}
@@ -50,6 +50,7 @@
             {{ partial "main/contributor-blog-meta.html" . -}}
           </article>
         </div>
+      </div>
       </div>
     {{ end -}}
   </div>
