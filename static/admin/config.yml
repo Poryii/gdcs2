@@ -69,7 +69,7 @@ fields: &page_fields
     hint: "Pages with high weight will display below pages with low weight.\nLook at other guides in this folder to see where to place your own." }
   - { label: Date, name: date, widget: datetime, time_format: false, format: "YYYY-MM-DD",
     hint: “The date when the guide is published and becomes public.” }
-  - { label: Description, name: description, widget: string,
+  - { label: Description, name: description, widget: markdown,
     hint: "Short introduction about the contents of the guide." }
   - { label: Tags, name: tags, widget: list, field: *tags,
     hint: "The categories where the guide most aligns to." }

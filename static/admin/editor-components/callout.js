@@ -8,7 +8,7 @@ CMS.registerEditorComponent({
     { name: 'body', label: 'Content', widget: 'markdown', required: false }
   ],
 
-  pattern: /{{< callout context="(\S+)" title="([\s\S]+?)" icon="(\S+)" >}}([\s\S]+?){{< \/callout >}}/s,
+  pattern: /{{<\s*callout\s+context\s*=\s*"(\S+)"\s+title\s*=\s*"([\s\S]+?)"\s+icon\s*=\s*"(\S+)"\s*>}}([\s\S]+?){{<\s*\/callout\s*>}}/s,
 
   fromBlock: function(match) {
     return {

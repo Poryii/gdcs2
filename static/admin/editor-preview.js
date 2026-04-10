@@ -29,6 +29,16 @@ const PostPreview = createClass({
       }
     );
 
+    // {{< img-grid >}} shortcode styling
+    body = body.replace(/{{<\s*img-grid\s*>}}\s*([\s\S]*?)\s*{{<\s*\/img-grid\s*>}}/gs,
+      (match, content) => {
+        return `<div class="container-fluid" style="width:50%; height:auto;">
+            <div class="d-flex justify-content-center" style="width: 100%">
+                ${content}
+              </div>
+          </div>`;
+    });
+
     // {{< youtube >}} shortcode styling
     body = body.replace(/{{<\s*youtube\s+([^>]+)\s*>}}/g, (match, attrs) => {
         attrs = attrs.trim();
