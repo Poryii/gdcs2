@@ -46,7 +46,7 @@ Pacing is critical to inducing flow and getting and maintaining the player’s a
 As you may expect, the prior factors – clear goals, rapid feedback, and adequate challenge – are important to develop good pacing at this stage. However, there are some other factors that are important for micro flow.
 
 * **Rhythm:** Try to design the level’s clicks to fit a pattern. Repetition is a powerful tool that makes the brain more responsive to flow. It’s also part of why sync is so effective, but that’s a discussion for the Sync & Rhythm guide.
-* **Encouragement**: Your level should give the feeling whatever is done makes a sense of progression. This means that as the level creator, you can sometimes cheat the player a little bit and give them more room for error. This will be discussed more in the Fairness guide.
+* **Encouragement**: Your level should give the feeling whatever is done makes a sense of progression. This means that as the level creator, you can sometimes cheat the player a little bit and give them more room for error. This will be discussed more in the [Fairness](/docs/guides/gameplay-2/fairness/) guide.
 * **Positive Feedback:** Making the player feel good will keep them coming back in the short term. In your level, you can use visuals like decorations that respond to the player and encourage them. This will once again be discussed in-depth in the future.
 
 # Sources
