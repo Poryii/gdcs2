@@ -1,34 +1,31 @@
 ---
 draft: false
+authors:
+  - poryii
 title: Using Shaders
 weight: 5125
 date: 2026-03-29T00:00:00.000Z
-authors:
-  - poryii
 contributors:
   - poryii
-description: learning how to use shaders
+description: "This guide explains different shader usages, and when to apply them. "
+tags:
+  - Grade 1
+  - Visual Effects
 ---
 {{< callout context="caution" title="Incomplete guide" icon="outline/info-circle" >}}
-
 
 This guide is missing the following:
 
 * Proofreading
 
-
 {{< /callout >}}
 
 {{< callout context="note" title="TLDR - What this guide covers" icon="outline/info-circle" >}}
 
-
-* Shaders are effects that cover the whole screen.
-* They can enhance your level's atmosphere and immersion, but they do not affect gameplay itself.
+* Shaders can enhance your level's atmosphere and immersion, but they do not affect gameplay itself.
 * Use shaders in key moments like drops, transitions, and intensity changes to emphasize important beats in the music and structure of your level.
 * Keep effects controlled and make sure they have a clear purpose. Overusing shaders can cause lag, reduce visibility, and make your level feel messy, rather than polished.
-* You can use Shaders beyond their regular "limits" to get different effects.
-* Learning how to use different shader masks and gradients
-
+* You can use shaders beyond their regular "limits" to get different effects.
 
 {{< /callout >}}
 
@@ -53,34 +50,9 @@ Because of this, shaders should be treated as something you keep in mind through
 
 {{< callout context="caution" title="Ask yourself these 3 questions:" icon="outline/info-circle" >}}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 - Does the shader effect match the theme/mood of the music?
 - Does it improve the quality of the theme/mood?
 - Is it making the player's experience better and more immersive?
-
-
-
-
-
-
-
-
-
-
-
-
 
 {{< /callout >}}
 
@@ -200,8 +172,6 @@ This creates a banding effect, despite being just one gradient trigger. It's a t
 
 {{< youtube id=LNMpe_BXtQM start=56 >}}
 
-An example of this banding effect being used in Eta Carnis.
-
-You might not see it at first, but the colour banding is used for the background of this part (Screenshot of it below)
+An example of this banding effect being used in Eta Carnis. You might not see it at first, but the colour banding is used for the background of this part (Screenshot of it below)
 
 {{< img src="https://lh3.googleusercontent.com/d/1kxYleL1JM1TMxV_CXw0rHOBDh9cuCNfu" >}}
