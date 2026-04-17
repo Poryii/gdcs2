@@ -136,7 +136,7 @@ Like we've said before, shaders are most effective when used in specific situati
 
 ## Treating Shaders as Pulses
 
-Shaders can be used to create quick pulses that sync on beat with the music, and it's actually very simple to set up. For example, you can combine a radial blur with a lens circle with the colour black, and set them up like this, acting as a "pulse trigger" while still having a unique effect that a pulse trigger couldn't set up.
+Shaders can be used to create quick pulses that sync on beat with the music, and it's actually very simple to set up. For example, you can combine a radial blur with a lens circle with the colour black, and set them up like this, acting as a "pulse trigger" while still having a unique effect that a pulse trigger couldn't set up. Take Nullscapes for example. It uses radial blur to simulate a pulse 
 
 None
 
@@ -225,8 +225,8 @@ This creates a banding effect, despite being just one gradient trigger. It's a t
 
 {{< youtube ?v=LNMpe_BXtQM&t=56s >}}
 
-An example of this banding effect being used in Eta Carnis 
+An example of this banding effect being used in Eta Carnis.
 
 You might not see it at first, but the colour banding is used for the background of this part (Screenshot of it below)
 
-{{< img src="https://lh3.googleusercontent.com/d/" >}}
+{{< img src="https://lh3.googleusercontent.com/d/1kxYleL1JM1TMxV_CXw0rHOBDh9cuCNfu" >}}
