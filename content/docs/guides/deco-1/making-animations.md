@@ -10,6 +10,7 @@ contributors:
   - komatic5
   - yoreid
   - poryii
+  - l.ucs
 tags:
   - Grade 1
   - Deco Skills
@@ -26,7 +27,7 @@ tags:
 ** **
 # 1: X and Y movement
 
-Although these two forms of movement are essentially the same, it is very useful to imagine them as separate elements that should not be done by the same move triggers. If the animation includes complex movement in both the X and Y direction, try to imagine the animation only in terms of its movement from side to side and then make move triggers that accomplish that motion. Afterwards, imagine it in terms of vertical motion and make a second set of triggers that cause that motion. While this simplifies planar motion down a good amount, there still are many ways you can go about it because of the many easings that move triggers have. Understanding what each easing actually means will reveal a lot about when and where they should be used in animating.
+Although these two forms of movement are essentially the same, it is very useful to **imagine them as separate elements that should not be done by the same move triggers**. If the animation includes complex movement in both the X and Y direction, try to imagine the animation only in terms of its movement from side to side and then make move triggers that accomplish that motion. Afterwards, imagine it in terms of vertical motion and make a second set of triggers that cause that motion. While this simplifies planar motion down a good amount, there still are many ways you can go about it because of the many easings that move triggers have. Understanding what each easing actually means will reveal a lot about when and where they should be used in animating.
 
 - **None:** Good for robotic motion, but try not to default to this for easing unless it is for movement that is very fast and brief.
 
@@ -34,7 +35,8 @@ Although these two forms of movement are essentially the same, it is very useful
 
 - **Ease Out:** It is best not to use this easing almost ever, as RobTop seems to have programmed it incorrectly so that it forms a square root graph instead of a negative quadratic graph, so the movement ends up looking very choppy and unnatural.
 
-> (NOTE: If you need to animate using a proper 'ease out' trigger, try instead combining two triggers together, one using a 'none' easing and DOUBLE the distance you want, the other using 'ease in' with the NEGATIVE of the distance you want)
+{{< callout context="caution" title="Note: If you need to animate using a proper 'ease out' trigger, try instead combining two triggers together, one using a 'none' easing and DOUBLE the distance you want, the other using 'ease in' with the NEGATIVE of the distance you want." icon="outline/info-circle" >}}
+{{< /callout >}}
 
 - **Elastic In/Out:** This is a bizarre easing, it seems to be a combination of sine waves depending on the easing value you give it. Either way it doesn't have many uses that other easings don't already do better.
 
@@ -52,11 +54,11 @@ Rotating in animation is not as complex as other aspects, but it is still import
 
 # 3: Frame by Frame
 
-This is where animation can get interesting, as frame by frame theoretically allows limitless visual manipulation. Frame by frame is used when there is certain movement that can't be accomplished with normal triggers, such as objects morphing into different shapes, changing size, or tracing paths that are too complicated to do normally. Normally frame by frame is done by making objects or sets of objects assigned to different groups where each is toggled on and off one after the other, but there are of course other ways to do it, like color channels or move triggers with 0 duration.
+This is where animation can get interesting, as frame by frame theoretically allows limitless visual manipulation. **Frame by frame is used when there is certain movement that can't be accomplished with normal triggers**, such as objects morphing into different shapes, changing size, or tracing paths that are too complicated to do normally. Normally frame by frame is done by making objects or sets of objects assigned to different groups where each is toggled on and off one after the other, but there are of course other ways to do it, like color channels or move triggers with 0 duration.
 
 When using frame by frame, it is best to take advantage of the techniques used in animation outside Geometry Dash. A notable one is smear frames, where an object will briefly appear stretched out as it travels very fast. Another technique is giving objects a two or three frame loop that changes the shape or outside of it ever so slightly to make it look more alive.
 
-Of course, a major drawback to frame by frame is it can be incredibly object heavy, because each frame is its own set of objects while being on the screen for intervals less than a fraction of a second. When using this, make sure the object being animated is as heavily optimized as it can be, and make sure you only have as many frames as you need. A good rule of thumb is to space each frame apart by about 0.06 seconds, as it is a nice compromise between 24 and 12 fps animation. Of course spacing between frames can vary for each frame, as doing this allows tweaking the easing of frame by frame artificially, but generally speaking: anything slower looks choppy, and anything faster is unnecessary.
+Of course, a major drawback to frame by frame is it can be incredibly object heavy, because each frame is its own set of objects while being on the screen for intervals less than a fraction of a second. When using this, **make sure the object being animated is as heavily optimized as it can be, and make sure you only have as many frames as you need**. A good rule of thumb is to space each frame apart by about 0.06 seconds, as it is a nice compromise between 24 and 12 fps animation. Of course spacing between frames can vary for each frame, as doing this allows tweaking the easing of frame by frame artificially, but generally speaking: anything slower looks choppy, and anything faster is unnecessary.
 
 # 4. Using Keyframes
 Keyframes can heavily enhance your animations, as it is easy to get the hang of, and using them is quite simple.
@@ -68,12 +70,13 @@ Keyframes are also more viable and easier to use than the standard move/rotate t
 ## How to use Keyframes
 - First, let's lay out the way we want the animation to look. This is what I did, but you can make your keyframes in any way you like.
 
-None (show a layout of keyframes that move a block)
+{{< img src="https://lh3.googleusercontent.com/d/1yjptIfJ9wx0qdEaT0oN4ddYTIWUlVg53" >}}
+
 - Then, we can give the object that is going to be animated a Group ID, and give the keyframes a separate group id.
 - We can place a Keyframe Trigger, and edit it so that the Animation ID is the same group ID as the Keyframes, and the target ID is the block we are trying to move.
-
-None (show keyframe trigger settings)
 - Now, you can change the keyframe settings and add more, if you need.
+
+{{< youtube te5MnUZs8is >}}
 
 ## Important Things to Note:
 
