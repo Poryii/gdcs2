@@ -1,14 +1,16 @@
 ---
 draft: false
+authors:
+  - illusion2
 title: Using Gamemodes
 weight: 4010
 date: 2025-03-01T00:00:00.000Z
-description: Choosing gamemodes and gameplay elements for your levels is an important process, but one which many people mess up nonetheless. This guide will prepare you to use gamemodes properly.
-authors:
-  - illusion2
 contributors:
   - komatic5
   - illusion2
+description: Choosing gamemodes and gameplay elements for your levels is an
+  important process, but one which many people mess up nonetheless. This guide
+  will prepare you to use gamemodes properly.
 tags:
   - Grade 1
   - Gameplay Basics
@@ -123,7 +125,7 @@ This is the most snappy air gamemode, apart from Wave which is a whole other sto
 * Dies when hitting everything except for the camera border grounds
 * Nothing changes as speed increases
 
-None
+{{< img src="https://lh3.googleusercontent.com/d/1H-4MFWGHdww5GlyRZHBzY3RPTiN0IojH" >}}
 
 This is one the snappiest gamemode with air control, instantly changing direction when the player holds or releases. Due to the insanely fast response and the air control, this is also known to be one of the most precise and difficult gamemodes to play. The trail behind the Wave is a consistent line, which helps create repetition like the Ball gamemode. It can be used in parts that have high speeds or in parts that require control in a sharper way than the Ship. Be careful of combining it in high speeds with other gamemodes though; because it has no physics and travels in straight lines, it can very easily disrupt the flow of a part and feel extremely jarring. Because nothing changes as the speed increases, inputs have to be much more precise at high speeds; you don’t get any additional leeway like other gamemodes.
 
