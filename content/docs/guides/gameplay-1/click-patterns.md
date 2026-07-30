@@ -11,4 +11,8 @@ tags:
   - Grade 1
   - Gameplay Basics
 ---
-placeholder so i can save
+# 1. What is a Click Pattern?
+
+When making a gameplay for a level in Geometry Dash, you must think about the Click Pattern. So, what is a click pattern? A click pattern is the sequence of clicks or taps required for the player to beat the level. (Or a part of it.)
+
+## Why Click Patterns Matter
