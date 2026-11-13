@@ -26,6 +26,12 @@ Every layout should start as a basic idea, but triggers can take it a step furth
 
 Triggers like Move Triggers, Toggle Triggers, Keyframes, or even Teleport triggers can be essential in your gameplay depending on what you want to do. For example, you can make a cool gimmick where objects move to the beat (maybe add falling up as example idk at the beginning the things move i think) with a simple Move Trigger. Keyframes allow you to do things like curved dash orbs, or even make custom movements that a normal Move Trigger couldn't give you. 
 
+
+
+custom dash orb example rahh
+
+{{< youtube 6tNfwuBBEdw&t=17 >}}
+
 move trigger or shilike that maybe even keyframe for better movement + teleport i think, also yap about mechanics or sum shi idk for toggle orbs
 
 # 3. Camera Movements
